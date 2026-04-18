@@ -52556,9 +52556,9 @@
       "name": "Tenebraum Adventure Log",
       "parent": 24201,
       "increase_wp": 1,
-      "need_count": 25,
+      "need_count": 9,
       "increase_wp_2": 1,
-      "need_count_2": 25,
+      "need_count_2": 9,
       "knowledge_entries": [
         {
           "id": 14432,
@@ -52623,9 +52623,9 @@
       "name": "Zephyros Adventure Log",
       "parent": 24201,
       "increase_wp": 1,
-      "need_count": 25,
+      "need_count": 13,
       "increase_wp_2": 1,
-      "need_count_2": 25,
+      "need_count_2": 13,
       "knowledge_entries": [
         {
           "id": 14383,
@@ -80579,7 +80579,8 @@
           "icon_image": "knowledgeIcons/ic_00405",
           "db_type": "knowledge"
         }
-      ]
+      ],
+      "hidden": true
     }
   ],
   "status": {
