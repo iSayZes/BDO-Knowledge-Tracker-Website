@@ -33092,7 +33092,19 @@
     [80678, 88592],
     [[57230, "Knowledge", 13010, "The Quest for Power", "<span style=\"color: #f3d900\">Can be obtained through [Interaction]</span>", "18,301"]]
   ],
-  [[80096, 71154], [[58157, "UNKNOWN", 13019, "Star of the Land", "<span style=\"color: #f3d900\">Can be obtained through [Interaction]</span>", "-6,943"]]],
+  [
+    [80096, 71154],
+    [
+      [
+        58157,
+        "UNKNOWN",
+        13019,
+        "Star of the Land",
+        "<span style=\"color: #f3d900\">Can be obtained through [Interaction]</span><span>Note: You need to be the Schoolar class</span>",
+        "-6,943"
+      ]
+    ]
+  ],
   [
     [83824, 87886],
     [
