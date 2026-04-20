@@ -10563,6 +10563,19 @@
       "y": 69171,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40026,
+          "npcName": "Severo Loggia",
+          "knowledgeId": 28,
+          "title": "Severo Loggia",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Severo Loggia"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 40026,
           "npcName": "Severo Loggia",
@@ -21592,6 +21605,19 @@
       "y": 64505,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50642,
+          "npcName": "Momo",
+          "knowledgeId": 986,
+          "title": "Momo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Momo (Valencia)"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50642,
           "npcName": "Momo",
@@ -22319,6 +22345,19 @@
       "x": 53170,
       "y": 86756,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50705,
+          "npcName": "Viverza",
+          "knowledgeId": 1119,
+          "title": "Viverza",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Viverza"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50705,
@@ -24166,6 +24205,19 @@
       "y": 84416,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 47375,
+          "npcName": "Vusla",
+          "knowledgeId": 2191,
+          "title": "Vusla",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Vusla"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 47375,
           "npcName": "Vusla",
@@ -24237,6 +24289,19 @@
       "y": 84233,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 47454,
+          "npcName": "Baykurt",
+          "knowledgeId": 2187,
+          "title": "Baykurt",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Baykurt"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 47454,
           "npcName": "Baykurt",
@@ -24256,6 +24321,19 @@
       "y": 84184,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 47436,
+          "npcName": "Nadekron",
+          "knowledgeId": 2225,
+          "title": "Nadekron",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Nadekron"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 47436,
           "npcName": "Nadekron",
@@ -24269,6 +24347,19 @@
       "x": 82103,
       "y": 84614,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47437,
+          "npcName": "Sandor",
+          "knowledgeId": 2226,
+          "title": "Sandor",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Sandor"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 47437,
@@ -31539,6 +31630,19 @@
       "x": 48377,
       "y": 90136,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45532,
+          "npcName": "Brolina Ornette",
+          "knowledgeId": 1140,
+          "title": "Brolina Ornette",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Brolina Ornette"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 45532,
@@ -44490,6 +44594,19 @@
       "y": 73920,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 41004,
+          "npcName": "Lara",
+          "knowledgeId": 104,
+          "title": "Lara",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lara"
+            }
+          ]
+        },
+        {
           "category": "Academics",
           "npcId": 41004,
           "npcName": "Lara",
@@ -44764,6 +44881,19 @@
       "y": 73870,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 41002,
+          "npcName": "Ornella",
+          "knowledgeId": 102,
+          "title": "Ornella",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ornella"
+            }
+          ]
+        },
+        {
           "category": "Life Skills",
           "npcId": 41002,
           "npcName": "Ornella",
@@ -44971,7 +45101,7 @@
           "acquisitionMethods": [
             {
               "type": "dialogue",
-              "descriptionText": "Ernill"
+              "descriptionText": "Basquean Ljurik"
             }
           ]
         },
@@ -50678,6 +50808,19 @@
       "y": 74237,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 41013,
+          "npcName": "Amerigo",
+          "knowledgeId": 113,
+          "title": "Amerigo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Amerigo"
+            }
+          ]
+        },
+        {
           "category": "Learning the Ropes of Black Desert",
           "npcId": 41013,
           "npcName": "Amerigo",
@@ -50686,7 +50829,7 @@
           "acquisitionMethods": [
             {
               "type": "dialogue",
-              "descriptionText": "Ernill"
+              "descriptionText": "Amerigo"
             }
           ]
         },
@@ -52280,6 +52423,19 @@
       "x": 70426,
       "y": 73841,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 41025,
+          "npcName": "Flaviano",
+          "knowledgeId": 125,
+          "title": "Flaviano",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Flaviano"
+            }
+          ]
+        },
         {
           "category": "Life Skills",
           "npcId": 41025,
@@ -94201,6 +94357,82 @@
             {
               "type": "interaction",
               "descriptionText": "Find the swirling blue vortex at Longing Lake."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48109,
+      "y": 91163,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45556,
+          "npcName": "Cyclamen",
+          "knowledgeId": 1157,
+          "title": "Cyclamen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Cyclamen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70426,
+      "y": 73814,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47729,
+          "npcName": "Timmy",
+          "knowledgeId": 14746,
+          "title": "Timmy",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Timmy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70490,
+      "y": 73887,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 41022,
+          "npcName": "Puia",
+          "knowledgeId": 122,
+          "title": "Puia",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Puia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70442,
+      "y": 73906,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 41056,
+          "npcName": "Cleia",
+          "knowledgeId": 496,
+          "title": "Cleia",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Cleia"
             }
           ]
         }
