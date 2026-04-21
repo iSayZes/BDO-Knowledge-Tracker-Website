@@ -35355,19 +35355,6 @@
       "y": 73688,
       "entries": [
         {
-          "category": "Characters",
-          "npcId": 41012,
-          "npcName": "Dora Fonti",
-          "knowledgeId": 112,
-          "title": "Dora Fonti",
-          "acquisitionMethods": [
-            {
-              "type": "dialogue",
-              "descriptionText": "Dora Fonti"
-            }
-          ]
-        },
-        {
           "category": "Adventure Logs",
           "npcId": 41012,
           "npcName": "Dora Fonti",
@@ -35529,19 +35516,6 @@
       "y": 73645,
       "entries": [
         {
-          "category": "Characters",
-          "npcId": 41118,
-          "npcName": "George Fusto",
-          "knowledgeId": 110,
-          "title": "George Fusto",
-          "acquisitionMethods": [
-            {
-              "type": "dialogue",
-              "descriptionText": "George Fusto"
-            }
-          ]
-        },
-        {
           "category": "Adventure Logs",
           "npcId": 41118,
           "npcName": "George Fusto",
@@ -35560,19 +35534,6 @@
       "x": 70141,
       "y": 73369,
       "entries": [
-        {
-          "category": "Characters",
-          "npcId": 41051,
-          "npcName": "Siuta",
-          "knowledgeId": 148,
-          "title": "Siuta",
-          "acquisitionMethods": [
-            {
-              "type": "dialogue",
-              "descriptionText": "Siuta"
-            }
-          ]
-        },
         {
           "category": "Adventure Logs",
           "npcId": 41051,
@@ -36072,19 +36033,6 @@
       "x": 70031,
       "y": 73814,
       "entries": [
-        {
-          "category": "Characters",
-          "npcId": 41088,
-          "npcName": "Techthon",
-          "knowledgeId": 164,
-          "title": "Techthon",
-          "acquisitionMethods": [
-            {
-              "type": "dialogue",
-              "descriptionText": "Techthon"
-            }
-          ]
-        },
         {
           "category": "Adventure Logs",
           "npcId": 41088,
