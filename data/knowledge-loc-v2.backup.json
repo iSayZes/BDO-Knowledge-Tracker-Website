@@ -759,6 +759,19 @@
       "y": 72680,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 41037,
+          "npcName": "Berman",
+          "knowledgeId": 137,
+          "title": "Berman",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Berman"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 41037,
           "npcName": "Berman",
@@ -784,7 +797,7 @@
           "acquisitionMethods": [
             {
               "type": "dialogue",
-              "descriptionText": "erman"
+              "descriptionText": "Berman"
             }
           ]
         },
@@ -805,7 +818,7 @@
             },
             {
               "type": "dialogue",
-              "descriptionText": "erman"
+              "descriptionText": "Berman"
             }
           ]
         },
@@ -5687,6 +5700,19 @@
       "y": 88511,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 46028,
+          "npcName": "Kubo",
+          "knowledgeId": 1254,
+          "title": "Kubo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Kubo"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 46028,
           "npcName": "Kubo",
@@ -5732,6 +5758,19 @@
       "y": 88731,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 46019,
+          "npcName": "Maopan",
+          "knowledgeId": 1245,
+          "title": "Maopan",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Maopan"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 46019,
           "npcName": "Maopan",
@@ -5776,6 +5815,19 @@
       "x": 66741,
       "y": 88356,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46008,
+          "npcName": "Rinta",
+          "knowledgeId": 1234,
+          "title": "Rinta",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Rinta"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 46008,
@@ -9858,6 +9910,19 @@
       "y": 69135,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40017,
+          "npcName": "Igor Bartali",
+          "knowledgeId": 18,
+          "title": "Igor Bartali",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Igor Bartali"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 40017,
           "npcName": "Igor Bartali",
@@ -10043,6 +10108,19 @@
       "y": 69507,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40047,
+          "npcName": "Incas",
+          "knowledgeId": 44,
+          "title": "Incas",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Incas"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 40047,
           "npcName": "Incas",
@@ -10078,6 +10156,19 @@
       "x": 66229,
       "y": 68579,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50002,
+          "npcName": "Andrei",
+          "knowledgeId": 63,
+          "title": "Andrei",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Andrei"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50002,
@@ -10140,6 +10231,19 @@
       "x": 66227,
       "y": 70594,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40029,
+          "npcName": "Cliff",
+          "knowledgeId": 31,
+          "title": "Cliff",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Cliff"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 40029,
@@ -10258,6 +10362,19 @@
       "y": 71150,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40030,
+          "npcName": "Ovidio Toscani",
+          "knowledgeId": 32,
+          "title": "Ovidio Toscani",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ovidio Toscani"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 40030,
           "npcName": "Ovidio Toscani",
@@ -10293,6 +10410,19 @@
       "x": 69832,
       "y": 70331,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40031,
+          "npcName": "Daphne DelLucci",
+          "knowledgeId": 33,
+          "title": "Daphne DelLucci",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Daphne DelLucci"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 40031,
@@ -10343,6 +10473,19 @@
       "y": 69696,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50007,
+          "npcName": "Grusha",
+          "knowledgeId": 68,
+          "title": "Grusha",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grusha"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50007,
           "npcName": "Grusha",
@@ -10379,6 +10522,19 @@
       "y": 68529,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50005,
+          "npcName": "Marsha",
+          "knowledgeId": 66,
+          "title": "Marsha",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Marsha"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50005,
           "npcName": "Marsha",
@@ -10401,6 +10557,19 @@
       "x": 69965,
       "y": 67525,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50006,
+          "npcName": "Beedle",
+          "knowledgeId": 67,
+          "title": "Beedle",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Beedle"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50006,
@@ -10425,6 +10594,19 @@
       "y": 69017,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40024,
+          "npcName": "Martina Finto",
+          "knowledgeId": 26,
+          "title": "Martina Finto",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Martina Finto"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 40024,
           "npcName": "Martina Finto",
@@ -10448,6 +10630,19 @@
       "y": 69959,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40025,
+          "npcName": "Emma Bartali",
+          "knowledgeId": 27,
+          "title": "Emma Bartali",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Emma Bartali"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 40025,
           "npcName": "Emma Bartali",
@@ -10456,7 +10651,7 @@
           "acquisitionMethods": [
             {
               "type": "exploration",
-              "descriptionText": "artali Farm"
+              "descriptionText": "Bartali Farm"
             },
             {
               "type": "dialogue",
@@ -10674,6 +10869,19 @@
       "y": 69844,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50001,
+          "npcName": "Tiny Nose",
+          "knowledgeId": 62,
+          "title": "Tiny Nose",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Tiny Nose"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50001,
           "npcName": "Tiny Nose",
@@ -10697,6 +10905,19 @@
       "y": 68620,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40128,
+          "npcName": "Egrin",
+          "knowledgeId": 56,
+          "title": "Egrin",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Egrin"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 40128,
           "npcName": "Egrin",
@@ -10719,6 +10940,19 @@
       "x": 67013,
       "y": 72594,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40067,
+          "npcName": "Edan",
+          "knowledgeId": 49,
+          "title": "Edan",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Edan"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 40067,
@@ -10766,6 +11000,19 @@
       "y": 70308,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40101,
+          "npcName": "Rovant Marino",
+          "knowledgeId": 55,
+          "title": "Rovant Marino",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Rovant Marino"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 40101,
           "npcName": "Rovant Marino",
@@ -10801,6 +11048,19 @@
       "x": 68967,
       "y": 69316,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40019,
+          "npcName": "Artemio Fiazza",
+          "knowledgeId": 21,
+          "title": "Artemio Fiazza",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Artemio Fiazza"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 40019,
@@ -10872,6 +11132,19 @@
       "y": 68877,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40012,
+          "npcName": "Crio",
+          "knowledgeId": 12,
+          "title": "Crio",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crio"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 40012,
           "npcName": "Crio",
@@ -10904,6 +11177,19 @@
       "y": 70861,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40134,
+          "npcName": "Duvane",
+          "knowledgeId": 59,
+          "title": "Duvane",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Duvane"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 40134,
           "npcName": "Duvane",
@@ -10922,6 +11208,19 @@
       "x": 65353,
       "y": 70137,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50010,
+          "npcName": "Nathan",
+          "knowledgeId": 71,
+          "title": "Nathan",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Nathan"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50010,
@@ -10992,6 +11291,19 @@
       "y": 67312,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40718,
+          "npcName": "Kafu",
+          "knowledgeId": 745,
+          "title": "Kafu",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Kafu"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 40718,
           "npcName": "Kafu",
@@ -11046,6 +11358,19 @@
       "y": 67083,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40721,
+          "npcName": "Bionier",
+          "knowledgeId": 748,
+          "title": "Bionier",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Bionier"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 40721,
           "npcName": "Bionier",
@@ -11058,7 +11383,7 @@
             },
             {
               "type": "amity",
-              "descriptionText": "ionier"
+              "descriptionText": "Bionier"
             },
             {
               "type": "dialogue",
@@ -11079,7 +11404,7 @@
             },
             {
               "type": "amity",
-              "descriptionText": "ionier"
+              "descriptionText": "Bionier"
             },
             {
               "type": "dialogue",
@@ -11120,6 +11445,19 @@
       "x": 62799,
       "y": 66576,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40605,
+          "npcName": "Wale",
+          "knowledgeId": 389,
+          "title": "Wale",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wale"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 40605,
@@ -11293,6 +11631,19 @@
       "y": 65303,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40711,
+          "npcName": "Kyrio",
+          "knowledgeId": 738,
+          "title": "Kyrio",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Kyrio"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 40711,
           "npcName": "Kyrio",
@@ -11305,7 +11656,7 @@
             },
             {
               "type": "dialogue",
-              "descriptionText": "oble"
+              "descriptionText": "Boble"
             }
           ]
         }
@@ -11315,6 +11666,19 @@
       "x": 65190,
       "y": 67932,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50558,
+          "npcName": "Boble",
+          "knowledgeId": 798,
+          "title": "Boble",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Boble"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50558,
@@ -11328,7 +11692,7 @@
             },
             {
               "type": "dialogue",
-              "descriptionText": "oble"
+              "descriptionText": "Boble"
             }
           ]
         }
@@ -11393,6 +11757,19 @@
       "y": 67315,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40714,
+          "npcName": "Sady",
+          "knowledgeId": 741,
+          "title": "Sady",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Sady"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 40714,
           "npcName": "Sady",
@@ -11447,6 +11824,19 @@
       "y": 67091,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40715,
+          "npcName": "Lolly",
+          "knowledgeId": 742,
+          "title": "Lolly",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lolly"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 40715,
           "npcName": "Lolly",
@@ -11474,6 +11864,19 @@
       "y": 66635,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50561,
+          "npcName": "Baulo",
+          "knowledgeId": 803,
+          "title": "Baulo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Baulo"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50561,
           "npcName": "Baulo",
@@ -11500,6 +11903,19 @@
       "x": 62829,
       "y": 67342,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40717,
+          "npcName": "Wocester",
+          "knowledgeId": 744,
+          "title": "Wocester",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wocester"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 40717,
@@ -22798,6 +23214,19 @@
       "y": 89061,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50726,
+          "npcName": "Dostter",
+          "knowledgeId": 1262,
+          "title": "Dostter",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Dostter"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50726,
           "npcName": "Dostter",
@@ -22839,6 +23268,19 @@
       "y": 87400,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50732,
+          "npcName": "Gyor",
+          "knowledgeId": 1268,
+          "title": "Gyor",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Gyor"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50732,
           "npcName": "Gyor",
@@ -22866,6 +23308,19 @@
       "y": 89740,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50731,
+          "npcName": "Ankh Izja",
+          "knowledgeId": 1267,
+          "title": "Ankh Izja",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ankh Izja"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50731,
           "npcName": "Ankh Izja",
@@ -22879,6 +23334,19 @@
       "x": 62288,
       "y": 86613,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50727,
+          "npcName": "Camira",
+          "knowledgeId": 1263,
+          "title": "Camira",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Camira"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50727,
@@ -22934,6 +23402,19 @@
       "y": 87650,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50733,
+          "npcName": "Harak",
+          "knowledgeId": 1269,
+          "title": "Harak",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Harak"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50733,
           "npcName": "Harak",
@@ -22948,6 +23429,19 @@
       "y": 86672,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50734,
+          "npcName": "Pataro",
+          "knowledgeId": 1270,
+          "title": "Pataro",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Pataro"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50734,
           "npcName": "Pataro",
@@ -22961,6 +23455,19 @@
       "x": 69379,
       "y": 85806,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50735,
+          "npcName": "Myra",
+          "knowledgeId": 1271,
+          "title": "Myra",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Myra"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50735,
@@ -23008,6 +23515,19 @@
       "y": 85424,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50742,
+          "npcName": "Hoberyn",
+          "knowledgeId": 1277,
+          "title": "Hoberyn",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Hoberyn"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50742,
           "npcName": "Hoberyn",
@@ -23022,6 +23542,19 @@
       "y": 90097,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50736,
+          "npcName": "Ladar",
+          "knowledgeId": 1272,
+          "title": "Ladar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ladar"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50736,
           "npcName": "Ladar",
@@ -23035,6 +23568,19 @@
       "x": 63490,
       "y": 90029,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50737,
+          "npcName": "Yahq",
+          "knowledgeId": 1273,
+          "title": "Yahq",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Yahq"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50737,
@@ -23078,6 +23624,19 @@
       "y": 83713,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50746,
+          "npcName": "Malan",
+          "knowledgeId": 1281,
+          "title": "Malan",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Malan"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50746,
           "npcName": "Malan",
@@ -23091,6 +23650,19 @@
       "x": 67217,
       "y": 81314,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50745,
+          "npcName": "Dormann",
+          "knowledgeId": 1280,
+          "title": "Dormann",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Dormann"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50745,
@@ -23106,6 +23678,19 @@
       "y": 80507,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50738,
+          "npcName": "Karl Verdun",
+          "knowledgeId": 1274,
+          "title": "Karl Verdun",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Karl Verdun"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50738,
           "npcName": "Karl Verdun",
@@ -23119,6 +23704,19 @@
       "x": 73577,
       "y": 82753,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50744,
+          "npcName": "Diana",
+          "knowledgeId": 1279,
+          "title": "Diana",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Diana"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50744,
@@ -23134,6 +23732,19 @@
       "y": 83196,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50740,
+          "npcName": "Leon",
+          "knowledgeId": 1275,
+          "title": "Leon",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Leon"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50740,
           "npcName": "Leon",
@@ -23148,6 +23759,19 @@
       "y": 85996,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50728,
+          "npcName": "Titoku",
+          "knowledgeId": 1264,
+          "title": "Titoku",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Titoku"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50728,
           "npcName": "Titoku",
@@ -23161,6 +23785,19 @@
       "x": 68600,
       "y": 87948,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50743,
+          "npcName": "Marak",
+          "knowledgeId": 1278,
+          "title": "Marak",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Marak"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50743,
@@ -24054,6 +24691,19 @@
       "x": 32370,
       "y": 29153,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59999,
+          "npcName": "Durong",
+          "knowledgeId": 2167,
+          "title": "Durong",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Durong"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 59999,
@@ -25487,6 +26137,19 @@
       "x": 66869,
       "y": 88574,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50725,
+          "npcName": "Durgeff",
+          "knowledgeId": 1261,
+          "title": "Durgeff",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Durgeff"
+            }
+          ]
+        },
         {
           "category": "Ecology",
           "npcId": 50725,
@@ -29472,6 +30135,19 @@
       "y": 88388,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 46007,
+          "npcName": "Tikara",
+          "knowledgeId": 1233,
+          "title": "Tikara",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Tikara"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 46007,
           "npcName": "Tikara",
@@ -29743,6 +30419,19 @@
       "x": 66326,
       "y": 88394,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46025,
+          "npcName": "Kyisa",
+          "knowledgeId": 1251,
+          "title": "Kyisa",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Kyisa"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 46025,
@@ -31071,6 +31760,19 @@
       "y": 88466,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 46005,
+          "npcName": "Seiri",
+          "knowledgeId": 1231,
+          "title": "Seiri",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Seiri"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 46005,
           "npcName": "Seiri",
@@ -31103,6 +31805,19 @@
       "y": 88472,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 46012,
+          "npcName": "Bamam",
+          "knowledgeId": 1238,
+          "title": "Bamam",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Bamam"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 46012,
           "npcName": "Bamam",
@@ -31121,6 +31836,19 @@
       "x": 66695,
       "y": 88509,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46027,
+          "npcName": "Atamohra",
+          "knowledgeId": 1253,
+          "title": "Atamohra",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Atamohra"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 46027,
@@ -31611,6 +32339,19 @@
       "x": 66595,
       "y": 88629,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46006,
+          "npcName": "Hughol",
+          "knowledgeId": 1232,
+          "title": "Hughol",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Hughol"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 46006,
@@ -35355,6 +36096,19 @@
       "y": 73688,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 41012,
+          "npcName": "Dora Fonti",
+          "knowledgeId": 112,
+          "title": "Dora Fonti",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Dora Fonti"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 41012,
           "npcName": "Dora Fonti",
@@ -35516,6 +36270,19 @@
       "y": 73645,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 41118,
+          "npcName": "George Fusto",
+          "knowledgeId": 110,
+          "title": "George Fusto",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "George Fusto"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 41118,
           "npcName": "George Fusto",
@@ -35534,6 +36301,19 @@
       "x": 70141,
       "y": 73369,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 41051,
+          "npcName": "Siuta",
+          "knowledgeId": 148,
+          "title": "Siuta",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Siuta"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 41051,
@@ -36033,6 +36813,19 @@
       "x": 70031,
       "y": 73814,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 41088,
+          "npcName": "Techthon",
+          "knowledgeId": 164,
+          "title": "Techthon",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Techthon"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 41088,
@@ -94433,6 +95226,291 @@
             {
               "type": "dialogue",
               "descriptionText": "Cleia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66568,
+      "y": 88477,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46011,
+          "npcName": "Drexin",
+          "knowledgeId": 1237,
+          "title": "Drexin",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Drexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66732,
+      "y": 88236,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50749,
+          "npcName": "Tammy",
+          "knowledgeId": 1290,
+          "title": "Tammy",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Tammy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67080,
+      "y": 87802,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46047,
+          "npcName": "Ahimo",
+          "knowledgeId": 1286,
+          "title": "Ahimo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ahimo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66390,
+      "y": 88823,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46010,
+          "npcName": "Heira",
+          "knowledgeId": 1236,
+          "title": "Heira",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Heira"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66403,
+      "y": 88841,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46015,
+          "npcName": "Lior",
+          "knowledgeId": 1241,
+          "title": "Lior",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lior"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66228,
+      "y": 88315,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46013,
+          "npcName": "Derjeen",
+          "knowledgeId": 1239,
+          "title": "Derjeen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Derjeen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66483,
+      "y": 88571,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46016,
+          "npcName": "Tamasa",
+          "knowledgeId": 1242,
+          "title": "Tamasa",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Tamasa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66448,
+      "y": 88633,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46017,
+          "npcName": "Gerez",
+          "knowledgeId": 1243,
+          "title": "Gerez",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Gerez"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66783,
+      "y": 88564,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46020,
+          "npcName": "Aro",
+          "knowledgeId": 1246,
+          "title": "Aro",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Aro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66308,
+      "y": 88666,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46004,
+          "npcName": "Odelphin",
+          "knowledgeId": 1230,
+          "title": "Odelphin",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Odelphin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66216,
+      "y": 88586,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46022,
+          "npcName": "Siemo",
+          "knowledgeId": 1248,
+          "title": "Siemo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Siemo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66756,
+      "y": 88924,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46023,
+          "npcName": "Yeoh",
+          "knowledgeId": 1249,
+          "title": "Yeoh",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Yeoh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66712,
+      "y": 88747,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46024,
+          "npcName": "Difu",
+          "knowledgeId": 1250,
+          "title": "Difu",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Difu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66528,
+      "y": 88713,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47723,
+          "npcName": "Linchen",
+          "knowledgeId": 14740,
+          "title": "Linchen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Linchen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66535,
+      "y": 88724,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47733,
+          "npcName": "Dorma",
+          "knowledgeId": 14750,
+          "title": "Dorma",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Dorma"
             }
           ]
         }
