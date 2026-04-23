@@ -260,6 +260,20 @@
               "descriptionText": "after completing Oquilla's Eye Main QuestlineJarette Domongatt at the Western Guard Camp seems to know about the Blue Pearl."
             }
           ]
+        },
+        {
+          "category": "Academics",
+          "npcId": 40041,
+          "npcName": "Jarette Domongtt",
+          "knowledgeId": 6580,
+          "title": "Cliff the Old Timer",
+          "acquisitionMethods": [
+            {
+              "type": "amityQuest",
+              "descriptionText": "Cliff's Writing",
+              "condition": "20 Amity"
+            }
+          ]
         }
       ]
     },
@@ -25191,6 +25205,19 @@
       "y": 85822,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50796,
+          "npcName": "Toma",
+          "knowledgeId": 1641,
+          "title": "Toma",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Toma"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50796,
           "npcName": "Toma",
@@ -25205,6 +25232,19 @@
       "y": 87486,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50787,
+          "npcName": "Rodawah",
+          "knowledgeId": 1632,
+          "title": "Rodawah",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Rodawah"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50787,
           "npcName": "Rodawah",
@@ -25218,6 +25258,19 @@
       "x": 75743,
       "y": 83964,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50788,
+          "npcName": "Leomar",
+          "knowledgeId": 1633,
+          "title": "Leomar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Leomar"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50788,
@@ -25383,6 +25436,19 @@
       "y": 89003,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50786,
+          "npcName": "Ganbold",
+          "knowledgeId": 1631,
+          "title": "Ganbold",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ganbold"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50786,
           "npcName": "Ganbold",
@@ -25397,6 +25463,19 @@
       "y": 91426,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50793,
+          "npcName": "Higgs",
+          "knowledgeId": 1638,
+          "title": "Higgs",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Higgs"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50793,
           "npcName": "Higgs",
@@ -25410,6 +25489,19 @@
       "x": 73503,
       "y": 89504,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50797,
+          "npcName": "Ganzorig",
+          "knowledgeId": 1642,
+          "title": "Ganzorig",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ganzorig"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50797,
@@ -25467,6 +25559,19 @@
       "y": 87232,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50934,
+          "npcName": "Kikoo",
+          "knowledgeId": 1751,
+          "title": "Kikoo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Kikoo"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50934,
           "npcName": "Kikoo",
@@ -25508,6 +25613,19 @@
       "x": 77160,
       "y": 87826,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50936,
+          "npcName": "Maslan",
+          "knowledgeId": 1753,
+          "title": "Maslan",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Maslan"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50936,
@@ -26421,6 +26539,19 @@
       "y": 75310,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 42119,
+          "npcName": "Annolisa Rosie",
+          "knowledgeId": 377,
+          "title": "Annolisa Rosie",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Annolisa Rosie"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 42119,
           "npcName": "Annolisa Rosie",
@@ -26446,6 +26577,14 @@
               "condition": "for Lv. 50 and higher"
             }
           ]
+        },
+        {
+          "category": "Academics",
+          "npcId": 42119,
+          "npcName": "Annolisa Rosie",
+          "knowledgeId": 6609,
+          "title": "The Great Libary of Calpheon",
+          "descriptionText": "Buy from Annolisa Rosie"
         }
       ]
     },
@@ -96408,6 +96547,120 @@
             {
               "type": "dialogue",
               "descriptionText": "Dorma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 71325,
+      "y": 86097,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59780,
+          "npcName": "Rao",
+          "knowledgeId": 11172,
+          "title": "Rao",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Rao"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62265,
+      "y": 86741,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46033,
+          "npcName": "Emora",
+          "knowledgeId": 1259,
+          "title": "Emora",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Emora"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68602,
+      "y": 87997,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46049,
+          "npcName": "Demihar",
+          "knowledgeId": 1287,
+          "title": "Demihar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Demihar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69477,
+      "y": 90282,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50741,
+          "npcName": "Sina",
+          "knowledgeId": 1276,
+          "title": "Sina",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Sina"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67133,
+      "y": 87976,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46021,
+          "npcName": "Guntama Diouf",
+          "knowledgeId": 1247,
+          "title": "Guntama Diouf",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Guntama Diouf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66514,
+      "y": 88379,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46009,
+          "npcName": "Akasak",
+          "knowledgeId": 1235,
+          "title": "Akasak",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Akasak"
             }
           ]
         }

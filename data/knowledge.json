@@ -15634,7 +15634,7 @@
         {
           "id": 3095,
           "name": "Hidden Coastal Cliff Cave",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
@@ -16524,7 +16524,7 @@
         {
           "id": 3146,
           "name": "Keplan Quarry",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
@@ -19352,25 +19352,25 @@
         {
           "id": 3319,
           "name": "Almai Island",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3318,
           "name": "Teste Island",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3317,
           "name": "Padix Island",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3316,
           "name": "Arita Island",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
@@ -19715,31 +19715,31 @@
         {
           "id": 3327,
           "name": "Shasha Island",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3326,
           "name": "Portanen Island",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3325,
           "name": "Lerao Island",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3324,
           "name": "Tinberra Island",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3328,
           "name": "Rosevan Island",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         }
       ]
@@ -19756,7 +19756,7 @@
         {
           "id": 3406,
           "name": "Derko Island",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
@@ -19839,43 +19839,43 @@
         {
           "id": 3436,
           "name": "Nada Island",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3435,
           "name": "Mariul Island",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3434,
           "name": "Zagam Island",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3433,
           "name": "Vadabin Sea",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3432,
           "name": "Juur Sea",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3431,
           "name": "Margoria",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3430,
           "name": "Ross Sea",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         }
       ]
@@ -20405,13 +20405,13 @@
         {
           "id": 4597,
           "name": "Pirate Treasure Chest",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4596,
           "name": "Pirate Flag",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         }
       ]
@@ -21589,7 +21589,7 @@
         {
           "id": 6636,
           "name": "Altar of Blood",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
@@ -22295,7 +22295,7 @@
         {
           "id": 4598,
           "name": "Unidentified Cauldron",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -28877,19 +28877,19 @@
         {
           "id": 6617,
           "name": "Fish at the Swamp",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6616,
           "name": "Fish at the Demi River",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6615,
           "name": "Fish at the Balenos Coast",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         }
       ]
@@ -29794,7 +29794,7 @@
         {
           "id": 6122,
           "name": "Demibeast and Shai",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
@@ -29913,7 +29913,7 @@
         {
           "id": 6127,
           "name": "Parts Delivery to the Extraction Mill",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
@@ -30015,7 +30015,7 @@
         {
           "id": 6003,
           "name": "Donatt and Mudsters",
-          "icon_image": "knowledgeIcons/COLLECTED_person",
+          "icon_image": "knowledgeIcons/collected_person",
           "db_type": "knowledge"
         },
         {
@@ -30050,49 +30050,49 @@
         {
           "id": 6124,
           "name": "Spoiled Jarette",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6123,
           "name": "What It Takes to Make It a Hot Spot",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6121,
           "name": "Jordine's Necklace",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6120,
           "name": "Jordine's Ring",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6119,
           "name": "Portrait of the Princess",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6118,
           "name": "The Pope and the Pauper",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6129,
           "name": "Vagabonds of Serendia",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6128,
           "name": "Lynch Family Gone Missing",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
@@ -30104,7 +30104,7 @@
         {
           "id": 6109,
           "name": "Lord's Table",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
@@ -30122,25 +30122,25 @@
         {
           "id": 6007,
           "name": "Serendia and Goblin Workers",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6006,
           "name": "Neither Friend Nor Foe",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6005,
           "name": "Good Deeds of Serendians",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6004,
           "name": "Luxurious Treasure Chamber",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
@@ -30288,55 +30288,55 @@
         {
           "id": 6126,
           "name": "Order Delivered to Margaret",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6117,
           "name": "Jordine Goes to the Watchtower",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6116,
           "name": "Sword of the Shadow Knight",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6115,
           "name": "Freharau's Advice",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6114,
           "name": "Glish Underground Storage",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6113,
           "name": "A Guest from Glish",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6112,
           "name": "Ambitions of Jordine",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6111,
           "name": "Orwen and a Mysterious Man",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6110,
           "name": "An Ill Omen",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         }
       ]
@@ -30477,25 +30477,25 @@
         {
           "id": 6011,
           "name": "Caphras' Journal",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6010,
           "name": "Romance in Florin",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6009,
           "name": "Herb Cookies",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6008,
           "name": "Florin and Growing Herbs",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
@@ -30637,7 +30637,7 @@
         {
           "id": 5758,
           "name": "Nightmare in Crioville",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
@@ -31209,7 +31209,7 @@
         {
           "id": 6125,
           "name": "Resurrection of Belmorn",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         }
       ]
@@ -33730,7 +33730,7 @@
         {
           "id": 6634,
           "name": "Margorian Sharks",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
@@ -34748,7 +34748,7 @@
         {
           "id": 5887,
           "name": "Nerman's Drinking Habits",
-          "icon_image": "knowledgeIcons/COLLECTED_person",
+          "icon_image": "knowledgeIcons/collected_person",
           "db_type": "knowledge"
         },
         {
@@ -56810,7 +56810,7 @@
         {
           "id": 6635,
           "name": "Watchtower Bridge",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
@@ -57059,7 +57059,7 @@
         {
           "id": 6628,
           "name": "Alchemist of Calpheon Castle",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
@@ -57148,13 +57148,13 @@
         {
           "id": 6619,
           "name": "League of Merchants",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6618,
           "name": "War and Mediah",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
@@ -57196,37 +57196,37 @@
         {
           "id": 6583,
           "name": "Heidel Treaty",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6581,
           "name": "Hope of Peasants",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6580,
           "name": "Cliff the Old Timer",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6579,
           "name": "The Grand Chamberlain of Heidel",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6578,
           "name": "Xian Alliance",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6552,
           "name": "Reasons for Rebelling",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         }
       ]
@@ -57243,31 +57243,31 @@
         {
           "id": 6632,
           "name": "A Velian Epic",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6631,
           "name": "The Flute Boy",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6630,
           "name": "Witch at the Farm",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6629,
           "name": "The Cook's Presence",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
           "id": 6614,
           "name": "Artemio the Literary Lion",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
@@ -57339,7 +57339,7 @@
         {
           "id": 184,
           "name": "Meister Lomerun",
-          "icon_image": "knowledgeIcons/COLLECTED_person",
+          "icon_image": "knowledgeIcons/collected_person",
           "db_type": "knowledge"
         }
       ]
@@ -57421,7 +57421,7 @@
         {
           "id": 6627,
           "name": "Grades of Black Crystal",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
@@ -78906,7 +78906,7 @@
         {
           "id": 6582,
           "name": "Wine War",
-          "icon_image": "knowledgeIcons/COLLECTED_conversationalist",
+          "icon_image": "knowledgeIcons/collected_conversationalist",
           "db_type": "knowledge"
         },
         {
@@ -79110,19 +79110,19 @@
         {
           "id": 4619,
           "name": "Ballista",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4618,
           "name": "Arrow",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4617,
           "name": "Box",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79140,19 +79140,19 @@
         {
           "id": 4614,
           "name": "Stable_1",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4613,
           "name": "Stable",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4611,
           "name": "Damaged Handcart",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79164,13 +79164,13 @@
         {
           "id": 4626,
           "name": "Elite Shadow Priestess",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4625,
           "name": "Elite Shadow Knight",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79188,43 +79188,43 @@
         {
           "id": 4326,
           "name": "Contaminated Manager",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4323,
           "name": "Black Spirit",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4322,
           "name": "Black Spirit",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4321,
           "name": "Black Spirit",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4348,
           "name": "Contaminated Bear",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4346,
           "name": "Party Leader",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4345,
           "name": "Ancient Ruins Stone Tree",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79236,79 +79236,79 @@
         {
           "id": 4342,
           "name": "Cheetah Dragon",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4338,
           "name": "Balloon Pig",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4337,
           "name": "Stone Tree",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4336,
           "name": "Ruins Raptor",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4303,
           "name": "Primitive Orc",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4302,
           "name": "Witmirth",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4301,
           "name": "Witch",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4300,
           "name": "Treant 1",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4299,
           "name": "Treant",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4291,
           "name": "Catfishman Elite Archer",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4290,
           "name": "Catfishman Elite Warrior",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4289,
           "name": "Catfishman Spearman",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4288,
           "name": "Catfishman Warrior",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79332,79 +79332,79 @@
         {
           "id": 4306,
           "name": "Primitive Orc Archer",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4305,
           "name": "Primitive Orc Wizard",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4304,
           "name": "Primitive Orc Warrior",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4271,
           "name": "Wandering Wheat Field Lookout",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4270,
           "name": "Wandering Scarecrow Ghost",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4269,
           "name": "Premature Pumpkin Ghost",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4259,
           "name": "Young Sloth",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4258,
           "name": "Young Stonescale Devourer",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4285,
           "name": "Graveyard Witmirth",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4284,
           "name": "Demibeast Bandit Wizard",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4282,
           "name": "Khuruto 7",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4281,
           "name": "Khuruto 6",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4272,
           "name": "Mole Worm",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79464,43 +79464,43 @@
         {
           "id": 4255,
           "name": "Diseased Cow",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4253,
           "name": "Straggler Wizard",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4252,
           "name": "Straggler Archer",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4251,
           "name": "Straggler Warrior",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4250,
           "name": "Straggler",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4249,
           "name": "Ostracized Worker",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4248,
           "name": "Siege Lizard",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79650,25 +79650,25 @@
         {
           "id": 4591,
           "name": "Ballista Impact",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4590,
           "name": "Wagon Impact",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4589,
           "name": "Multiple Firing Wagon",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4586,
           "name": "Arena Bamboo Spear",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79680,7 +79680,7 @@
         {
           "id": 4583,
           "name": "Thief Leader",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79698,7 +79698,7 @@
         {
           "id": 4601,
           "name": "Khuruto Food Depot",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79722,13 +79722,13 @@
         {
           "id": 4592,
           "name": "Cobweb 2",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4559,
           "name": "Mediah Giant Rogue",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79740,103 +79740,103 @@
         {
           "id": 4548,
           "name": "Demibeast Bandsman",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4547,
           "name": "Demibeast Super Warrior",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4546,
           "name": "Demibeast Warrior",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4566,
           "name": "Mediah Monk Giant",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4565,
           "name": "Mediah Monk Assassin",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4564,
           "name": "Mediah Monk Wizard",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4562,
           "name": "Mediah Monk",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4527,
           "name": "Demibeast Wizard",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4526,
           "name": "Demibeast Archer",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4525,
           "name": "Demibeast",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4523,
           "name": "Cultist Elite Knight",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4522,
           "name": "Mutant Lizard",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4512,
           "name": "Chimera",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4543,
           "name": "Demibeast Chief Warrior",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4542,
           "name": "Dead Iguana",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4541,
           "name": "Dead Rhino Lizard",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4531,
           "name": "Shepherd",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79848,13 +79848,13 @@
         {
           "id": 4510,
           "name": "Giant Bee",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4503,
           "name": "Quarry Summoning Tower",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79878,7 +79878,7 @@
         {
           "id": 4479,
           "name": "Giant Watchtower",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79902,7 +79902,7 @@
         {
           "id": 4428,
           "name": "Ruins Tree",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79914,7 +79914,7 @@
         {
           "id": 4445,
           "name": "Calpheon Protester Archer",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -79926,73 +79926,73 @@
         {
           "id": 4399,
           "name": "Young Treant",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4396,
           "name": "Demibeast Bandit Warrior Chief",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4387,
           "name": "Naga Captain",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4386,
           "name": "Naga Commander",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4385,
           "name": "Naga Combat Instructor",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4384,
           "name": "Naga Combat Axeman",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4415,
           "name": "Mine Imp Defense Tower",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4413,
           "name": "Naga Altar",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4411,
           "name": "Demibeast Bandit Elite Warrior",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4365,
           "name": "Contaminated Villager 2",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4364,
           "name": "Contaminated Villager 1",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4357,
           "name": "Ancient Troll Porter",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -80004,37 +80004,37 @@
         {
           "id": 4383,
           "name": "Naga Apprentice Axeman",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4382,
           "name": "Naga Apprentice Spearman",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4381,
           "name": "Naga Combat Spearman",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4380,
           "name": "Naga Trainer",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4378,
           "name": "Ruins Stone Tree",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
           "id": 4377,
           "name": "Sorcerer",
-          "icon_image": "knowledgeIcons/COLLECTED_ecology",
+          "icon_image": "knowledgeIcons/collected_ecology",
           "db_type": "knowledge"
         },
         {
@@ -80112,253 +80112,253 @@
         {
           "id": 3310,
           "name": "Mariveno Island Fish Drying Yard",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3309,
           "name": "Weita Island Fish Drying Yard",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3308,
           "name": "Louruve Island Fish Drying Yard",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3307,
           "name": "Lisz Island Fish Drying Yard 2",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3306,
           "name": "Lisz Island Fish Drying Yard 1",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3305,
           "name": "Staren Island Fish Drying Yard 2",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3304,
           "name": "Staren Island Fish Drying Yard 1",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3303,
           "name": "Albresser Island Fish Drying Yard",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3302,
           "name": "Barater Island Fish Drying Yard 2",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3301,
           "name": "Barater Island Fish Drying Yard 1",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3300,
           "name": "Oben Island Fish Drying Yard 2",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3299,
           "name": "Oben Island Fish Drying Yard 1",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3298,
           "name": "Randis Island Fish Drying Yard 2",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3297,
           "name": "Daton Island Fish Drying Yard",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3296,
           "name": "Randis Island Fish Drying Yard 1",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3323,
           "name": "Cox Pirates' Lair",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3270,
           "name": "Invernen Island Fish Drying Yard 2",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3269,
           "name": "Lema Island Fish Drying Yard",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3268,
           "name": "Invernen Island Fish Drying Yard 1",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3267,
           "name": "Orffs Island Fish Drying Yard 2",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3266,
           "name": "Orffs Island Fish Drying Yard 1",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3265,
           "name": "Angie Island Fish Drying Yard 3",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3264,
           "name": "Angie Island Fish Drying Yard 2",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3295,
           "name": "Teyamal Island Fish Drying Yard 2",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3294,
           "name": "Teyamal Island Fish Drying Yard 1",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3293,
           "name": "Modric Island Fish Drying Yard",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3292,
           "name": "Baeza Island Fish Drying Yard",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3291,
           "name": "Serca Island Fish Drying Yard",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3263,
           "name": "Angie Island Fish Drying Yard 1",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3262,
           "name": "Luivano Island Fish Drying Yard",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3261,
           "name": "Mariveno Island Fish Drying Yard",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3260,
           "name": "Ephde Rune Island Fish Drying Yard",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3258,
           "name": "Paratama Island Fish Drying Yard",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3257,
           "name": "Beiruwa Island Fish Drying Yard",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3256,
           "name": "Taramura Island Fish Drying Yard 2",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3255,
           "name": "Taramura Island Fish Drying Yard 1",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3254,
           "name": "Delinghart Island Fish Drying Yard 2",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3253,
           "name": "Delinghart Island Fish Drying Yard 1",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3252,
           "name": "Pilava Island Fish Drying Yard 2",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3251,
           "name": "Pilava Island Fish Drying Yard 1",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3250,
           "name": "Pujara Island Fish Drying Yard 2",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
           "id": 3249,
           "name": "Pujara Island Fish Drying Yard 1",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
@@ -80430,7 +80430,7 @@
         {
           "id": 3329,
           "name": "Feltron Island",
-          "icon_image": "knowledgeIcons/COLLECTED_topography",
+          "icon_image": "knowledgeIcons/collected_topography",
           "db_type": "knowledge"
         },
         {
@@ -80460,7 +80460,7 @@
         {
           "id": 880,
           "name": "L'al Hammi",
-          "icon_image": "knowledgeIcons/COLLECTED_person",
+          "icon_image": "knowledgeIcons/collected_person",
           "db_type": "knowledge"
         },
         {
