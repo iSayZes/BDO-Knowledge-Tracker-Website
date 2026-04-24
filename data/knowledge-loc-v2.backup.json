@@ -260,6 +260,20 @@
               "descriptionText": "after completing Oquilla's Eye Main QuestlineJarette Domongatt at the Western Guard Camp seems to know about the Blue Pearl."
             }
           ]
+        },
+        {
+          "category": "Academics",
+          "npcId": 40041,
+          "npcName": "Jarette Domongtt",
+          "knowledgeId": 6580,
+          "title": "Cliff the Old Timer",
+          "acquisitionMethods": [
+            {
+              "type": "amityQuest",
+              "descriptionText": "Cliff's Writing",
+              "condition": "20 Amity"
+            }
+          ]
         }
       ]
     },
@@ -26086,7 +26100,7 @@
           "npcName": "Knowledge NPC",
           "knowledgeId": 3619,
           "title": "Black Stone Mine",
-          "descriptionText": "Black Stone Mine"
+          "descriptionText": "In a cave, entrance is located in Muzgar"
         },
         {
           "category": "Adventure Logs",
@@ -26097,7 +26111,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": ""
+              "descriptionText": "In a cave, entrance is located in Muzgar"
             }
           ]
         }
@@ -26525,6 +26539,19 @@
       "y": 75310,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 42119,
+          "npcName": "Annolisa Rosie",
+          "knowledgeId": 377,
+          "title": "Annolisa Rosie",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Annolisa Rosie"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 42119,
           "npcName": "Annolisa Rosie",
@@ -26550,6 +26577,14 @@
               "condition": "for Lv. 50 and higher"
             }
           ]
+        },
+        {
+          "category": "Academics",
+          "npcId": 42119,
+          "npcName": "Annolisa Rosie",
+          "knowledgeId": 6609,
+          "title": "The Great Libary of Calpheon",
+          "descriptionText": "Buy from Annolisa Rosie"
         }
       ]
     },
@@ -47379,7 +47414,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76736,7 +76771,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76755,7 +76790,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76774,7 +76809,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76793,7 +76828,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76812,7 +76847,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76831,7 +76866,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76850,7 +76885,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76869,7 +76904,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76888,7 +76923,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76907,7 +76942,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76926,7 +76961,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76945,7 +76980,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76964,7 +76999,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "On top of stable"
             }
           ]
         }
@@ -76983,7 +77018,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77002,7 +77037,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "On the roof"
             }
           ]
         }
@@ -77021,7 +77056,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77040,7 +77075,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77059,7 +77094,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77078,7 +77113,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77097,7 +77132,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77116,7 +77151,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77135,7 +77170,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77154,7 +77189,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77173,7 +77208,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77192,7 +77227,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77211,7 +77246,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77230,7 +77265,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77249,7 +77284,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77268,7 +77303,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77287,7 +77322,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77306,7 +77341,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77325,7 +77360,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77344,7 +77379,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77363,7 +77398,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77382,7 +77417,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77401,7 +77436,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77420,7 +77455,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "1st floor"
             }
           ]
         }
@@ -77439,7 +77474,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Ground floor"
             }
           ]
         }
@@ -77458,7 +77493,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77477,7 +77512,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77496,7 +77531,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77515,7 +77550,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort Work Camp"
+              "descriptionText": "Asparkan Fort Work Camp"
             }
           ]
         }
@@ -77534,7 +77569,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort Work Camp"
+              "descriptionText": "Asparkan Fort Work Camp"
             }
           ]
         }
@@ -77553,7 +77588,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort Work Camp"
+              "descriptionText": "Asparkan Fort Work Camp"
             }
           ]
         }
@@ -79739,7 +79774,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": ""
+              "descriptionText": "In a cave, entrance is located in Muzgar"
             }
           ]
         }
@@ -79758,7 +79793,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": ""
+              "descriptionText": "In a cave, entrance is located in Muzgar"
             }
           ]
         }

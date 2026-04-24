@@ -25804,6 +25804,19 @@
       "y": 79864,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 47433,
+          "npcName": "Haydar",
+          "knowledgeId": 2174,
+          "title": "Haydar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Haydar"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 47433,
           "npcName": "Haydar",
@@ -25901,6 +25914,19 @@
       "x": 84724,
       "y": 80706,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47451,
+          "npcName": "Krizalun",
+          "knowledgeId": 2189,
+          "title": "Krizalun",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Krizalun"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 47451,
@@ -26100,7 +26126,7 @@
           "npcName": "Knowledge NPC",
           "knowledgeId": 3619,
           "title": "Black Stone Mine",
-          "descriptionText": "Black Stone Mine"
+          "descriptionText": "In a cave, entrance is located in Muzgar"
         },
         {
           "category": "Adventure Logs",
@@ -26111,7 +26137,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": ""
+              "descriptionText": "In a cave, entrance is located in Muzgar"
             }
           ]
         }
@@ -26135,6 +26161,19 @@
       "x": 80974,
       "y": 87273,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47420,
+          "npcName": "Dimelt",
+          "knowledgeId": 2236,
+          "title": "Dimelt",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Dimelt"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 47420,
@@ -47414,7 +47453,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76771,7 +76810,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76790,7 +76829,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76809,7 +76848,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76828,7 +76867,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76847,7 +76886,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76866,7 +76905,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76885,7 +76924,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76904,7 +76943,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76923,7 +76962,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76942,7 +76981,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76961,7 +77000,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76980,7 +77019,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -76999,7 +77038,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "On top of stable"
             }
           ]
         }
@@ -77018,7 +77057,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77037,7 +77076,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "On the roof"
             }
           ]
         }
@@ -77056,7 +77095,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77075,7 +77114,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77094,7 +77133,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77113,7 +77152,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77132,7 +77171,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77151,7 +77190,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77170,7 +77209,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77189,7 +77228,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77208,7 +77247,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77227,7 +77266,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77246,7 +77285,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77265,7 +77304,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77284,7 +77323,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77303,7 +77342,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77322,7 +77361,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77341,7 +77380,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77360,7 +77399,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77379,7 +77418,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77398,7 +77437,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77417,7 +77456,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77436,7 +77475,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77455,7 +77494,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "1st floor"
             }
           ]
         }
@@ -77474,7 +77513,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Ground floor"
             }
           ]
         }
@@ -77493,7 +77532,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77512,7 +77551,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77531,7 +77570,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort"
+              "descriptionText": "Asparkan Fort"
             }
           ]
         }
@@ -77550,7 +77589,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort Work Camp"
+              "descriptionText": "Asparkan Fort Work Camp"
             }
           ]
         }
@@ -77569,7 +77608,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort Work Camp"
+              "descriptionText": "Asparkan Fort Work Camp"
             }
           ]
         }
@@ -77588,7 +77627,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": "- Asparkan Fort Work Camp"
+              "descriptionText": "Asparkan Fort Work Camp"
             }
           ]
         }
@@ -79774,7 +79813,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": ""
+              "descriptionText": "In a cave, entrance is located in Muzgar"
             }
           ]
         }
@@ -79793,7 +79832,7 @@
           "acquisitionMethods": [
             {
               "type": "interaction",
-              "descriptionText": ""
+              "descriptionText": "In a cave, entrance is located in Muzgar"
             }
           ]
         }
@@ -96661,6 +96700,77 @@
             {
               "type": "dialogue",
               "descriptionText": "Akasak"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 80133,
+      "y": 88111,
+      "entries": [
+        {
+          "category": "Topography",
+          "npcId": 57228,
+          "npcName": "Knowledge NPC",
+          "knowledgeId": 3621,
+          "title": "Yzrahid Highlands",
+          "acquisitionMethods": [
+            {
+              "type": "exploration",
+              "descriptionText": "Yzrahid Highlands"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79730,
+      "y": 88084,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47457,
+          "npcName": "Gentle Navis",
+          "knowledgeId": 2237,
+          "title": "Gentle Navis",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Gentle Navis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68934,
+      "y": 69056,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40070,
+          "npcName": "Laiano Pietro",
+          "knowledgeId": 54,
+          "title": "Laiano Pietro",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Laiano Pietro"
+            }
+          ]
+        },
+        {
+          "category": "Academics",
+          "npcId": 40070,
+          "npcName": "Laiano Pietro",
+          "knowledgeId": 6551,
+          "title": "Flute",
+          "acquisitionMethods": [
+            {
+              "type": "daily",
+              "descriptionText": "[Daily] House and Mouse",
+              "condition": "Must have a [CP] Flute in the in inventory"
             }
           ]
         }
