@@ -7,7 +7,7 @@ An interactive map and knowledge tracker for Black Desert Online.
 <!-- stats:start -->
 ## Location Coverage
 
-**5,268 / 12,087** knowledge entries have map pins &nbsp;·&nbsp; **43.6% coverage**
+**7,292 / 12,087** knowledge entries have map pins &nbsp;·&nbsp; **60.3% coverage**
 
 | Category | Mapped | Total | Coverage |
 | --- | ---: | ---: | ---: |
@@ -17,7 +17,7 @@ An interactive map and knowledge tracker for Black Desert Online.
 | Ecology | 92 | 1,262 | 7.3% |
 | Adventure Logs | 3,117 | 4,258 | 73.2% |
 | Academics | 436 | 456 | 95.6% |
-| Life Skills | 150 | 2,174 | 6.9% |
+| Life Skills | 2,174 | 2,174 | 100.0% |
 | Learning the Ropes of Black Desert | 87 | 265 | 32.8% |
 | Trade | 462 | 462 | 100.0% |
 
