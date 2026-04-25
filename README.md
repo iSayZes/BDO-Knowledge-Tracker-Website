@@ -7,11 +7,11 @@ An interactive map and knowledge tracker for Black Desert Online.
 <!-- stats:start -->
 ## Location Coverage
 
-**7,292 / 12,087** knowledge entries have map pins &nbsp;·&nbsp; **60.3% coverage**
+**7,375 / 12,087** knowledge entries have map pins &nbsp;·&nbsp; **61.0% coverage**
 
 | Category | Mapped | Total | Coverage |
 | --- | ---: | ---: | ---: |
-| Characters | 388 | 2,296 | 16.9% |
+| Characters | 471 | 2,296 | 20.5% |
 | Topography | 458 | 529 | 86.6% |
 | Sea | 78 | 84 | 92.9% |
 | Ecology | 92 | 1,262 | 7.3% |

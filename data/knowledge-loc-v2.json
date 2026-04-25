@@ -1683,6 +1683,19 @@
       "y": 69349,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40063,
+          "npcName": "Eileen",
+          "knowledgeId": 45,
+          "title": "Eileen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia General Goods Vendor"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 40063,
           "npcName": "Eileen",
@@ -10953,7 +10966,7 @@
           "acquisitionMethods": [
             {
               "type": "dialogue",
-              "descriptionText": "Egrin"
+              "descriptionText": "Velia Cave Explorer"
             }
           ]
         },
@@ -27451,6 +27464,19 @@
       "y": 69047,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40064,
+          "npcName": "Shakas",
+          "knowledgeId": 46,
+          "title": "Shakas",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Goblin with Black Stone"
+            }
+          ]
+        },
+        {
           "category": "Learning the Ropes of Black Desert",
           "npcId": 40064,
           "npcName": "Shakas",
@@ -32454,6 +32480,19 @@
       "y": 69196,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40002,
+          "npcName": "Zaaira",
+          "knowledgeId": 2,
+          "title": "Zaaira",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Material Vendor"
+            }
+          ]
+        },
+        {
           "category": "Life Skills",
           "npcId": 40002,
           "npcName": "Zaaira",
@@ -34594,6 +34633,19 @@
       "y": 70357,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40036,
+          "npcName": "Armstrong",
+          "knowledgeId": 38,
+          "title": "Armstrong",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Camp Skill Instructor"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 40036,
           "npcName": "Armstrong",
@@ -34632,6 +34684,19 @@
       "y": 72608,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40037,
+          "npcName": "Lafi Bedmountain",
+          "knowledgeId": 179,
+          "title": "Lafi Bedmountain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ancient Language Analyst"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 40037,
           "npcName": "Lafi Bedmountain",
@@ -34650,6 +34715,19 @@
       "x": 67014,
       "y": 72588,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40038,
+          "npcName": "Orwen",
+          "knowledgeId": 180,
+          "title": "Orwen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Half-Elf Lady"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 40038,
@@ -35531,6 +35609,19 @@
       "x": 69214,
       "y": 69141,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40013,
+          "npcName": "David Finto",
+          "knowledgeId": 14,
+          "title": "David Finto",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lunar Halo Inn Cook"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 40013,
@@ -45568,6 +45659,19 @@
       "y": 69138,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40010,
+          "npcName": "Bahar",
+          "knowledgeId": 10,
+          "title": "Bahar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Trade Manager"
+            }
+          ]
+        },
+        {
           "category": "Academics",
           "npcId": 40010,
           "npcName": "Bahar",
@@ -52135,6 +52239,19 @@
       "y": 73891,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        },
+        {
           "category": "Life Skills",
           "npcId": 59562,
           "npcName": "Dalishain",
@@ -52326,6 +52443,19 @@
       "x": 61755,
       "y": 96727,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        },
         {
           "category": "Life Skills",
           "npcId": 59562,
@@ -64154,6 +64284,19 @@
           "category": "Characters",
           "npcId": 59199,
           "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        },
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
           "knowledgeId": 11534,
           "title": "Leyla",
           "descriptionText": "Leyla"
@@ -64196,6 +64339,19 @@
           "category": "Characters",
           "npcId": 59199,
           "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        },
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
           "knowledgeId": 11534,
           "title": "Leyla",
           "descriptionText": "Leyla"
@@ -64206,6 +64362,19 @@
       "x": 58406,
       "y": 73421,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        },
         {
           "category": "Characters",
           "npcId": 59199,
@@ -64252,6 +64421,19 @@
           "category": "Characters",
           "npcId": 59199,
           "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        },
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
           "knowledgeId": 11534,
           "title": "Leyla",
           "descriptionText": "Leyla"
@@ -64280,6 +64462,19 @@
           "category": "Characters",
           "npcId": 59199,
           "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        },
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
           "knowledgeId": 11534,
           "title": "Leyla",
           "descriptionText": "Leyla"
@@ -64304,6 +64499,19 @@
       "x": 83995,
       "y": 77673,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        },
         {
           "category": "Characters",
           "npcId": 59199,
@@ -64374,6 +64582,19 @@
       "x": 92346,
       "y": 70203,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        },
         {
           "category": "Characters",
           "npcId": 59199,
@@ -64476,6 +64697,19 @@
           "category": "Characters",
           "npcId": 59199,
           "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        },
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
           "knowledgeId": 11534,
           "title": "Leyla",
           "descriptionText": "Leyla"
@@ -64518,6 +64752,19 @@
           "category": "Characters",
           "npcId": 59199,
           "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        },
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
           "knowledgeId": 11534,
           "title": "Leyla",
           "descriptionText": "Leyla"
@@ -64528,6 +64775,19 @@
       "x": 23203,
       "y": 21332,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        },
         {
           "category": "Characters",
           "npcId": 59199,
@@ -64556,6 +64816,19 @@
       "x": 28882,
       "y": 19309,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        },
         {
           "category": "Characters",
           "npcId": 59199,
@@ -64626,6 +64899,19 @@
       "x": 91037,
       "y": 53151,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        },
         {
           "category": "Characters",
           "npcId": 59199,
@@ -80937,6 +81223,19 @@
       "y": 88058,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 47416,
+          "npcName": "Eyshah",
+          "knowledgeId": 2243,
+          "title": "Eyshah",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Eyshah"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 47416,
           "npcName": "Eyshah",
@@ -81772,6 +82071,19 @@
       "x": 85175,
       "y": 88281,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47445,
+          "npcName": "Merhamet",
+          "knowledgeId": 2249,
+          "title": "Merhamet",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Merhamet"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 47445,
@@ -96771,6 +97083,2476 @@
               "type": "daily",
               "descriptionText": "[Daily] House and Mouse",
               "condition": "Must have a [CP] Flute in the in inventory"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68864,
+      "y": 69362,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 58405,
+      "y": 73527,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 82939,
+      "y": 75071,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79726,
+      "y": 80115,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 109598,
+      "y": 64559,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48127,
+      "y": 90629,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66433,
+      "y": 88483,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 75790,
+      "y": 88268,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 23647,
+      "y": 21137,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 82824,
+      "y": 84490,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 85083,
+      "y": 88386,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 9346,
+      "y": 18590,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 14493,
+      "y": 11758,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 91002,
+      "y": 53131,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 58890,
+      "y": 74020,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66439,
+      "y": 88527,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59562,
+          "npcName": "Dalishain",
+          "knowledgeId": 10411,
+          "title": "Dalishain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wandering Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68620,
+      "y": 68931,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40133,
+          "npcName": "Hans",
+          "knowledgeId": 58,
+          "title": "Hans",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Vigilante"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69119,
+      "y": 69538,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40048,
+          "npcName": "Houtman",
+          "knowledgeId": 403,
+          "title": "Houtman",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Ossuary Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69316,
+      "y": 68909,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40020,
+          "npcName": "Claire Arryn",
+          "knowledgeId": 22,
+          "title": "Claire Arryn",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Worry-ridden Mother"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69318,
+      "y": 69008,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40020,
+          "npcName": "Claire Arryn",
+          "knowledgeId": 22,
+          "title": "Claire Arryn",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Worry-ridden Mother"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68960,
+      "y": 68839,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40022,
+          "npcName": "Abelin",
+          "knowledgeId": 24,
+          "title": "Abelin",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Fisher Boy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69208,
+      "y": 69171,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40001,
+          "npcName": "Islin Bartali",
+          "knowledgeId": 1,
+          "title": "Islin Bartali",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lunar Halo Inn Owner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68823,
+      "y": 69059,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40014,
+          "npcName": "Alustin",
+          "knowledgeId": 15,
+          "title": "Alustin",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velian Alchemist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69308,
+      "y": 69278,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40066,
+          "npcName": "Mariano",
+          "knowledgeId": 48,
+          "title": "Mariano",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Cat-a-holic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69030,
+      "y": 68987,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40008,
+          "npcName": "Tranan Underfoe",
+          "knowledgeId": 8,
+          "title": "Tranan Underfoe",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Blacksmith"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69105,
+      "y": 69222,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40018,
+          "npcName": "Santo Manzi",
+          "knowledgeId": 20,
+          "title": "Santo Manzi",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Tough Guy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69336,
+      "y": 69207,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40002,
+          "npcName": "Zaaira",
+          "knowledgeId": 2,
+          "title": "Zaaira",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Material Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69323,
+      "y": 68967,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40003,
+          "npcName": "Alfredo",
+          "knowledgeId": 3,
+          "title": "Alfredo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Arms Dealer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69324,
+      "y": 68967,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40003,
+          "npcName": "Alfredo",
+          "knowledgeId": 3,
+          "title": "Alfredo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Arms Dealer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69573,
+      "y": 69228,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40004,
+          "npcName": "Clorince",
+          "knowledgeId": 4,
+          "title": "Clorince",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia General Goods Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69582,
+      "y": 69239,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40004,
+          "npcName": "Clorince",
+          "knowledgeId": 4,
+          "title": "Clorince",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia General Goods Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69426,
+      "y": 69145,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40005,
+          "npcName": "Sealus",
+          "knowledgeId": 5,
+          "title": "Sealus",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Furniture Dealer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69322,
+      "y": 69194,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40007,
+          "npcName": "Pulvio",
+          "knowledgeId": 7,
+          "title": "Pulvio",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Trainer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69320,
+      "y": 69206,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40007,
+          "npcName": "Pulvio",
+          "knowledgeId": 7,
+          "title": "Pulvio",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Trainer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69473,
+      "y": 69137,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40010,
+          "npcName": "Bahar",
+          "knowledgeId": 10,
+          "title": "Bahar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Trade Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68989,
+      "y": 69046,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40011,
+          "npcName": "Shiel",
+          "knowledgeId": 11,
+          "title": "Shiel",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Central Market Director"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69209,
+      "y": 69122,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47719,
+          "npcName": "Bella",
+          "knowledgeId": 14736,
+          "title": "Bella",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Bella"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69611,
+      "y": 69249,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47728,
+          "npcName": "Lulu",
+          "knowledgeId": 14745,
+          "title": "Lulu",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lulu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68881,
+      "y": 69326,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47710,
+          "npcName": "Marian",
+          "knowledgeId": 14727,
+          "title": "Marian",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Marian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67364,
+      "y": 71087,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40065,
+          "npcName": "Paola Toscani",
+          "knowledgeId": 47,
+          "title": "Paola Toscani",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Concerned Old Lady"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68060,
+      "y": 69152,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40027,
+          "npcName": "Camellia Loggia",
+          "knowledgeId": 29,
+          "title": "Camellia Loggia",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Pretty Lady"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68734,
+      "y": 69315,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40023,
+          "npcName": "Indasil",
+          "knowledgeId": 25,
+          "title": "Indasil",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Wine Expert"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69194,
+      "y": 68833,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40021,
+          "npcName": "Adrian Loggia",
+          "knowledgeId": 23,
+          "title": "Adrian Loggia",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Boy Dreaming of Chivalrous Knighthood"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69294,
+      "y": 68927,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40021,
+          "npcName": "Adrian Loggia",
+          "knowledgeId": 23,
+          "title": "Adrian Loggia",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Boy Dreaming of Chivalrous Knighthood"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65911,
+      "y": 70517,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40042,
+          "npcName": "Constant",
+          "knowledgeId": 42,
+          "title": "Constant",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Guard Camp Homemaker"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65995,
+      "y": 70431,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40042,
+          "npcName": "Constant",
+          "knowledgeId": 42,
+          "title": "Constant",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Guard Camp Homemaker"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65792,
+      "y": 70436,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40039,
+          "npcName": "Jamie",
+          "knowledgeId": 39,
+          "title": "Jamie",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Camp Guard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66465,
+      "y": 70376,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40039,
+          "npcName": "Jamie",
+          "knowledgeId": 39,
+          "title": "Jamie",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Camp Guard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66143,
+      "y": 70605,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40036,
+          "npcName": "Armstrong",
+          "knowledgeId": 38,
+          "title": "Armstrong",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Camp Skill Instructor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66019,
+      "y": 70416,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40035,
+          "npcName": "Miguel Aries",
+          "knowledgeId": 37,
+          "title": "Miguel Aries",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Camp Blacksmith"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66023,
+      "y": 70415,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40035,
+          "npcName": "Miguel Aries",
+          "knowledgeId": 37,
+          "title": "Miguel Aries",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Camp Blacksmith"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66000,
+      "y": 70440,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40033,
+          "npcName": "Claus",
+          "knowledgeId": 35,
+          "title": "Claus",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Camp Arms Dealer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66013,
+      "y": 70417,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40033,
+          "npcName": "Claus",
+          "knowledgeId": 35,
+          "title": "Claus",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Camp Arms Dealer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66272,
+      "y": 70485,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40032,
+          "npcName": "Hessenvale",
+          "knowledgeId": 34,
+          "title": "Hessenvale",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Camp General Goods Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65993,
+      "y": 70439,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40032,
+          "npcName": "Hessenvale",
+          "knowledgeId": 34,
+          "title": "Hessenvale",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Camp General Goods Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 65985,
+      "y": 70538,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40034,
+          "npcName": "Samuel",
+          "knowledgeId": 60,
+          "title": "Samuel",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Guard Camp Stable Keeper"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69528,
+      "y": 69204,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70259,
+      "y": 73996,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 63163,
+      "y": 67797,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62649,
+      "y": 77992,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 57288,
+      "y": 81438,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 63306,
+      "y": 74076,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 82126,
+      "y": 74894,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79900,
+      "y": 80097,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 77703,
+      "y": 74946,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 108956,
+      "y": 64638,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 91824,
+      "y": 60848,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 107626,
+      "y": 58754,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 119128,
+      "y": 64984,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 57713,
+      "y": 86150,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 54085,
+      "y": 90061,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48224,
+      "y": 81096,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48148,
+      "y": 91167,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 61619,
+      "y": 96546,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 55935,
+      "y": 96801,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 15869,
+      "y": 26786,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 82833,
+      "y": 84498,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 85092,
+      "y": 88383,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 8994,
+      "y": 18695,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 15216,
+      "y": 12464,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59199,
+          "npcName": "Fughar",
+          "knowledgeId": 1605,
+          "title": "Fughar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Crow Merchant Guild Chief Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69121,
+      "y": 69126,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 49531,
+          "npcName": "Klau",
+          "knowledgeId": 1213,
+          "title": "Klau",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Old Moon Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69376,
+      "y": 69022,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 49526,
+          "npcName": "Jamey Drucker",
+          "knowledgeId": 1209,
+          "title": "Jamey Drucker",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Training Merchant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69216,
+      "y": 68419,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 58045,
+          "npcName": "Proix",
+          "knowledgeId": 1463,
+          "title": "Proix",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Dancing Marlin Tavern"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62983,
+      "y": 68306,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40727,
+          "npcName": "Chuck Laurie",
+          "knowledgeId": 1314,
+          "title": "Chuck Laurie",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Chuck Laurie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69509,
+      "y": 69159,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40046,
+          "npcName": "Elmos Berry",
+          "knowledgeId": 225,
+          "title": "Elmos Berry",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Luxury Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69351,
+      "y": 68940,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50011,
+          "npcName": "Garnil",
+          "knowledgeId": 185,
+          "title": "Garnil",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Workshop Node Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70398,
+      "y": 73482,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40038,
+          "npcName": "Orwen",
+          "knowledgeId": 180,
+          "title": "Orwen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Half-Elf Lady"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62713,
+      "y": 67466,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40038,
+          "npcName": "Orwen",
+          "knowledgeId": 180,
+          "title": "Orwen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Half-Elf Lady"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67007,
+      "y": 72595,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40038,
+          "npcName": "Orwen",
+          "knowledgeId": 180,
+          "title": "Orwen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Half-Elf Lady"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62712,
+      "y": 67458,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40037,
+          "npcName": "Lafi Bedmountain",
+          "knowledgeId": 179,
+          "title": "Lafi Bedmountain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ancient Language Analyst"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67395,
+      "y": 71081,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40045,
+          "npcName": "Kina",
+          "knowledgeId": 61,
+          "title": "Kina",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Confident Go-Getter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67706,
+      "y": 69538,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40129,
+          "npcName": "Uno",
+          "knowledgeId": 57,
+          "title": "Uno",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Information Seeker"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66004,
+      "y": 70560,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40028,
+          "npcName": "Luke",
+          "knowledgeId": 30,
+          "title": "Luke",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Camp Trade Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66001,
+      "y": 70555,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40028,
+          "npcName": "Luke",
+          "knowledgeId": 30,
+          "title": "Luke",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Camp Trade Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69389,
+      "y": 69268,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40016,
+          "npcName": "Ottavio Ferre",
+          "knowledgeId": 17,
+          "title": "Ottavio Ferre",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Elionian Priest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69413,
+      "y": 69272,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40016,
+          "npcName": "Ottavio Ferre",
+          "knowledgeId": 17,
+          "title": "Ottavio Ferre",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Elionian Priest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68940,
+      "y": 68881,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40044,
+          "npcName": "Ernill",
+          "knowledgeId": 183,
+          "title": "Ernill",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Storage Keeper"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70301,
+      "y": 73631,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 41028,
+          "npcName": "Carolin",
+          "knowledgeId": 128,
+          "title": "Carolin",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lord of Heidel's Handmaid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 88471,
+      "y": 86971,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47485,
+          "npcName": "Prorio",
+          "knowledgeId": 2255,
+          "title": "Prorio",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Prorio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84903,
+      "y": 87127,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47484,
+          "npcName": "Val Marun",
+          "knowledgeId": 2254,
+          "title": "Val Marun",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Val Marun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 86495,
+      "y": 86838,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47483,
+          "npcName": "Kuite",
+          "knowledgeId": 2253,
+          "title": "Kuite",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Kuite"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 85085,
+      "y": 88353,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47408,
+          "npcName": "Eldamr",
+          "knowledgeId": 2251,
+          "title": "Eldamr",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Eldamr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84995,
+      "y": 88208,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47409,
+          "npcName": "Bahzam",
+          "knowledgeId": 2250,
+          "title": "Bahzam",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Bahzam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84984,
+      "y": 88313,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47415,
+          "npcName": "Elmas",
+          "knowledgeId": 2248,
+          "title": "Elmas",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Elmas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84891,
+      "y": 88337,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47417,
+          "npcName": "Rolphron",
+          "knowledgeId": 2247,
+          "title": "Rolphron",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Rolphron"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84753,
+      "y": 88559,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47444,
+          "npcName": "Darcus",
+          "knowledgeId": 2246,
+          "title": "Darcus",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Darcus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84964,
+      "y": 88462,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47410,
+          "npcName": "Hagun",
+          "knowledgeId": 2245,
+          "title": "Hagun",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Hagun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84891,
+      "y": 88262,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47411,
+          "npcName": "Krodinon",
+          "knowledgeId": 2244,
+          "title": "Krodinon",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Krodinon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84379,
+      "y": 88162,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47412,
+          "npcName": "Belja",
+          "knowledgeId": 2241,
+          "title": "Belja",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Belja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84350,
+      "y": 88168,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47418,
+          "npcName": "Bedirhan",
+          "knowledgeId": 2240,
+          "title": "Bedirhan",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Bedirhan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 87949,
+      "y": 87833,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47432,
+          "npcName": "Zehra Mir",
+          "knowledgeId": 2260,
+          "title": "Zehra Mir",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Zehra Mir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 88505,
+      "y": 87956,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47421,
+          "npcName": "Nadi",
+          "knowledgeId": 2259,
+          "title": "Nadi",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Nadi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 87013,
+      "y": 87805,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47419,
+          "npcName": "Kal Lut",
+          "knowledgeId": 2258,
+          "title": "Kal Lut",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Kal Lut"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 87459,
+      "y": 88416,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47414,
+          "npcName": "Shatriman",
+          "knowledgeId": 2257,
+          "title": "Shatriman",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Shatriman"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 83884,
+      "y": 87882,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47413,
+          "npcName": "Zamera",
+          "knowledgeId": 2256,
+          "title": "Zamera",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Zamera"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 9563,
+      "y": 18569,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47539,
+          "npcName": "Bae Seunghyeon",
+          "knowledgeId": 2296,
+          "title": "Bae Seunghyeon",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Bae Seunghyeon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 15366,
+      "y": 11680,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47592,
+          "npcName": "Taegu",
+          "knowledgeId": 2336,
+          "title": "Taegu",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Taegu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 12554,
+      "y": 21053,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47560,
+          "npcName": "Horyeong",
+          "knowledgeId": 2316,
+          "title": "Horyeong",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Horyeong"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 14009,
+      "y": 12052,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47590,
+          "npcName": "Surim",
+          "knowledgeId": 2334,
+          "title": "Surim",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Surim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 12977,
+      "y": 16602,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47611,
+          "npcName": "Jung Hwadam",
+          "knowledgeId": 2364,
+          "title": "Jung Hwadam",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Jung Hwadam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 9896,
+      "y": 20322,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47507,
+          "npcName": "Haegang",
+          "knowledgeId": 2266,
+          "title": "Haegang",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Haegang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 10259,
+      "y": 20084,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47506,
+          "npcName": "Inhye",
+          "knowledgeId": 2265,
+          "title": "Inhye",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Inhye"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 9960,
+      "y": 20388,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47505,
+          "npcName": "Geummin",
+          "knowledgeId": 2264,
+          "title": "Geummin",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Geummin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 10017,
+      "y": 20153,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47504,
+          "npcName": "Dani",
+          "knowledgeId": 2263,
+          "title": "Dani",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Dani"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 10092,
+      "y": 20098,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47503,
+          "npcName": "Hani",
+          "knowledgeId": 2262,
+          "title": "Hani",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Hani"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 10088,
+      "y": 20082,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47502,
+          "npcName": "Im Yeook",
+          "knowledgeId": 2261,
+          "title": "Im Yeook",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Im Yeook"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 11384,
+      "y": 22694,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47642,
+          "npcName": "Heungdeok",
+          "knowledgeId": 2383,
+          "title": "Heungdeok",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Heungdeok"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 11424,
+      "y": 22760,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47644,
+          "npcName": "Dongman",
+          "knowledgeId": 2384,
+          "title": "Dongman",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Dongman"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 12972,
+      "y": 24040,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47609,
+          "npcName": "Deokman",
+          "knowledgeId": 2352,
+          "title": "Deokman",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Deokman"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 9611,
+      "y": 18420,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47540,
+          "npcName": "Bae Seohee",
+          "knowledgeId": 2297,
+          "title": "Bae Seohee",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Bae Seohee"
             }
           ]
         }
