@@ -618,7 +618,7 @@
         {
           "id": 1029,
           "name": "Mernuah",
-          "icon_image": "knowledgeIcons/ic_01029_person",
+          "icon_image": "knowledgeIcons/ic_01029",
           "db_type": "knowledge"
         },
         {
@@ -1302,13 +1302,13 @@
         {
           "id": 1026,
           "name": "Yaska",
-          "icon_image": "knowledgeIcons/ic_01026_Person",
+          "icon_image": "knowledgeIcons/ic_01026",
           "db_type": "knowledge"
         },
         {
           "id": 1013,
           "name": "Nidgoveh",
-          "icon_image": "knowledgeIcons/ic_01013_Person",
+          "icon_image": "knowledgeIcons/ic_01013",
           "db_type": "knowledge"
         }
       ]
@@ -1361,55 +1361,55 @@
         {
           "id": 1030,
           "name": "Zishuka",
-          "icon_image": "knowledgeIcons/ic_01030_person",
+          "icon_image": "knowledgeIcons/ic_01030",
           "db_type": "knowledge"
         },
         {
           "id": 1027,
           "name": "Freddie",
-          "icon_image": "knowledgeIcons/ic_01027_Person",
+          "icon_image": "knowledgeIcons/ic_01027",
           "db_type": "knowledge"
         },
         {
           "id": 1023,
           "name": "Chloe",
-          "icon_image": "knowledgeIcons/ic_01023_Person",
+          "icon_image": "knowledgeIcons/ic_01023",
           "db_type": "knowledge"
         },
         {
           "id": 1022,
           "name": "Ashley",
-          "icon_image": "knowledgeIcons/ic_01022_Person",
+          "icon_image": "knowledgeIcons/ic_01022",
           "db_type": "knowledge"
         },
         {
           "id": 1021,
           "name": "Amanda",
-          "icon_image": "knowledgeIcons/ic_01021_Person",
+          "icon_image": "knowledgeIcons/ic_01021",
           "db_type": "knowledge"
         },
         {
           "id": 1020,
           "name": "Scarlet",
-          "icon_image": "knowledgeIcons/ic_01020_Person",
+          "icon_image": "knowledgeIcons/ic_01020",
           "db_type": "knowledge"
         },
         {
           "id": 1019,
           "name": "Gunniss",
-          "icon_image": "knowledgeIcons/ic_01019_Person",
+          "icon_image": "knowledgeIcons/ic_01019",
           "db_type": "knowledge"
         },
         {
           "id": 1018,
           "name": "James Coop",
-          "icon_image": "knowledgeIcons/ic_01018_Person",
+          "icon_image": "knowledgeIcons/ic_01018",
           "db_type": "knowledge"
         },
         {
           "id": 1017,
           "name": "Leonardo",
-          "icon_image": "knowledgeIcons/ic_01017_Person",
+          "icon_image": "knowledgeIcons/ic_01017",
           "db_type": "knowledge"
         },
         {
@@ -1558,13 +1558,13 @@
         {
           "id": 1015,
           "name": "Purio",
-          "icon_image": "knowledgeIcons/ic_01015_Person",
+          "icon_image": "knowledgeIcons/ic_01015",
           "db_type": "knowledge"
         },
         {
           "id": 1014,
           "name": "Torio",
-          "icon_image": "knowledgeIcons/ic_01014_Person",
+          "icon_image": "knowledgeIcons/ic_01014",
           "db_type": "knowledge"
         }
       ]
@@ -2879,7 +2879,7 @@
         {
           "id": 1025,
           "name": "Adelph",
-          "icon_image": "knowledgeIcons/ic_01025_Person",
+          "icon_image": "knowledgeIcons/ic_01025",
           "db_type": "knowledge"
         },
         {
@@ -6649,7 +6649,7 @@
         {
           "id": 1028,
           "name": "Kozah",
-          "icon_image": "knowledgeIcons/ic_01028_person",
+          "icon_image": "knowledgeIcons/ic_01028",
           "db_type": "knowledge"
         },
         {
@@ -6685,7 +6685,7 @@
         {
           "id": 1003,
           "name": "Hidaye",
-          "icon_image": "knowledgeIcons/ic_01003_Person",
+          "icon_image": "knowledgeIcons/ic_01003",
           "db_type": "knowledge"
         },
         {
@@ -6998,25 +6998,25 @@
         {
           "id": 1033,
           "name": "Veri",
-          "icon_image": "knowledgeIcons/ic_01033_person",
+          "icon_image": "knowledgeIcons/ic_01033",
           "db_type": "knowledge"
         },
         {
           "id": 1032,
           "name": "Kennian",
-          "icon_image": "knowledgeIcons/ic_01032_person",
+          "icon_image": "knowledgeIcons/ic_01032",
           "db_type": "knowledge"
         },
         {
           "id": 1031,
           "name": "Afuaru",
-          "icon_image": "knowledgeIcons/ic_01031_person",
+          "icon_image": "knowledgeIcons/ic_01031",
           "db_type": "knowledge"
         },
         {
           "id": 1024,
           "name": "Gahaz Tuval",
-          "icon_image": "knowledgeIcons/ic_01024_Person",
+          "icon_image": "knowledgeIcons/ic_01024",
           "db_type": "knowledge"
         },
         {
@@ -7058,7 +7058,7 @@
         {
           "id": 1012,
           "name": "Kodad",
-          "icon_image": "knowledgeIcons/ic_01012_Person",
+          "icon_image": "knowledgeIcons/ic_01012",
           "db_type": "knowledge"
         },
         {
@@ -7418,13 +7418,13 @@
         {
           "id": 1016,
           "name": "Osman",
-          "icon_image": "knowledgeIcons/ic_01016_Person",
+          "icon_image": "knowledgeIcons/ic_01016",
           "db_type": "knowledge"
         },
         {
           "id": 1011,
           "name": "Aidja",
-          "icon_image": "knowledgeIcons/ic_01011_Person",
+          "icon_image": "knowledgeIcons/ic_01011",
           "db_type": "knowledge"
         },
         {
@@ -7685,7 +7685,7 @@
         {
           "id": 1043,
           "name": "Dudora Doriven",
-          "icon_image": "knowledgeIcons/ic_01043_person",
+          "icon_image": "knowledgeIcons/ic_01043",
           "db_type": "knowledge"
         },
         {
@@ -11149,7 +11149,8 @@
           "icon_image": "knowledgeIcons/collected_journal",
           "db_type": "knowledge"
         }
-      ]
+      ],
+      "hidden": true
     },
     {
       "id": 295,
@@ -11159,7 +11160,8 @@
       "need_count": 0,
       "increase_wp_2": 0,
       "need_count_2": 0,
-      "knowledge_entries": null
+      "knowledge_entries": null,
+      "hidden": true
     },
     {
       "id": 34,
