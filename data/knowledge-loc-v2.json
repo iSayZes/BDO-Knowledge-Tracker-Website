@@ -270,7 +270,7 @@
         {
           "category": "Academics",
           "npcId": 40041,
-          "npcName": "Jarette Domongtt",
+          "npcName": "Jarette Domongatt",
           "knowledgeId": 6580,
           "title": "Cliff the Old Timer",
           "acquisitionMethods": [
@@ -397,22 +397,9 @@
       "y": 73972,
       "entries": [
         {
-          "category": "Characters",
-          "npcId": 41011,
-          "npcName": "Melissa Brady",
-          "knowledgeId": 111,
-          "title": "Melissa Brady",
-          "acquisitionMethods": [
-            {
-              "type": "dialogue",
-              "descriptionText": "Izaro's One-sided Love"
-            }
-          ]
-        },
-        {
           "category": "Ecology",
           "npcId": 708,
-          "npcName": "Drunk",
+          "npcName": "Man",
           "knowledgeId": 4122,
           "title": "Fogan Amulet",
           "descriptionText": "Fogan Amulet"
@@ -424,22 +411,9 @@
       "y": 73921,
       "entries": [
         {
-          "category": "Characters",
-          "npcId": 41012,
-          "npcName": "Dora Fonti",
-          "knowledgeId": 112,
-          "title": "Dora Fonti",
-          "acquisitionMethods": [
-            {
-              "type": "dialogue",
-              "descriptionText": "Heidel Jeweler"
-            }
-          ]
-        },
-        {
           "category": "Ecology",
           "npcId": 708,
-          "npcName": "Drunk",
+          "npcName": "Adventurer",
           "knowledgeId": 4042,
           "title": "Bush Spider",
           "descriptionText": "Bush Spider"
@@ -560,19 +534,6 @@
       "x": 70442,
       "y": 73484,
       "entries": [
-        {
-          "category": "Characters",
-          "npcId": 41014,
-          "npcName": "Crucio Domongatt",
-          "knowledgeId": 114,
-          "title": "Crucio Domongatt",
-          "acquisitionMethods": [
-            {
-              "type": "dialogue",
-              "descriptionText": "Lord of Heidel"
-            }
-          ]
-        },
         {
           "category": "Ecology",
           "npcId": 750,
@@ -13925,6 +13886,19 @@
       "y": 78159,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 43001,
+          "npcName": "Ivana DeRose",
+          "knowledgeId": 411,
+          "title": "Ivana DeRose",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Keplan Innkeeper"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 43001,
           "npcName": "Ivana DeRose",
@@ -14033,6 +14007,19 @@
       "x": 62416,
       "y": 78107,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43002,
+          "npcName": "Andria",
+          "knowledgeId": 412,
+          "title": "Andria",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Keplan Arms Dealer"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 43002,
@@ -14290,6 +14277,19 @@
       "y": 78091,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 43004,
+          "npcName": "Kant",
+          "knowledgeId": 414,
+          "title": "Kant",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Keplan General Goods Vendor"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 43004,
           "npcName": "Kant",
@@ -14439,6 +14439,19 @@
       "x": 62229,
       "y": 78408,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43006,
+          "npcName": "Laniero Lucci",
+          "knowledgeId": 416,
+          "title": "Laniero Lucci",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Keplan Material Vendor"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 43006,
@@ -14957,6 +14970,19 @@
       "y": 78408,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 43007,
+          "npcName": "Irellio Lucci",
+          "knowledgeId": 417,
+          "title": "Irellio Lucci",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Keplan Building Manager"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 43007,
           "npcName": "Irellio Lucci",
@@ -15058,6 +15084,19 @@
       "x": 62439,
       "y": 78137,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43008,
+          "npcName": "Greco Gorda",
+          "knowledgeId": 418,
+          "title": "Greco Gorda",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Keplan Jeweler"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 43008,
@@ -15222,6 +15261,19 @@
       "y": 77998,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 43010,
+          "npcName": "Hamir",
+          "knowledgeId": 420,
+          "title": "Hamir",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Keplan Trade Manager"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 43010,
           "npcName": "Hamir",
@@ -15288,6 +15340,19 @@
       "x": 62236,
       "y": 78293,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43012,
+          "npcName": "Christine Cessory",
+          "knowledgeId": 421,
+          "title": "Christine Cessory",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Keplan Storage Keeper"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 43012,
@@ -15446,6 +15511,19 @@
       "x": 62596,
       "y": 78033,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43025,
+          "npcName": "Partus",
+          "knowledgeId": 430,
+          "title": "Partus",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Keplan Stable Keeper"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 43025,
@@ -20912,6 +20990,19 @@
       "y": 85849,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 45501,
+          "npcName": "Narchillan",
+          "knowledgeId": 1101,
+          "title": "Narchillan",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lemoria Guard Post Captain"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 45501,
           "npcName": "Narchillan",
@@ -20994,6 +21085,19 @@
       "y": 87014,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50706,
+          "npcName": "Neubella",
+          "knowledgeId": 1120,
+          "title": "Neubella",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Central Lemoria Camp Commander"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50706,
           "npcName": "Neubella",
@@ -21007,6 +21111,19 @@
       "x": 50485,
       "y": 91063,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50711,
+          "npcName": "Susan",
+          "knowledgeId": 1124,
+          "title": "Susan",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lemoria Beacon Towers Node Manager"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50711,
@@ -21141,6 +21258,19 @@
       "y": 81532,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50720,
+          "npcName": "Aniki",
+          "knowledgeId": 1183,
+          "title": "Aniki",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Valtarra Mountains Node Manager"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50720,
           "npcName": "Aniki",
@@ -21169,6 +21299,19 @@
       "y": 84976,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50713,
+          "npcName": "Hunnie",
+          "knowledgeId": 1177,
+          "title": "Hunnie",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Tooth Fairy Forest Node Manager"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50713,
           "npcName": "Hunnie",
@@ -21182,6 +21325,19 @@
       "x": 47149,
       "y": 85131,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45565,
+          "npcName": "Remitaronsom",
+          "knowledgeId": 1168,
+          "title": "Remitaronsom",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Tooth Fairy Chief"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 45565,
@@ -21210,6 +21366,19 @@
       "y": 81174,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 45567,
+          "npcName": "Lucielle Monet",
+          "knowledgeId": 1162,
+          "title": "Lucielle Monet",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Acher Guard Post Captain"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 45567,
           "npcName": "Lucielle Monet",
@@ -21224,6 +21393,19 @@
       "y": 87213,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 45579,
+          "npcName": "Weenie",
+          "knowledgeId": 1174,
+          "title": "Weenie",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Spirit Living in Weenie Looney Cabin"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 45579,
           "npcName": "Weenie",
@@ -21237,6 +21419,19 @@
       "x": 46873,
       "y": 80884,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45581,
+          "npcName": "Khalid",
+          "knowledgeId": 1192,
+          "title": "Khalid",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Loopy Tree Forest Node Manager"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 45581,
@@ -21280,6 +21475,19 @@
       "y": 89077,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50716,
+          "npcName": "Klaruss Mushroom",
+          "knowledgeId": 1179,
+          "title": "Klaruss Mushroom",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Polly's Forest Node Manager"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50716,
           "npcName": "Klaruss Mushroom",
@@ -21293,6 +21501,19 @@
       "x": 48687,
       "y": 86788,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50714,
+          "npcName": "Bahdrond",
+          "knowledgeId": 1176,
+          "title": "Bahdrond",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "White Tree Forest Node Manager"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50714,
@@ -21308,6 +21529,19 @@
       "y": 88765,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 45576,
+          "npcName": "Dalonine",
+          "knowledgeId": 1171,
+          "title": "Dalonine",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lake Flondor Keeper"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 45576,
           "npcName": "Dalonine",
@@ -21321,6 +21555,19 @@
       "x": 49793,
       "y": 82602,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50721,
+          "npcName": "Yianaros",
+          "knowledgeId": 1184,
+          "title": "Yianaros",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Yianaros's Field Node Manager"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50721,
@@ -21336,6 +21583,19 @@
       "y": 89741,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 45580,
+          "npcName": "Looney",
+          "knowledgeId": 1175,
+          "title": "Looney",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Spirit Living in Weenie Looney Cabin"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 45580,
           "npcName": "Looney",
@@ -21350,6 +21610,19 @@
       "y": 92171,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50719,
+          "npcName": "Lanette",
+          "knowledgeId": 1182,
+          "title": "Lanette",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Southern Kamasylvia Node Manager"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50719,
           "npcName": "Lanette",
@@ -21363,6 +21636,19 @@
       "x": 48738,
       "y": 92387,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50718,
+          "npcName": "Gyfin Rhasia Ruins",
+          "knowledgeId": 1181,
+          "title": "Gyfin Rhasia Ruins",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Gyfin Rhasia Temple Node Manager"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50718,
@@ -21391,6 +21677,19 @@
       "y": 88473,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50717,
+          "npcName": "Krogdalo's Trace",
+          "knowledgeId": 1180,
+          "title": "Krogdalo's Trace",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Krogdalo's Trace Node Manager"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50717,
           "npcName": "Krogdalo's Trace",
@@ -21404,6 +21703,19 @@
       "x": 48339,
       "y": 78249,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50722,
+          "npcName": "Ashlynn",
+          "knowledgeId": 1185,
+          "title": "Ashlynn",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ash Forest Node Manager"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50722,
@@ -21419,6 +21731,19 @@
       "y": 91277,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50715,
+          "npcName": "Moyamo",
+          "knowledgeId": 1178,
+          "title": "Moyamo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Okiara River Node Manager"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50715,
           "npcName": "Moyamo",
@@ -21433,6 +21758,19 @@
       "y": 83864,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 50723,
+          "npcName": "Navir",
+          "knowledgeId": 1201,
+          "title": "Navir",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Acher Western Camp Commander"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 50723,
           "npcName": "Navir",
@@ -21446,6 +21784,19 @@
       "x": 48323,
       "y": 91882,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50724,
+          "npcName": "Sylvie",
+          "knowledgeId": 1202,
+          "title": "Sylvie",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Acher Southern Camp Commander"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 50724,
@@ -22236,6 +22587,19 @@
       "y": 90983,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 47081,
+          "npcName": "Hilda",
+          "knowledgeId": 1315,
+          "title": "Hilda",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Hilda"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 47081,
           "npcName": "Hilda",
@@ -22732,6 +23096,19 @@
       "y": 79599,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 47395,
+          "npcName": "Vesalla",
+          "knowledgeId": 2155,
+          "title": "Vesalla",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Vesalla"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 47395,
           "npcName": "Vesalla",
@@ -22746,6 +23123,19 @@
       "y": 82550,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 47435,
+          "npcName": "Burhan",
+          "knowledgeId": 2177,
+          "title": "Burhan",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Burhan"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 47435,
           "npcName": "Burhan",
@@ -22759,6 +23149,19 @@
       "x": 82121,
       "y": 81138,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47450,
+          "npcName": "Barkala",
+          "knowledgeId": 2179,
+          "title": "Barkala",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Barkala"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 47450,
@@ -22802,6 +23205,19 @@
       "y": 79864,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 47433,
+          "npcName": "Haydar",
+          "knowledgeId": 2174,
+          "title": "Haydar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Haydar"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 47433,
           "npcName": "Haydar",
@@ -22821,6 +23237,19 @@
       "y": 80629,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 47434,
+          "npcName": "Yaktavita",
+          "knowledgeId": 2176,
+          "title": "Yaktavita",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Yaktavita"
+            }
+          ]
+        },
+        {
           "category": "Topography",
           "npcId": 47434,
           "npcName": "Yaktavita",
@@ -22839,6 +23268,19 @@
       "x": 80108,
       "y": 81257,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47449,
+          "npcName": "Ruonon",
+          "knowledgeId": 2180,
+          "title": "Ruonon",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ruonon"
+            }
+          ]
+        },
         {
           "category": "Topography",
           "npcId": 47449,
@@ -24024,6 +24466,19 @@
       "y": 90116,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 45559,
+          "npcName": "Merindora",
+          "knowledgeId": 1160,
+          "title": "Merindora",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "The Oldest Spirit in Kamasylvia"
+            }
+          ]
+        },
+        {
           "category": "Ecology",
           "npcId": 45559,
           "npcName": "Merindora",
@@ -24067,6 +24522,19 @@
       "y": 90001,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 45511,
+          "npcName": "Anbelif",
+          "knowledgeId": 1107,
+          "title": "Anbelif",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lemoria Sentinel Commander"
+            }
+          ]
+        },
+        {
           "category": "Ecology",
           "npcId": 45511,
           "npcName": "Anbelif",
@@ -24088,6 +24556,19 @@
       "x": 53271,
       "y": 91111,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45525,
+          "npcName": "Jensen",
+          "knowledgeId": 1129,
+          "title": "Jensen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Adventurer of the Shady Tree Forest"
+            }
+          ]
+        },
         {
           "category": "Ecology",
           "npcId": 45525,
@@ -24377,6 +24858,19 @@
       "x": 48523,
       "y": 90378,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45553,
+          "npcName": "Vilentia",
+          "knowledgeId": 1154,
+          "title": "Vilentia",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Seed Vendor"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 45553,
@@ -24784,6 +25278,19 @@
       "y": 85607,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 45504,
+          "npcName": "Dellenas",
+          "knowledgeId": 1104,
+          "title": "Dellenas",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "General Goods Vendors of Lemoria Guard Post"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 45504,
           "npcName": "Dellenas",
@@ -24803,6 +25310,19 @@
       "y": 86752,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 45526,
+          "npcName": "Erfianso",
+          "knowledgeId": 1116,
+          "title": "Erfianso",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "The Singing Kamasylve Priestess"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 45526,
           "npcName": "Erfianso",
@@ -24821,6 +25341,19 @@
       "x": 54243,
       "y": 89721,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45518,
+          "npcName": "Obi Bellen",
+          "knowledgeId": 1110,
+          "title": "Obi Bellen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Old Wisdom Tree Trade Manager"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 45518,
@@ -24911,6 +25444,19 @@
       "y": 90030,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 45519,
+          "npcName": "Variel",
+          "knowledgeId": 1111,
+          "title": "Variel",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lemoria Sentinel Stable Keeper"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 45519,
           "npcName": "Variel",
@@ -24929,6 +25475,19 @@
       "x": 54068,
       "y": 89976,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45512,
+          "npcName": "Lumen",
+          "knowledgeId": 1126,
+          "title": "Lumen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lemoria Sentinel Storage Keeper"
+            }
+          ]
+        },
         {
           "category": "Academics",
           "npcId": 45512,
@@ -25052,6 +25611,19 @@
       "y": 89914,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 45515,
+          "npcName": "Rileysaman",
+          "knowledgeId": 1109,
+          "title": "Rileysaman",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "General Goods Vendors of Lemoria Sentinels"
+            }
+          ]
+        },
+        {
           "category": "Academics",
           "npcId": 45515,
           "npcName": "Rileysaman",
@@ -25089,6 +25661,19 @@
       "x": 54105,
       "y": 90047,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45513,
+          "npcName": "Puritora",
+          "knowledgeId": 1108,
+          "title": "Puritora",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lemoria Sentinel Blacksmith"
+            }
+          ]
+        },
         {
           "category": "Academics",
           "npcId": 45513,
@@ -26823,6 +27408,19 @@
       "x": 47183,
       "y": 81451,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45585,
+          "npcName": "Tulid",
+          "knowledgeId": 1191,
+          "title": "Tulid",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Tulid's Cave"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 45585,
@@ -30428,6 +31026,19 @@
       "y": 90136,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 45532,
+          "npcName": "Brolina Ornette",
+          "knowledgeId": 1140,
+          "title": "Brolina Ornette",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Queen of Kamasylvia"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 45532,
           "npcName": "Brolina Ornette",
@@ -31084,6 +31695,19 @@
       "x": 62732,
       "y": 78170,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43019,
+          "npcName": "Fiory",
+          "knowledgeId": 427,
+          "title": "Fiory",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Marco Faust's Handmaid"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 43019,
@@ -40373,6 +40997,19 @@
       "x": 50707,
       "y": 82910,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45508,
+          "npcName": "Lonamin",
+          "knowledgeId": 1205,
+          "title": "Lonamin",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Western Valtarra Mountains"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 45508,
@@ -50643,6 +51280,19 @@
       "y": 67005,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 40719,
+          "npcName": "Mysterious Man",
+          "knowledgeId": 746,
+          "title": "Mysterious Man",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Olvia Smuggler"
+            }
+          ]
+        },
+        {
           "category": "Trade",
           "npcId": 40719,
           "npcName": "Mysterious Man",
@@ -51136,6 +51786,19 @@
       "x": 48085,
       "y": 91172,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45546,
+          "npcName": "Okiara",
+          "knowledgeId": 1147,
+          "title": "Okiara",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Trade Manager"
+            }
+          ]
+        },
         {
           "category": "Trade",
           "npcId": 45546,
@@ -52146,6 +52809,19 @@
       "x": 48352,
       "y": 90299,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45541,
+          "npcName": "Kara",
+          "knowledgeId": 1142,
+          "title": "Kara",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Material Vendor"
+            }
+          ]
+        },
         {
           "category": "Life Skills",
           "npcId": 45541,
@@ -77947,6 +78623,19 @@
       "y": 88058,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 47416,
+          "npcName": "Eyshah",
+          "knowledgeId": 2243,
+          "title": "Eyshah",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Eyshah"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 47416,
           "npcName": "Eyshah",
@@ -78250,6 +78939,19 @@
       "x": 84752,
       "y": 88559,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47444,
+          "npcName": "Darcus",
+          "knowledgeId": 2246,
+          "title": "Darcus",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Darcus"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 47444,
@@ -78650,6 +79352,19 @@
       "y": 86838,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 47483,
+          "npcName": "Kuite",
+          "knowledgeId": 2253,
+          "title": "Kuite",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Kuite"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 47483,
           "npcName": "Kuite",
@@ -78782,6 +79497,19 @@
       "x": 85175,
       "y": 88281,
       "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47445,
+          "npcName": "Merhamet",
+          "knowledgeId": 2249,
+          "title": "Merhamet",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Merhamet"
+            }
+          ]
+        },
         {
           "category": "Adventure Logs",
           "npcId": 47445,
@@ -94756,25 +95484,6 @@
       ]
     },
     {
-      "x": 70414,
-      "y": 73421,
-      "entries": [
-        {
-          "category": "Characters",
-          "npcId": 41015,
-          "npcName": "Jordine Ducas",
-          "knowledgeId": 115,
-          "title": "Jordine Ducas",
-          "acquisitionMethods": [
-            {
-              "type": "dialogue",
-              "descriptionText": "Grand Chamberlain of Heidel"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "x": 70684,
       "y": 73584,
       "entries": [
@@ -95136,25 +95845,6 @@
       ]
     },
     {
-      "x": 71325,
-      "y": 75622,
-      "entries": [
-        {
-          "category": "Characters",
-          "npcId": 41036,
-          "npcName": "Hervano Tito",
-          "knowledgeId": 136,
-          "title": "Hervano Tito",
-          "acquisitionMethods": [
-            {
-              "type": "dialogue",
-              "descriptionText": "Man whose friend turned into enemy"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "x": 66884,
       "y": 77599,
       "entries": [
@@ -95472,44 +96162,6 @@
             {
               "type": "dialogue",
               "descriptionText": "Glish Innkeeper"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "x": 71420,
-      "y": 75519,
-      "entries": [
-        {
-          "category": "Characters",
-          "npcId": 41080,
-          "npcName": "Rolenai",
-          "knowledgeId": 156,
-          "title": "Rolenai",
-          "acquisitionMethods": [
-            {
-              "type": "dialogue",
-              "descriptionText": "Eastern Gateway Stable Keeper"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "x": 62490,
-      "y": 78154,
-      "entries": [
-        {
-          "category": "Characters",
-          "npcId": 41080,
-          "npcName": "Rolenai",
-          "knowledgeId": 156,
-          "title": "Rolenai",
-          "acquisitionMethods": [
-            {
-              "type": "dialogue",
-              "descriptionText": "Eastern Gateway Stable Keeper"
             }
           ]
         }
@@ -97695,6 +98347,2514 @@
             {
               "type": "dialogue",
               "descriptionText": "Calpheon Armor Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 50878,
+      "y": 72008,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 49557,
+          "npcName": "Luon",
+          "knowledgeId": 1359,
+          "title": "Luon",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Luon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 50566,
+      "y": 72296,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 49556,
+          "npcName": "Varudir",
+          "knowledgeId": 1358,
+          "title": "Varudir",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Varudir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 50667,
+      "y": 71924,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 49555,
+          "npcName": "Fenstel",
+          "knowledgeId": 1357,
+          "title": "Fenstel",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Fenstel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 50469,
+      "y": 70832,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 49558,
+          "npcName": "Flanche",
+          "knowledgeId": 1360,
+          "title": "Flanche",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Flanche"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 57879,
+      "y": 73486,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59002,
+          "npcName": "Edis",
+          "knowledgeId": 1368,
+          "title": "Edis",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Calpheon Sky Balloon Dwarf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 82229,
+      "y": 74671,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59006,
+          "npcName": "Harrison",
+          "knowledgeId": 1369,
+          "title": "Harrison",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Mediah Sky Balloon Dwarf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 108958,
+      "y": 64884,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59008,
+          "npcName": "Jude",
+          "knowledgeId": 1370,
+          "title": "Jude",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Valencia Sky Balloon Dwarf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 47838,
+      "y": 89794,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59026,
+          "npcName": "Muyamoe",
+          "knowledgeId": 1372,
+          "title": "Muyamoe",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Kamasylvia Sky Balloon Dwarf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 57838,
+      "y": 73460,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59001,
+          "npcName": "Kalix",
+          "knowledgeId": 1365,
+          "title": "Kalix",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Calpheon Sky Balloon Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 82307,
+      "y": 74632,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59005,
+          "npcName": "Lisam",
+          "knowledgeId": 1366,
+          "title": "Lisam",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Mediah Sky Balloon Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 108964,
+      "y": 64814,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59007,
+          "npcName": "Mason",
+          "knowledgeId": 1367,
+          "title": "Mason",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Valencia Sky Balloon Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 47865,
+      "y": 89853,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59025,
+          "npcName": "Ophelia",
+          "knowledgeId": 1371,
+          "title": "Ophelia",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Kamasylvia Sky Balloon Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 58425,
+      "y": 73468,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 42113,
+          "npcName": "Demiel Batian",
+          "knowledgeId": 371,
+          "title": "Demiel Batian",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Calpheon Imperial Trade Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69067,
+      "y": 69245,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40074,
+          "npcName": "Rosa Kloko",
+          "knowledgeId": 74,
+          "title": "Rosa Kloko",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Imperial Trade Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69035,
+      "y": 69230,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 40073,
+          "npcName": "Mathias",
+          "knowledgeId": 75,
+          "title": "Mathias",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Imperial Delivery Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70009,
+      "y": 73921,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 41120,
+          "npcName": "Radolf Hansen",
+          "knowledgeId": 126,
+          "title": "Radolf Hansen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Heidel Imperial Delivery Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 67717,
+      "y": 77043,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 44628,
+          "npcName": "Rai",
+          "knowledgeId": 1040,
+          "title": "Rai",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Glish Imperial Fishing Delivery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 54044,
+      "y": 70569,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 44627,
+          "npcName": "Dius",
+          "knowledgeId": 1041,
+          "title": "Dius",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Epheria Imperial Fishing Delivery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 81321,
+      "y": 78676,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 44630,
+          "npcName": "Hirio",
+          "knowledgeId": 1042,
+          "title": "Hirio",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Splashing Point Imperial Fishing Delivery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62951,
+      "y": 67111,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 44625,
+          "npcName": "Lotz Pavarotti",
+          "knowledgeId": 1035,
+          "title": "Lotz Pavarotti",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Olvia Imperial Crafting Delivery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 70023,
+      "y": 73913,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 44621,
+          "npcName": "Pasvinder",
+          "knowledgeId": 1036,
+          "title": "Pasvinder",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Heidel Imperial Crafting Delivery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 58418,
+      "y": 73491,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 44622,
+          "npcName": "Bech",
+          "knowledgeId": 1037,
+          "title": "Bech",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Calpheon Imperial Crafting Delivery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 83462,
+      "y": 75798,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 44626,
+          "npcName": "Liff",
+          "knowledgeId": 1038,
+          "title": "Liff",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Mediah Imperial Crafting Delivery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68920,
+      "y": 68802,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 44629,
+          "npcName": "Karon",
+          "knowledgeId": 1039,
+          "title": "Karon",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Velia Imperial Fishing Delivery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62741,
+      "y": 78172,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43020,
+          "npcName": "Tina",
+          "knowledgeId": 428,
+          "title": "Tina",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Marco Faust's Handmaid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62321,
+      "y": 78266,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43015,
+          "npcName": "Klam Cessory",
+          "knowledgeId": 424,
+          "title": "Klam Cessory",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Anti-Black Crystal Organization"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62737,
+      "y": 78170,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43014,
+          "npcName": "Marco Faust",
+          "knowledgeId": 423,
+          "title": "Marco Faust",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lord of Keplan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62381,
+      "y": 78284,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43005,
+          "npcName": "Eldas",
+          "knowledgeId": 415,
+          "title": "Eldas",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Keplan Extraction Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 63769,
+      "y": 79340,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43513,
+          "npcName": "Adin",
+          "knowledgeId": 491,
+          "title": "Adin",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Gianin Farm Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 58674,
+      "y": 77728,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43512,
+          "npcName": "Galutboar",
+          "knowledgeId": 490,
+          "title": "Galutboar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Bain Farm Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62314,
+      "y": 77696,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43021,
+          "npcName": "Quezen",
+          "knowledgeId": 429,
+          "title": "Quezen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Monster Labor Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62507,
+      "y": 78655,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43017,
+          "npcName": "Tuston",
+          "knowledgeId": 426,
+          "title": "Tuston",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Monster Labor Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62476,
+      "y": 78096,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43016,
+          "npcName": "Phelix",
+          "knowledgeId": 425,
+          "title": "Phelix",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Keplan Work Supervisor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62269,
+      "y": 78381,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43013,
+          "npcName": "Ambroke",
+          "knowledgeId": 422,
+          "title": "Ambroke",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Keplan Furniture Merchant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62360,
+      "y": 78567,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 43009,
+          "npcName": "Lilvanos",
+          "knowledgeId": 419,
+          "title": "Lilvanos",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Keplan Skill Instructor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 82787,
+      "y": 82689,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47459,
+          "npcName": "Benyamin",
+          "knowledgeId": 2178,
+          "title": "Benyamin",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Benyamin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 82783,
+      "y": 82735,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47458,
+          "npcName": "El Bahan",
+          "knowledgeId": 2182,
+          "title": "El Bahan",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "El Bahan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 82664,
+      "y": 82758,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47379,
+          "npcName": "Lanta",
+          "knowledgeId": 2181,
+          "title": "Lanta",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lanta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 88471,
+      "y": 86971,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47485,
+          "npcName": "Prorio",
+          "knowledgeId": 2255,
+          "title": "Prorio",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Prorio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84903,
+      "y": 87127,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47484,
+          "npcName": "Val Marun",
+          "knowledgeId": 2254,
+          "title": "Val Marun",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Val Marun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 85085,
+      "y": 88353,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47408,
+          "npcName": "Eldamr",
+          "knowledgeId": 2251,
+          "title": "Eldamr",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Eldamr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84995,
+      "y": 88208,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47409,
+          "npcName": "Bahzam",
+          "knowledgeId": 2250,
+          "title": "Bahzam",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Bahzam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84984,
+      "y": 88313,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47415,
+          "npcName": "Elmas",
+          "knowledgeId": 2248,
+          "title": "Elmas",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Elmas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84891,
+      "y": 88337,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47417,
+          "npcName": "Rolphron",
+          "knowledgeId": 2247,
+          "title": "Rolphron",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Rolphron"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84964,
+      "y": 88462,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47410,
+          "npcName": "Hagun",
+          "knowledgeId": 2245,
+          "title": "Hagun",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Hagun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84891,
+      "y": 88262,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47411,
+          "npcName": "Krodinon",
+          "knowledgeId": 2244,
+          "title": "Krodinon",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Krodinon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84379,
+      "y": 88162,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47412,
+          "npcName": "Belja",
+          "knowledgeId": 2241,
+          "title": "Belja",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Belja"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 84350,
+      "y": 88168,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47418,
+          "npcName": "Bedirhan",
+          "knowledgeId": 2240,
+          "title": "Bedirhan",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Bedirhan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 87949,
+      "y": 87833,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47432,
+          "npcName": "Zehra Mir",
+          "knowledgeId": 2260,
+          "title": "Zehra Mir",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Zehra Mir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 88505,
+      "y": 87956,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47421,
+          "npcName": "Nadi",
+          "knowledgeId": 2259,
+          "title": "Nadi",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Nadi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 87013,
+      "y": 87805,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47419,
+          "npcName": "Kal Lut",
+          "knowledgeId": 2258,
+          "title": "Kal Lut",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Kal Lut"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 87459,
+      "y": 88416,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47414,
+          "npcName": "Shatriman",
+          "knowledgeId": 2257,
+          "title": "Shatriman",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Shatriman"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 83884,
+      "y": 87882,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47413,
+          "npcName": "Zamera",
+          "knowledgeId": 2256,
+          "title": "Zamera",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Zamera"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79301,
+      "y": 79891,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47391,
+          "npcName": "Tamiri",
+          "knowledgeId": 2159,
+          "title": "Tamiri",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Tamiri"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79332,
+      "y": 79813,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47389,
+          "npcName": "El Dinar",
+          "knowledgeId": 2158,
+          "title": "El Dinar",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "El Dinar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79339,
+      "y": 79898,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47394,
+          "npcName": "Beshir",
+          "knowledgeId": 2157,
+          "title": "Beshir",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Beshir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79285,
+      "y": 79947,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47396,
+          "npcName": "Salih",
+          "knowledgeId": 2156,
+          "title": "Salih",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Salih"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79475,
+      "y": 79603,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47384,
+          "npcName": "Kabellum",
+          "knowledgeId": 2154,
+          "title": "Kabellum",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Asparkan Work Supervisor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79230,
+      "y": 79836,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47388,
+          "npcName": "Sha Hira",
+          "knowledgeId": 2153,
+          "title": "Sha Hira",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Sha Hira"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79231,
+      "y": 79788,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47386,
+          "npcName": "Sha Bint",
+          "knowledgeId": 2152,
+          "title": "Sha Bint",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Sha Bint"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79909,
+      "y": 80098,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47381,
+          "npcName": "Hayal Pasha",
+          "knowledgeId": 2151,
+          "title": "Hayal Pasha",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Hayal Pasha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79410,
+      "y": 79786,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47385,
+          "npcName": "Nur",
+          "knowledgeId": 2150,
+          "title": "Nur",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Nur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79287,
+      "y": 79922,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47393,
+          "npcName": "Akemin",
+          "knowledgeId": 2149,
+          "title": "Akemin",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Akemin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79356,
+      "y": 79855,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47383,
+          "npcName": "Hisala",
+          "knowledgeId": 2148,
+          "title": "Hisala",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Hisala"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79354,
+      "y": 79814,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47390,
+          "npcName": "Mukadder",
+          "knowledgeId": 2147,
+          "title": "Mukadder",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Mukadder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79437,
+      "y": 79845,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47465,
+          "npcName": "Decatis",
+          "knowledgeId": 2173,
+          "title": "Decatis",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Decatis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79682,
+      "y": 79581,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47464,
+          "npcName": "Filic",
+          "knowledgeId": 2172,
+          "title": "Filic",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Filic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79719,
+      "y": 79438,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47463,
+          "npcName": "Zefir",
+          "knowledgeId": 2171,
+          "title": "Zefir",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Zefir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79178,
+      "y": 79686,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47461,
+          "npcName": "Brandon",
+          "knowledgeId": 2169,
+          "title": "Brandon",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Brandon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79738,
+      "y": 79439,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47460,
+          "npcName": "Konyon",
+          "knowledgeId": 2168,
+          "title": "Konyon",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Konyon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79938,
+      "y": 80084,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47382,
+          "npcName": "Ametullah",
+          "knowledgeId": 2162,
+          "title": "Ametullah",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ametullah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79240,
+      "y": 79783,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47387,
+          "npcName": "Rashyat",
+          "knowledgeId": 2161,
+          "title": "Rashyat",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Rashyat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 79669,
+      "y": 80027,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47392,
+          "npcName": "Ayizlern",
+          "knowledgeId": 2160,
+          "title": "Ayizlern",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ayizlern"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 52739,
+      "y": 88310,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45510,
+          "npcName": "Liudia",
+          "knowledgeId": 1200,
+          "title": "Liudia",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Manshaum Scout of Lemoria"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 57868,
+      "y": 85965,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45503,
+          "npcName": "Leminei Lain",
+          "knowledgeId": 1103,
+          "title": "Leminei Lain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lemoria Guard Post Trade Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 58180,
+      "y": 85895,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45502,
+          "npcName": "Surichi",
+          "knowledgeId": 1102,
+          "title": "Surichi",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lemoria Guard Post Quartermaster"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 58144,
+      "y": 85691,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45509,
+          "npcName": "Haardeleer",
+          "knowledgeId": 1106,
+          "title": "Haardeleer",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Material Vendor of Lemoria Guard Post"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 57712,
+      "y": 86100,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45505,
+          "npcName": "Mauriel",
+          "knowledgeId": 1105,
+          "title": "Mauriel",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lemoria Guard Post Stable Keeper"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 47779,
+      "y": 81296,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45572,
+          "npcName": "Feilrak",
+          "knowledgeId": 1167,
+          "title": "Feilrak",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Acher Guard Post General Goods Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48042,
+      "y": 80982,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45571,
+          "npcName": "Mokassa",
+          "knowledgeId": 1166,
+          "title": "Mokassa",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Acher Guard Post Material Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48239,
+      "y": 81136,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45570,
+          "npcName": "Samantrina",
+          "knowledgeId": 1165,
+          "title": "Samantrina",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Acher Guard Post Stable Keeper"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48255,
+      "y": 81131,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45569,
+          "npcName": "Munanslyn",
+          "knowledgeId": 1164,
+          "title": "Munanslyn",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Acher Guard Post Trade Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48089,
+      "y": 81164,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45568,
+          "npcName": "Jasmine",
+          "knowledgeId": 1163,
+          "title": "Jasmine",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Acher Guard Post Blacksmith"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48050,
+      "y": 90388,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45558,
+          "npcName": "Mizella",
+          "knowledgeId": 1159,
+          "title": "Mizella",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Imperial Crafting Delivery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48055,
+      "y": 90448,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45557,
+          "npcName": "Falleve",
+          "knowledgeId": 1158,
+          "title": "Falleve",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Imperial Fishing Delivery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48106,
+      "y": 91171,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45556,
+          "npcName": "Cyclamen",
+          "knowledgeId": 1157,
+          "title": "Cyclamen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Imperial Delivery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 54087,
+      "y": 89963,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45530,
+          "npcName": "Auciel Renf",
+          "knowledgeId": 1133,
+          "title": "Auciel Renf",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Central Market Director"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48788,
+      "y": 90672,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45550,
+          "npcName": "Saphia Doucet",
+          "knowledgeId": 1151,
+          "title": "Saphia Doucet",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Spirit Linguist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48344,
+      "y": 90207,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45543,
+          "npcName": "Helene Sana",
+          "knowledgeId": 1141,
+          "title": "Helene Sana",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ranger Representative"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48342,
+      "y": 90217,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45531,
+          "npcName": "Hazel Azealia",
+          "knowledgeId": 1139,
+          "title": "Hazel Azealia",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Acher Representative"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 47945,
+      "y": 88301,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45551,
+          "npcName": "Maina",
+          "knowledgeId": 1195,
+          "title": "Maina",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lake Flondor Trade Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48143,
+      "y": 90443,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45587,
+          "npcName": "Grelias",
+          "knowledgeId": 1194,
+          "title": "Grelias",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Central Market Director"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 54298,
+      "y": 89814,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45593,
+          "npcName": "Mathieu",
+          "knowledgeId": 1204,
+          "title": "Mathieu",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Old Wisdom Tree Work Supervisor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48035,
+      "y": 90417,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45555,
+          "npcName": "Vipiko",
+          "knowledgeId": 1156,
+          "title": "Vipiko",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Storage Keeper"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48570,
+      "y": 90485,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45552,
+          "npcName": "Skabiosa",
+          "knowledgeId": 1153,
+          "title": "Skabiosa",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Work Supervisor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 49793,
+      "y": 88662,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45577,
+          "npcName": "Miloberry",
+          "knowledgeId": 1172,
+          "title": "Miloberry",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lake Flondor Fruit Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48132,
+      "y": 91176,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45548,
+          "npcName": "Hyacinth",
+          "knowledgeId": 1149,
+          "title": "Hyacinth",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Stable Keeper"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48103,
+      "y": 90485,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45547,
+          "npcName": "Daisy",
+          "knowledgeId": 1148,
+          "title": "Daisy",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Guild House Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 47812,
+      "y": 90181,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45545,
+          "npcName": "Melabee",
+          "knowledgeId": 1146,
+          "title": "Melabee",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Stable Keeper"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48173,
+      "y": 90569,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45544,
+          "npcName": "Dikzipo",
+          "knowledgeId": 1145,
+          "title": "Dikzipo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Blacksmith"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48632,
+      "y": 90901,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45540,
+          "npcName": "Talishia",
+          "knowledgeId": 1144,
+          "title": "Talishia",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Mansion Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48107,
+      "y": 90625,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45542,
+          "npcName": "Panzy",
+          "knowledgeId": 1143,
+          "title": "Panzy",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána General Goods Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48573,
+      "y": 90504,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 59039,
+          "npcName": "Herbin",
+          "knowledgeId": 9839,
+          "title": "Herbin",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Priestess at Grána Inn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 45534,
+      "y": 95100,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50986,
+          "npcName": "Sylana",
+          "knowledgeId": 2199,
+          "title": "Sylana",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "The wharf manager of Kamasylvia Castle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 47389,
+      "y": 96142,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50985,
+          "npcName": "Sylane",
+          "knowledgeId": 2198,
+          "title": "Sylane",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "The wharf manager of Kamasylvia Castle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 46876,
+      "y": 95012,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50982,
+          "npcName": "Sylineo",
+          "knowledgeId": 2197,
+          "title": "Sylineo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "The stable keeper of Kamasylvia Castle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48239,
+      "y": 90036,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45583,
+          "npcName": "Lanka",
+          "knowledgeId": 1193,
+          "title": "Lanka",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Kamasylve Caretaker"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 45011,
+      "y": 88946,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45582,
+          "npcName": "Borgo",
+          "knowledgeId": 1190,
+          "title": "Borgo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Aspiring Archaeologist Borgo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48007,
+      "y": 90734,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45561,
+          "npcName": "Momellies",
+          "knowledgeId": 1161,
+          "title": "Momellies",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Librarian at The Great Library of Grána"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48586,
+      "y": 90552,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45554,
+          "npcName": "Luansei",
+          "knowledgeId": 1155,
+          "title": "Luansei",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Innkeeper"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48353,
+      "y": 90603,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45564,
+          "npcName": "Bleu Arnatte",
+          "knowledgeId": 1152,
+          "title": "Bleu Arnatte",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Musician of the Forest and City"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 49183,
+      "y": 88765,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45578,
+          "npcName": "Rolan",
+          "knowledgeId": 1173,
+          "title": "Rolan",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Lake Flondor Fisher"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48555,
+      "y": 90672,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45549,
+          "npcName": "Heidi",
+          "knowledgeId": 1150,
+          "title": "Heidi",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Chef"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48254,
+      "y": 89551,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 49548,
+          "npcName": "Jamey Drucker",
+          "knowledgeId": 1226,
+          "title": "Jamey Drucker",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Training Merchant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 47972,
+      "y": 90598,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 49535,
+          "npcName": "Zya",
+          "knowledgeId": 1217,
+          "title": "Zya",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Old Moon Manager of Grána"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 55873,
+      "y": 84486,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45529,
+          "npcName": "Heli",
+          "knowledgeId": 1132,
+          "title": "Heli",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Viv Foretta Hamlet General Goods Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 51593,
+      "y": 85106,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45520,
+          "npcName": "Martha Kiyen",
+          "knowledgeId": 1130,
+          "title": "Martha Kiyen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Archaeologist of the Mirumok Ruins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 56157,
+      "y": 84669,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45522,
+          "npcName": "Norn Federers",
+          "knowledgeId": 1113,
+          "title": "Norn Federers",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Viv Foretta's Trade Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 46685,
+      "y": 94846,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47145,
+          "npcName": "Kamasylvia Castle Musical Spirit",
+          "knowledgeId": 2195,
+          "title": "Kamasylvia Castle Musical Spirit",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Kamasylvia Castle Musical Spirit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 45552,
+      "y": 84263,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45560,
+          "npcName": "Nelindo",
+          "knowledgeId": 1198,
+          "title": "Nelindo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Forest Ronaros of Tooth Fairy Forest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 47190,
+      "y": 85247,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45575,
+          "npcName": "Bronn",
+          "knowledgeId": 1170,
+          "title": "Bronn",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Tooth Fairy Cabin Owner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 47339,
+      "y": 85030,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45574,
+          "npcName": "Tvisa",
+          "knowledgeId": 1169,
+          "title": "Tvisa",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Tooth Fairy Cabin Owner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 46027,
+      "y": 92008,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47102,
+          "npcName": "Dumba",
+          "knowledgeId": 1551,
+          "title": "Dumba",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Dumba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 46935,
+      "y": 91393,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47092,
+          "npcName": "Titu",
+          "knowledgeId": 1540,
+          "title": "Titu",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Titu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 46017,
+      "y": 91994,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47089,
+          "npcName": "Derensha",
+          "knowledgeId": 1536,
+          "title": "Derensha",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Derensha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 46077,
+      "y": 91415,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47088,
+          "npcName": "Esimiri",
+          "knowledgeId": 1535,
+          "title": "Esimiri",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Esimiri"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 45909,
+      "y": 91626,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47087,
+          "npcName": "Secretta",
+          "knowledgeId": 1534,
+          "title": "Secretta",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Secretta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 45814,
+      "y": 91509,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47086,
+          "npcName": "Murizera",
+          "knowledgeId": 1533,
+          "title": "Murizera",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Murizera"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 46622,
+      "y": 91279,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47085,
+          "npcName": "Pupa",
+          "knowledgeId": 1532,
+          "title": "Pupa",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Pupa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 46614,
+      "y": 91276,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47084,
+          "npcName": "Previs",
+          "knowledgeId": 1531,
+          "title": "Previs",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Previs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 46156,
+      "y": 91539,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47083,
+          "npcName": "Hayah Federers",
+          "knowledgeId": 1530,
+          "title": "Hayah Federers",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Hayah Federers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 46507,
+      "y": 90955,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47082,
+          "npcName": "Jezabelle",
+          "knowledgeId": 1334,
+          "title": "Jezabelle",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Jezabelle"
             }
           ]
         }
