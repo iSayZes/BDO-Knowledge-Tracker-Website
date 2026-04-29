@@ -1,0 +1,292 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": 102,
+      "name": "Ornella",
+      "interest": 13,
+      "favorMin": 35,
+      "favorMax": 38,
+      "combo": {
+        "triggerAfterTurns": 3,
+        "duration": 1,
+        "favorBonus": 2
+      }
+    },
+    {
+      "id": 103,
+      "name": "Caresto Fonti",
+      "interest": 30,
+      "favorMin": 25,
+      "favorMax": 30,
+      "combo": {
+        "triggerAfterTurns": 2,
+        "duration": 4,
+        "favorBonus": 3
+      }
+    },
+    {
+      "id": 104,
+      "name": "Lara",
+      "interest": 19,
+      "favorMin": 45,
+      "favorMax": 47
+    },
+    {
+      "id": 106,
+      "name": "Vangelas",
+      "interest": 45,
+      "favorMin": 5,
+      "favorMax": 8,
+      "combo": {
+        "triggerAfterTurns": 5,
+        "duration": 3,
+        "favorBonus": 4
+      }
+    },
+    {
+      "id": 107,
+      "name": "Luciano Pietro",
+      "interest": 1,
+      "favorMin": 40,
+      "favorMax": 49
+    },
+    {
+      "id": 111,
+      "name": "Melissa Brady",
+      "interest": 40,
+      "favorMin": 37,
+      "favorMax": 45
+    },
+    {
+      "id": 112,
+      "name": "Dora Fonti",
+      "interest": 24,
+      "favorMin": 30,
+      "favorMax": 40
+    },
+    {
+      "id": 113,
+      "name": "Amerigo",
+      "interest": 15,
+      "favorMin": 30,
+      "favorMax": 38,
+      "combo": {
+        "triggerAfterTurns": 3,
+        "duration": 3,
+        "favorBonus": 2
+      }
+    },
+    {
+      "id": 120,
+      "name": "Joel",
+      "interest": 33,
+      "favorMin": 30,
+      "favorMax": 37
+    },
+    {
+      "id": 122,
+      "name": "Puia",
+      "interest": 26,
+      "favorMin": 21,
+      "favorMax": 30,
+      "combo": {
+        "triggerAfterTurns": 2,
+        "duration": 2,
+        "interestBonus": 4
+      }
+    },
+    {
+      "id": 123,
+      "name": "Olivia",
+      "interest": 18,
+      "favorMin": 45,
+      "favorMax": 48
+    },
+    {
+      "id": 124,
+      "name": "Lebyos",
+      "interest": 44,
+      "favorMin": 4,
+      "favorMax": 10,
+      "combo": {
+        "triggerAfterTurns": 5,
+        "duration": 1,
+        "interestBonus": 10
+      }
+    },
+    {
+      "id": 125,
+      "name": "Flaviano",
+      "interest": 4,
+      "favorMin": 42,
+      "favorMax": 53
+    },
+    {
+      "id": 148,
+      "name": "Siuta",
+      "interest": 31,
+      "favorMin": 38,
+      "favorMax": 43
+    },
+    {
+      "id": 164,
+      "name": "Techthon",
+      "interest": 20,
+      "favorMin": 45,
+      "favorMax": 50
+    },
+    {
+      "id": 188,
+      "name": "Constante",
+      "interest": 41,
+      "favorMin": 3,
+      "favorMax": 6,
+      "combo": {
+        "triggerAfterTurns": 5,
+        "duration": 3,
+        "favorBonus": 3
+      }
+    },
+    {
+      "id": 1074,
+      "name": "Karin",
+      "interest": 5,
+      "favorMin": 42,
+      "favorMax": 49
+    },
+    {
+      "id": 14728,
+      "name": "Edmund",
+      "interest": 12,
+      "favorMin": 35,
+      "favorMax": 38,
+      "combo": {
+        "triggerAfterTurns": 5,
+        "duration": 2,
+        "favorBonus": 3
+      }
+    },
+    {
+      "id": 14737,
+      "name": "Pierre",
+      "interest": 19,
+      "favorMin": 45,
+      "favorMax": 50
+    },
+    {
+      "id": 14746,
+      "name": "Timmy",
+      "interest": 27,
+      "favorMin": 25,
+      "favorMax": 27,
+      "combo": {
+        "triggerAfterTurns": 4,
+        "duration": 3,
+        "favorBonus": 1
+      }
+    },
+    {
+      "id": 119,
+      "name": "Enrico Mancini",
+      "interest": 15,
+      "favorMin": 32,
+      "favorMax": 36,
+      "combo": {
+        "triggerAfterTurns": 3,
+        "duration": 4,
+        "interestBonus": 2
+      }
+    },
+    {
+      "id": 137,
+      "name": "Berman",
+      "interest": 34,
+      "favorMin": 31,
+      "favorMax": 36
+    },
+    {
+      "id": 138,
+      "name": "Kael",
+      "interest": 29,
+      "favorMin": 23,
+      "favorMax": 28,
+      "combo": {
+        "triggerAfterTurns": 2,
+        "duration": 2,
+        "favorBonus": 5
+      }
+    },
+    {
+      "id": 141,
+      "name": "Ramart",
+      "interest": 18,
+      "favorMin": 45,
+      "favorMax": 49
+    },
+    {
+      "id": 144,
+      "name": "Maul",
+      "interest": 45,
+      "favorMin": 4,
+      "favorMax": 9,
+      "combo": {
+        "triggerAfterTurns": 2,
+        "duration": 4,
+        "interestBonus": 10
+      }
+    },
+    {
+      "id": 163,
+      "name": "Di Lanoa",
+      "interest": 4,
+      "favorMin": 45,
+      "favorMax": 50
+    },
+    {
+      "id": 171,
+      "name": "Partia",
+      "interest": 35,
+      "favorMin": 35,
+      "favorMax": 43
+    },
+    {
+      "id": 174,
+      "name": "Messian",
+      "interest": 23,
+      "favorMin": 34,
+      "favorMax": 38
+    },
+    {
+      "id": 175,
+      "name": "Francil",
+      "interest": 10,
+      "favorMin": 32,
+      "favorMax": 39,
+      "combo": {
+        "triggerAfterTurns": 4,
+        "duration": 2,
+        "favorBonus": 2
+      }
+    },
+    {
+      "id": 176,
+      "name": "Piarre",
+      "interest": 35,
+      "favorMin": 32,
+      "favorMax": 39
+    },
+    {
+      "id": 177,
+      "name": "Barios",
+      "interest": 28,
+      "favorMin": 21,
+      "favorMax": 29,
+      "combo": {
+        "triggerAfterTurns": 5,
+        "duration": 1,
+        "favorBonus": 2
+      }
+    }
+  ]
+}
