@@ -1526,9 +1526,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -4287,9 +4287,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -33037,6 +33037,19 @@
       "y": 92898,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 45586,
+          "npcName": "Tulitua",
+          "knowledgeId": 1188,
+          "title": "Tulitua",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Gyfin Rhasia Guardian"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 45586,
           "npcName": "Tulitua",
@@ -36896,9 +36909,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -37000,25 +37013,6 @@
       ]
     },
     {
-      "x": 66754,
-      "y": 88518,
-      "entries": [
-        {
-          "category": "Adventure Logs",
-          "npcId": 46002,
-          "npcName": "Nerman",
-          "knowledgeId": 5898,
-          "title": "Nerman, the Fist of Heidel",
-          "acquisitionMethods": [
-            {
-              "type": "quest",
-              "descriptionText": "A Fiery Temper"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "x": 66819,
       "y": 88391,
       "entries": [
@@ -37042,6 +37036,19 @@
       "y": 88719,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 46002,
+          "npcName": "Nerman",
+          "knowledgeId": 1228,
+          "title": "Nerman",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "A Mercenary from Heidel"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 46002,
           "npcName": "Nerman",
@@ -37051,6 +37058,19 @@
             {
               "type": "quest",
               "descriptionText": "Art of Sharing"
+            }
+          ]
+        },
+        {
+          "category": "Adventure Logs",
+          "npcId": 46002,
+          "npcName": "Nerman",
+          "knowledgeId": 5898,
+          "title": "Nerman, the Fist of Heidel",
+          "acquisitionMethods": [
+            {
+              "type": "quest",
+              "descriptionText": "A Fiery Temper"
             }
           ]
         }
@@ -43742,9 +43762,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -46763,6 +46783,19 @@
       "y": 92978,
       "entries": [
         {
+          "category": "Characters",
+          "npcId": 45584,
+          "npcName": "Oliver Bedmountain",
+          "knowledgeId": 1187,
+          "title": "Oliver Bedmountain",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Eccentric Archaeologist"
+            }
+          ]
+        },
+        {
           "category": "Adventure Logs",
           "npcId": 45584,
           "npcName": "Oliver Bedmountain",
@@ -47018,9 +47051,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -47089,9 +47122,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -47160,9 +47193,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -47231,9 +47264,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -47302,9 +47335,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -47373,9 +47406,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -47444,9 +47477,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -47515,9 +47548,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -47586,9 +47619,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -47657,9 +47690,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -47728,9 +47761,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -47799,9 +47832,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -47870,9 +47903,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -47941,9 +47974,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -48012,9 +48045,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -48083,9 +48116,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -48154,9 +48187,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -48225,9 +48258,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -48296,9 +48329,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -48367,9 +48400,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -48438,9 +48471,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -48509,9 +48542,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -48580,9 +48613,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -48651,9 +48684,9 @@
       "entries": [
         {
           "category": "Characters",
-          "npcId": 44690,
+          "npcId": 44638,
           "npcName": "Wacky Toshi",
-          "knowledgeId": 44638,
+          "knowledgeId": 1186,
           "title": "Wacky Toshi",
           "acquisitionMethods": [
             {
@@ -110758,6 +110791,19 @@
               "descriptionText": "Justin Bartali"
             }
           ]
+        },
+        {
+          "category": "Topography",
+          "npcId": 62480,
+          "npcName": "Justin Bartali",
+          "knowledgeId": 14691,
+          "title": "Olvia Academy",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Justin Bartali"
+            }
+          ]
         }
       ]
     },
@@ -127504,6 +127550,576 @@
             {
               "type": "exploration",
               "descriptionText": "Velandir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 74715,
+      "y": 60569,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 62443,
+          "npcName": "Serdo",
+          "knowledgeId": 2389,
+          "title": "Serdo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Serdo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 74213,
+      "y": 58281,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 49518,
+          "npcName": "Robb",
+          "knowledgeId": 1135,
+          "title": "Robb",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Battle Arena Quartermaster"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 54675,
+      "y": 57273,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 41243,
+          "npcName": "Gafur",
+          "knowledgeId": 955,
+          "title": "Gafur",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Cox Pirate Island Wharf Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 40076,
+      "y": 34043,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50814,
+          "npcName": "Haran",
+          "knowledgeId": 1464,
+          "title": "Haran",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Under the shield constellation in Margoria"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48556,
+      "y": 90527,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47713,
+          "npcName": "Eshilin",
+          "knowledgeId": 14730,
+          "title": "Eshilin",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Herb Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48157,
+      "y": 90433,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47732,
+          "npcName": "Pupunini",
+          "knowledgeId": 14749,
+          "title": "Pupunini",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Mushroom Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 47203,
+      "y": 89946,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45598,
+          "npcName": "Rosaria",
+          "knowledgeId": 1622,
+          "title": "Rosaria",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Grána Small Farm Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66532,
+      "y": 88730,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47733,
+          "npcName": "Dorma",
+          "knowledgeId": 14750,
+          "title": "Dorma",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Mushroom Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66525,
+      "y": 88714,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47723,
+          "npcName": "Linchen",
+          "knowledgeId": 14740,
+          "title": "Linchen",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Fruit Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66307,
+      "y": 88672,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46004,
+          "npcName": "Odelphin",
+          "knowledgeId": 1230,
+          "title": "Odelphin",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Head of the Mercenary Office"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 69448,
+      "y": 90296,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 50741,
+          "npcName": "Sina",
+          "knowledgeId": 1276,
+          "title": "Sina",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Sherekhan Mine Road Garrison"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 68034,
+      "y": 85165,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46052,
+          "npcName": "Kukao",
+          "knowledgeId": 14693,
+          "title": "Kukao",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Kukao"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 61658,
+      "y": 96822,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45600,
+          "npcName": "Mene",
+          "knowledgeId": 1623,
+          "title": "Mene",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "O'draxxia Old Moon Manager"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 61807,
+      "y": 96783,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47734,
+          "npcName": "Valere",
+          "knowledgeId": 14751,
+          "title": "Valere",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Mushroom Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 75390,
+      "y": 87767,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 47735,
+          "npcName": "Sasha",
+          "knowledgeId": 14752,
+          "title": "Sasha",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Mushroom Vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 55899,
+      "y": 87599,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45528,
+          "npcName": "Jerrimo",
+          "knowledgeId": 1131,
+          "title": "Jerrimo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Caduil Forest Poacher"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 46938,
+      "y": 85849,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 45528,
+          "npcName": "Jerrimo",
+          "knowledgeId": 1131,
+          "title": "Jerrimo",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Caduil Forest Poacher"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66314,
+      "y": 88715,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46001,
+          "npcName": "Tira",
+          "knowledgeId": 1227,
+          "title": "Tira",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ganelle Searcher"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62819,
+      "y": 85957,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46001,
+          "npcName": "Tira",
+          "knowledgeId": 1227,
+          "title": "Tira",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ganelle Searcher"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 58863,
+      "y": 88312,
+      "entries": [
+        {
+          "category": "Characters",
+          "npcId": 46001,
+          "npcName": "Tira",
+          "knowledgeId": 1227,
+          "title": "Tira",
+          "acquisitionMethods": [
+            {
+              "type": "dialogue",
+              "descriptionText": "Ganelle Searcher"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62306,
+      "y": 78246,
+      "entries": [
+        {
+          "category": "Topography",
+          "npcId": 57230,
+          "npcName": "Knowledge",
+          "knowledgeId": 3176,
+          "title": "Keplan",
+          "acquisitionMethods": [
+            {
+              "type": "exploration",
+              "descriptionText": "Keplan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 53426,
+      "y": 81378,
+      "entries": [
+        {
+          "category": "Topography",
+          "npcId": 57230,
+          "npcName": "Knowledge",
+          "knowledgeId": 3136,
+          "title": "Trent",
+          "acquisitionMethods": [
+            {
+              "type": "exploration",
+              "descriptionText": "Trent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 92245,
+      "y": 70208,
+      "entries": [
+        {
+          "category": "Topography",
+          "npcId": 57230,
+          "npcName": "Knowledge",
+          "knowledgeId": 3333,
+          "title": "Sand Grain Bazaar",
+          "acquisitionMethods": [
+            {
+              "type": "exploration",
+              "descriptionText": "Sand Grain Bazaar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 91690,
+      "y": 61104,
+      "entries": [
+        {
+          "category": "Topography",
+          "npcId": 57230,
+          "npcName": "Knowledge",
+          "knowledgeId": 3345,
+          "title": "Shakatu",
+          "acquisitionMethods": [
+            {
+              "type": "exploration",
+              "descriptionText": "Shakatu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 112295,
+      "y": 77640,
+      "entries": [
+        {
+          "category": "Topography",
+          "npcId": 57230,
+          "npcName": "Knowledge",
+          "knowledgeId": 3411,
+          "title": "Muiquun",
+          "acquisitionMethods": [
+            {
+              "type": "exploration",
+              "descriptionText": "Muiquun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 119346,
+      "y": 65063,
+      "entries": [
+        {
+          "category": "Topography",
+          "npcId": 57230,
+          "npcName": "Knowledge",
+          "knowledgeId": 3410,
+          "title": "Arehaza",
+          "acquisitionMethods": [
+            {
+              "type": "exploration",
+              "descriptionText": "Arehaza"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 54099,
+      "y": 89983,
+      "entries": [
+        {
+          "category": "Topography",
+          "npcId": 57230,
+          "npcName": "Knowledge",
+          "knowledgeId": 3441,
+          "title": "Old Wisdom Tree",
+          "acquisitionMethods": [
+            {
+              "type": "exploration",
+              "descriptionText": "Old Wisdom Tree"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 48259,
+      "y": 90440,
+      "entries": [
+        {
+          "category": "Topography",
+          "npcId": 57230,
+          "npcName": "Knowledge",
+          "knowledgeId": 3454,
+          "title": "Grána",
+          "acquisitionMethods": [
+            {
+              "type": "exploration",
+              "descriptionText": "Grána"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 66587,
+      "y": 88508,
+      "entries": [
+        {
+          "category": "Topography",
+          "npcId": 57230,
+          "npcName": "Knowledge",
+          "knowledgeId": 3472,
+          "title": "Duvencrune",
+          "acquisitionMethods": [
+            {
+              "type": "exploration",
+              "descriptionText": "Duvencrune"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "x": 62392,
+      "y": 96232,
+      "entries": [
+        {
+          "category": "Topography",
+          "npcId": 57230,
+          "npcName": "Knowledge",
+          "knowledgeId": 3494,
+          "title": "O'draxxia",
+          "acquisitionMethods": [
+            {
+              "type": "exploration",
+              "descriptionText": "O'draxxia"
             }
           ]
         }

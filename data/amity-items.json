@@ -287,6 +287,177 @@
         "duration": 1,
         "favorBonus": 2
       }
+    },
+    {
+      "id": 4024,
+      "name": "Lost Lamb",
+      "interest": 23,
+      "favorMin": 35,
+      "favorMax": 38
+    },
+    {
+      "id": 6059,
+      "name": "Al Rhundi's Journal",
+      "interest": 100,
+      "favorMin": 1,
+      "favorMax": 1,
+      "combo": {
+        "triggerAfterTurns": 5,
+        "duration": 2,
+        "interestBonus": 1
+      }
+    },
+    {
+      "id": 6062,
+      "name": "Lazy Soldiers",
+      "interest": 12,
+      "favorMin": 34,
+      "favorMax": 38,
+      "combo": {
+        "triggerAfterTurns": 3,
+        "duration": 4,
+        "favorBonus": 5
+      }
+    },
+    {
+      "id": 6063,
+      "name": "Cruhorn's Errand",
+      "interest": 43,
+      "favorMin": 5,
+      "favorMax": 6,
+      "combo": {
+        "triggerAfterTurns": 4,
+        "duration": 1,
+        "interestBonus": 10
+      }
+    },
+    {
+      "id": 6066,
+      "name": "Heidel Church Belfry",
+      "interest": 24,
+      "favorMin": 32,
+      "favorMax": 37
+    },
+    {
+      "id": 6075,
+      "name": "Kite Flying",
+      "interest": 25,
+      "favorMin": 25,
+      "favorMax": 29,
+      "combo": {
+        "triggerAfterTurns": 5,
+        "duration": 3,
+        "interestBonus": 5
+      }
+    },
+    {
+      "id": 6079,
+      "name": "Cannonball Master",
+      "interest": 19,
+      "favorMin": 45,
+      "favorMax": 50
+    },
+    {
+      "id": 6080,
+      "name": "Laborers of the Quarry",
+      "interest": 41,
+      "favorMin": 3,
+      "favorMax": 9,
+      "combo": {
+        "triggerAfterTurns": 3,
+        "duration": 3,
+        "favorBonus": 8
+      }
+    },
+    {
+      "id": 6086,
+      "name": "Mine Imps Gone Berserk",
+      "interest": 34,
+      "favorMin": 39,
+      "favorMax": 41
+    },
+    {
+      "id": 6087,
+      "name": "Bloodstained Letter",
+      "interest": 22,
+      "favorMin": 32,
+      "favorMax": 36
+    },
+    {
+      "id": 6090,
+      "name": "Melissa's Heart",
+      "interest": 10,
+      "favorMin": 32,
+      "favorMax": 36,
+      "combo": {
+        "triggerAfterTurns": 4,
+        "duration": 4,
+        "interestBonus": 5
+      }
+    },
+    {
+      "id": 6092,
+      "name": "Secret Mission at the Abandoned Fort Site",
+      "interest": 26,
+      "favorMin": 22,
+      "favorMax": 30,
+      "combo": {
+        "triggerAfterTurns": 5,
+        "duration": 4,
+        "interestBonus": 4
+      }
+    },
+    {
+      "id": 6093,
+      "name": "Risk Factors Everywhere",
+      "interest": 20,
+      "favorMin": 45,
+      "favorMax": 47
+    },
+    {
+      "id": 6095,
+      "name": "Broken Cannon",
+      "interest": 5,
+      "favorMin": 43,
+      "favorMax": 60
+    },
+    {
+      "id": 6096,
+      "name": "Ornella's taste",
+      "interest": 34,
+      "favorMin": 37,
+      "favorMax": 45
+    },
+    {
+      "id": 6105,
+      "name": "Orcs and Spirits",
+      "interest": 15,
+      "favorMin": 45,
+      "favorMax": 49
+    },
+    {
+      "id": 6106,
+      "name": "Broken Wagon",
+      "interest": 40,
+      "favorMin": 4,
+      "favorMax": 6,
+      "combo": {
+        "triggerAfterTurns": 4,
+        "duration": 1,
+        "favorBonus": 10
+      }
+    },
+    {
+      "id": 6122,
+      "name": "Demibeast and Shai",
+      "interest": 43,
+      "favorMin": 5,
+      "favorMax": 7,
+      "combo": {
+        "triggerAfterTurns": 2,
+        "duration": 2,
+        "favorBonus": 2
+      }
     }
   ]
 }

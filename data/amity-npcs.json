@@ -186,6 +186,82 @@
         "expectedMaxFavor": 46.1756,
         "expectedSuccesses": 4.5319
       }
+    },
+    {
+      "id": 112,
+      "name": "Dora Fonti",
+      "interestMin": 32,
+      "interestMax": 33,
+      "favorMin": 27,
+      "favorMax": 30,
+      "slots": 6,
+      "triggerOrder": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "conversationItemIds": [
+        4024,
+        6059,
+        6062,
+        6063,
+        6066,
+        6075,
+        6079,
+        6080,
+        6086,
+        6087,
+        6090,
+        6092,
+        6093,
+        6095,
+        6096,
+        6105,
+        6106,
+        6122
+      ],
+      "bestSolution": {
+        "sequenceItemIds": [
+          6079,
+          6093,
+          6096,
+          6086,
+          6059,
+          6063
+        ],
+        "sequencePagePositions": [
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            5
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        "expectedAccumulatedFavor": 186.671,
+        "expectedMaxFavor": 43.6121,
+        "expectedSuccesses": 4.721
+      }
     }
   ]
 }
