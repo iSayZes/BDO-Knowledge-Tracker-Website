@@ -1295,7 +1295,7 @@
         "name_kr": "누벨릭칸트]",
         "name_en": "Nouverikant",
         "requirement_en": "Title Requirement: Obtain [Title] Nouverikant\nAwaken the full power of the dragon Bloodlit Eye of the Desert with the dark energy-filled stone.",
-        "color": 0
+        "color": 10
       },
       {
         "id": 2549,
@@ -1327,7 +1327,7 @@
         "name_kr": "",
         "name_en": "Plutocrat",
         "requirement_en": "Title Requirement: Complete Quest\nFor the self-made merchant extraordinaire.",
-        "color": 0
+        "color": 4
       },
       {
         "id": 2565,
@@ -1335,7 +1335,7 @@
         "name_kr": "",
         "name_en": "Sea Captain",
         "requirement_en": "Title Requirement: Complete Quest\nFor the one who conquered the seas with Ebenruth's power.",
-        "color": 0
+        "color": 4
       },
       {
         "id": 2566,
@@ -1343,7 +1343,7 @@
         "name_kr": "",
         "name_en": "Archaeologist",
         "requirement_en": "Title Requirement: Complete Quest\nFor the one who claimed the mysterious Archaeologist's Map.",
-        "color": 0
+        "color": 4
       },
       {
         "id": 2567,
@@ -1351,7 +1351,7 @@
         "name_kr": "",
         "name_en": "Polaris",
         "requirement_en": "Title Requirement: Complete Quest\nTo the one who navigates with the stars.",
-        "color": 0
+        "color": 4
       },
       {
         "id": 2568,
@@ -1423,7 +1423,7 @@
         "name_kr": "발레노스G",
         "name_en": "Balenos",
         "requirement_en": "Title Requirement: Event\nThis is where it all started. Look how far you've come!",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2583,
@@ -1431,7 +1431,7 @@
         "name_kr": "세렌디아L",
         "name_en": "Serendia",
         "requirement_en": "Title Requirement: Event\nAs your fame rises, the whispers of your name spread like wildfire, echoing through the land.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2584,
@@ -1439,7 +1439,7 @@
         "name_kr": "칼페온L",
         "name_en": "Calpheon",
         "requirement_en": "Title Requirement: Event\nCalpheon calls for aid! And the hero will answer.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2585,
@@ -1447,7 +1447,7 @@
         "name_kr": "메디아N",
         "name_en": "Mediah",
         "requirement_en": "Title Requirement: Event\nEven should the Three Days of Darkness return, nothing can stand in the Adventurer's path.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2586,
@@ -1455,7 +1455,7 @@
         "name_kr": "발렌시아G",
         "name_en": "Valencia",
         "requirement_en": "Title Requirement: Event\nYou no longer hate sand, even though it's coarse, and rough, and irritating, and it gets everywhere...",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2587,
@@ -1463,7 +1463,7 @@
         "name_kr": "카마실비아O",
         "name_en": "Kamasylvia",
         "requirement_en": "Title Requirement: Event\nO Wing of Kamasylvia, you have restored the light, and with it, hope.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2588,
@@ -1471,7 +1471,7 @@
         "name_kr": "드리간f",
         "name_en": "Drieghan",
         "requirement_en": "Title Requirement: Event\nAs if the mighty Sherekhan walked among us once more, you vanquished the Dragon. Adventurer, Drieghan is in your debt.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2589,
@@ -1551,7 +1551,7 @@
         "name_kr": "BDOVision8",
         "name_en": "BDOvision",
         "requirement_en": "Title Requirement: Event\nTook part in the BDOvision concert.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2618,
@@ -1559,7 +1559,7 @@
         "name_kr": "태양의 기사Q",
         "name_en": "Solare Knight",
         "requirement_en": "Title Requirement: Obtain [Title] Solare Knight\nTo the one who displayed indomitable skill in the Arena of Solare.",
-        "color": 0
+        "color": 4
       },
       {
         "id": 2619,
@@ -2431,7 +2431,7 @@
         "name_kr": "오딜리타a",
         "name_en": "O'dyllita",
         "requirement_en": "Title Requirement: Event\nThe World Shadow is ever-present, yet your actions bring a glimmer of hope that in the near future it may be overcome.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 784,
@@ -2527,7 +2527,7 @@
         "name_kr": "끝없는 겨울의 산<",
         "name_en": "Mountain of Eternal Winter",
         "requirement_en": "Title Requirement: Event\nThe cold never bothered you anyway.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 795,
@@ -2567,7 +2567,7 @@
         "name_kr": "아침의 나라[",
         "name_en": "Land of the Morning Light",
         "requirement_en": "Title Requirement: Event\nMay the morning light always reveal your path, Traveler, for your deeds here have revealed ours.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2644,
@@ -3167,7 +3167,7 @@
         "name_kr": "All Saints' DayF",
         "name_en": "Seasonal Sensation!",
         "requirement_en": "Seasonal Sensation!",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1171,
@@ -3495,7 +3495,7 @@
         "name_kr": "북미 트레일러 이벤트 칭호I",
         "name_en": "Lights, Camera, Action!",
         "requirement_en": "Lights, Camera, Action!",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1369,
@@ -3511,7 +3511,7 @@
         "name_kr": "종군기자O",
         "name_en": "War Correspondent",
         "requirement_en": "Title Requirement: Event\nI shall be swift to deliver the latest regarding Conquest Wars to Adventurers.",
-        "color": 0
+        "color": 10
       },
       {
         "id": 1381,
@@ -3583,7 +3583,7 @@
         "name_kr": "북미 팬아트 특별칭호3",
         "name_en": "Picasso, Monet, and ME!",
         "requirement_en": "Picasso, Monet, and ME!",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1436,
@@ -3647,7 +3647,7 @@
         "name_kr": "북미 아르샤 1위 칭호7",
         "name_en": "Champion of Arsha",
         "requirement_en": "Title Requirement: Event\nArena of Arsha, 1st Place",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1499,
@@ -3679,7 +3679,7 @@
         "name_kr": "크리오의 연인4",
         "name_en": "Crio's Lover",
         "requirement_en": "Title Requirement: Win Crio's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1504,
@@ -3687,7 +3687,7 @@
         "name_kr": "에일린의 연인4",
         "name_en": "Eileen's Lover",
         "requirement_en": "Title Requirement: Win Eileen's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1505,
@@ -3695,7 +3695,7 @@
         "name_kr": "발크스의 연인4",
         "name_en": "Valks' Lover",
         "requirement_en": "Title Requirement: Win Valks' Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1506,
@@ -3703,7 +3703,7 @@
         "name_kr": "바하르의 연인4",
         "name_en": "Bahar's Lover",
         "requirement_en": "Title Requirement: Win Bahar's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1507,
@@ -3711,7 +3711,7 @@
         "name_kr": "브레고 월리어의 연인8",
         "name_en": "Brego Williar's Lover",
         "requirement_en": "Title Requirement: Win Brego Williar's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1509,
@@ -3719,7 +3719,7 @@
         "name_kr": "레오나의 연인4",
         "name_en": "Leona's Lover",
         "requirement_en": "Title Requirement: Win Leona's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1510,
@@ -3727,7 +3727,7 @@
         "name_kr": "릭터의 연인3",
         "name_en": "Rikta's Lover",
         "requirement_en": "Title Requirement: Win Rikta's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1511,
@@ -3735,7 +3735,7 @@
         "name_kr": "그레이스 로렌의 연인8",
         "name_en": "Grace Lauren's Lover",
         "requirement_en": "Title Requirement: Win Grace Lauren's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1513,
@@ -3743,7 +3743,7 @@
         "name_kr": "엘리나 레이트의 연인8",
         "name_en": "Elina Leight's Lover",
         "requirement_en": "Title Requirement: Win Elina Leight's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1514,
@@ -3767,7 +3767,7 @@
         "name_kr": "이소벨 엔카로샤의 연인9",
         "name_en": "Isobelle Encarotia's Lover",
         "requirement_en": "Title Requirement: Win Isobelle Encarotia's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1517,
@@ -3775,7 +3775,7 @@
         "name_kr": "도미닉 에른의 연인7",
         "name_en": "Dominic Erne's Lover",
         "requirement_en": "Title Requirement: Win Dominic Erne's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1518,
@@ -3783,7 +3783,7 @@
         "name_kr": "산토 만지의 연인6",
         "name_en": "Santo Manzi's Lover",
         "requirement_en": "Title Requirement: Win Santo Manzi's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1519,
@@ -3791,7 +3791,7 @@
         "name_kr": "안노리사 로지의 연인8",
         "name_en": "Annolisa Rosie's Lover",
         "requirement_en": "Title Requirement: Win Annolisa Rosie's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1520,
@@ -3799,7 +3799,7 @@
         "name_kr": "루웬슬리의 연인5",
         "name_en": "Luwensley's Lover",
         "requirement_en": "Title Requirement: Win Luwensley's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1521,
@@ -3807,7 +3807,7 @@
         "name_kr": "오르넬라의 연인5",
         "name_en": "Ornella's Lover",
         "requirement_en": "Title Requirement: Win Ornella's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1522,
@@ -3815,7 +3815,7 @@
         "name_kr": "카사노바/",
         "name_en": "Heartbreaker",
         "requirement_en": "Title Requirement: So...who's next?",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1524,
@@ -3823,7 +3823,7 @@
         "name_kr": "바람둥이<",
         "name_en": "Flirt",
         "requirement_en": "Title Requirement: Me? A flirt? No, no...",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1541,
@@ -3831,7 +3831,7 @@
         "name_kr": "영원한J",
         "name_en": "Eternal",
         "requirement_en": "Title Requirement: Event\nFind the six pure essences that created this world.",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1555,
@@ -3839,7 +3839,7 @@
         "name_kr": "IA",
         "name_en": "I",
         "requirement_en": "Title Requirement: Event\nGrand Prize Winner of Mysteries of Summer 2018",
-        "color": 0
+        "color": 2
       },
       {
         "id": 1556,
@@ -3847,7 +3847,7 @@
         "name_kr": "IIB",
         "name_en": "II",
         "requirement_en": "Title Requirement: Event\n2nd Place Winner of Mysteries of Summer 2018",
-        "color": 0
+        "color": 4
       },
       {
         "id": 1557,
@@ -3855,7 +3855,7 @@
         "name_kr": "III@",
         "name_en": "III",
         "requirement_en": "Title Requirement: Event\n3rd Place Winner of Mysteries of Summer 2018",
-        "color": 0
+        "color": 8
       },
       {
         "id": 1558,
@@ -3863,7 +3863,7 @@
         "name_kr": "IV@",
         "name_en": "IV",
         "requirement_en": "Title Requirement: Event\n4th Place Winner of Mysteries of Summer 2018",
-        "color": 0
+        "color": 6
       },
       {
         "id": 1559,
@@ -3871,7 +3871,7 @@
         "name_kr": "V@",
         "name_en": "V",
         "requirement_en": "Title Requirement: Event\n5th Place Winner of Mysteries of Summer 2018",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1560,
@@ -3879,7 +3879,7 @@
         "name_kr": "VI@",
         "name_en": "VI",
         "requirement_en": "Title Requirement: Event\n6th Place Winner of Mysteries of Summer 2018",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1561,
@@ -3887,7 +3887,7 @@
         "name_kr": "VII@",
         "name_en": "VII",
         "requirement_en": "Title Requirement: Event\n7th Place Winner of Mysteries of Summer 2018",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1562,
@@ -3895,7 +3895,7 @@
         "name_kr": "VIII@",
         "name_en": "VIII",
         "requirement_en": "Title Requirement: Event\n8th Place Winner of Mysteries of Summer 2018",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1563,
@@ -3903,7 +3903,7 @@
         "name_kr": "IX@",
         "name_en": "IX",
         "requirement_en": "Title Requirement: Event\n9th Place Winner of Mysteries of Summer 2018",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1564,
@@ -3911,7 +3911,7 @@
         "name_kr": "XA",
         "name_en": "X",
         "requirement_en": "Title Requirement: Event\n10th Place Winner of Mysteries of Summer 2018",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1566,
@@ -3919,7 +3919,7 @@
         "name_kr": "어둠;",
         "name_en": "Darkness",
         "requirement_en": "Title Requirement: Event\nThe one who recovered the Essence of Darkness.",
-        "color": 0
+        "color": 11
       },
       {
         "id": 1567,
@@ -3927,7 +3927,7 @@
         "name_kr": "빛9",
         "name_en": "Light",
         "requirement_en": "Title Requirement: Event\nThe one who recovered the Essence of Light.",
-        "color": 0
+        "color": 4
       },
       {
         "id": 1576,
@@ -4119,7 +4119,7 @@
         "name_kr": "#BDORemastered>",
         "name_en": "#BDORemastered",
         "requirement_en": "Title Requirement: Event\nTitle to celebrate the remastering of Black Desert.",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1643,
@@ -4127,7 +4127,7 @@
         "name_kr": "아르샤의 수배자8",
         "name_en": "Arsha Prisoner",
         "requirement_en": "Title Requirement: Event\nArsha server event reward",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1683,
@@ -4151,7 +4151,7 @@
         "name_kr": "천만의 울림I",
         "name_en": "Roar of the Millions",
         "requirement_en": "Title Requirement: Event\nHonor to the millions who have made Black Desert what it is today!",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1700,
@@ -4159,7 +4159,7 @@
         "name_kr": "악신의 강림<",
         "name_en": "Vanquisher of Darkness",
         "requirement_en": "Title Requirement: Event\nA title given to an adventurer who vanquished the darkness.",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1702,
@@ -4183,7 +4183,7 @@
         "name_kr": "빛나는 방송인>",
         "name_en": "Popular Streamer",
         "requirement_en": "Title Requirement: Event\nI'm the most popular Black Desert streamer!",
-        "color": 0
+        "color": 10
       },
       {
         "id": 1728,
@@ -4199,7 +4199,7 @@
         "name_kr": "그림자 영웅<",
         "name_en": "Shadowed Hero",
         "requirement_en": "Title Requirement: Event\nThe last one standing at Shadow Arena",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1730,
@@ -4223,7 +4223,7 @@
         "name_kr": "아푸아루의 연인5",
         "name_en": "Afuaru's Lover",
         "requirement_en": "Title Requirement: Win Afuaru's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1734,
@@ -4231,7 +4231,7 @@
         "name_kr": "아혼 키루스의 연인7",
         "name_en": "Ahon Kirus's Lover",
         "requirement_en": "Title Requirement: Win Ahon Kirus's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1735,
@@ -4239,7 +4239,7 @@
         "name_kr": "선장 모굴리의 연인7",
         "name_en": "Captain Moguly's Lover",
         "requirement_en": "Title Requirement: Win Captain Moguly's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1736,
@@ -4247,7 +4247,7 @@
         "name_kr": "만메한 네세르의 연인8",
         "name_en": "Manmehan Nesser's Lover",
         "requirement_en": "Title Requirement: Win Manmehan Nesser's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1737,
@@ -4255,7 +4255,7 @@
         "name_kr": "사야 네세르의 연인7",
         "name_en": "Saya Nesser's Lover",
         "requirement_en": "Title Requirement: Win Saya Nesser's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1738,
@@ -4263,7 +4263,7 @@
         "name_kr": "산명의 연인3",
         "name_en": "Sanmyoung's Lover",
         "requirement_en": "Title Requirement: Win Sanmyoung's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1739,
@@ -4271,7 +4271,7 @@
         "name_kr": "소류의 연인3",
         "name_en": "Soryu's Lover",
         "requirement_en": "Title Requirement: Win Soryu's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1740,
@@ -4279,7 +4279,7 @@
         "name_kr": "아메리고의 연인5",
         "name_en": "Amerigo's Lover",
         "requirement_en": "Title Requirement: Win Amerigo's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1741,
@@ -4287,7 +4287,7 @@
         "name_kr": "데베의 연인3",
         "name_en": "Deve's Lover",
         "requirement_en": "Title Requirement: Win Deve's Heart",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1754,
@@ -4335,7 +4335,7 @@
         "name_kr": "이벤트를 좋아하는1",
         "name_en": "Event Enthusiast",
         "requirement_en": "Title Requirement: Event\nGM Event",
-        "color": 0
+        "color": 2
       },
       {
         "id": 1798,
@@ -4343,7 +4343,7 @@
         "name_kr": "이벤트를 사랑하는1",
         "name_en": "Event Lover",
         "requirement_en": "Title Requirement: Event\nGM Event",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1799,
@@ -4351,7 +4351,7 @@
         "name_kr": "이벤트 매니아1",
         "name_en": "Event Maniac",
         "requirement_en": "Title Requirement: Event\nGM Event",
-        "color": 0
+        "color": 4
       },
       {
         "id": 1800,
@@ -4359,7 +4359,7 @@
         "name_kr": "GM을 처음 본1",
         "name_en": "Met a GM",
         "requirement_en": "Title Requirement: Event\nGM Event",
-        "color": 0
+        "color": 2
       },
       {
         "id": 1801,
@@ -4367,7 +4367,7 @@
         "name_kr": "GM과 어색한1",
         "name_en": "A GM's Acquaintance",
         "requirement_en": "Title Requirement: Event\nGM Event",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1802,
@@ -4375,7 +4375,7 @@
         "name_kr": "GM과 친한1",
         "name_en": "A GM's Friend",
         "requirement_en": "Title Requirement: Event\nGM Event",
-        "color": 0
+        "color": 4
       },
       {
         "id": 1807,
@@ -4383,7 +4383,7 @@
         "name_kr": "삼 만 개E",
         "name_en": "30K",
         "requirement_en": "Title Requirement: Complete Quest\nI have completed 30,000 quests. I am a master of quests.",
-        "color": 0
+        "color": 4
       },
       {
         "id": 1809,
@@ -4431,7 +4431,7 @@
         "name_kr": "영혼>",
         "name_en": "Soul",
         "requirement_en": "Title Requirement: Event\nAward for completing the 2019 Secret Challenge",
-        "color": 0
+        "color": 3
       },
       {
         "id": 1816,
@@ -4471,7 +4471,7 @@
         "name_kr": "Rise Above the Disorder>",
         "name_en": "Rise Above the Disorder",
         "requirement_en": "Rise Above the Disorder",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1902,
@@ -4687,7 +4687,7 @@
         "name_kr": "이모님H",
         "name_en": "Adventurer of the Month",
         "requirement_en": "Title Requirement: Obtain [Title] Adventurer of the Month\nFor this month, I am Black Desert's main character!",
-        "color": 0
+        "color": 8
       },
       {
         "id": 1942,
@@ -4695,7 +4695,7 @@
         "name_kr": "빛나는 모험가U",
         "name_en": "Radiant Adventurer",
         "requirement_en": "Title Requirement: Obtain [Title] Radiant Adventurer\nLast month, this month, next month- I'm always the main character!",
-        "color": 0
+        "color": 4
       },
       {
         "id": 1943,
@@ -4719,7 +4719,7 @@
         "name_kr": "천사5",
         "name_en": "Angel",
         "requirement_en": "Title Requirement: Event\n2020 Charity Event",
-        "color": 0
+        "color": 12
       },
       {
         "id": 1974,
@@ -4919,7 +4919,7 @@
         "name_kr": "검초보들의 알리미P",
         "name_en": "Herald of Newbies",
         "requirement_en": "Title Requirement: Earn title [Title] Herald of Newbies\nFor being active in the Lunar Halo Inn",
-        "color": 0
+        "color": 2
       },
       {
         "id": 2014,
@@ -4927,7 +4927,7 @@
         "name_kr": "검뉴비들의 안내자P",
         "name_en": "Luminary of Newbies",
         "requirement_en": "Title Requirement: Earn [Title] Luminary of Newbies\nFor being active in the Lunar Halo Inn",
-        "color": 0
+        "color": 3
       },
       {
         "id": 2015,
@@ -4935,7 +4935,7 @@
         "name_kr": "검린이들의 수호자P",
         "name_en": "Protector of Newbies",
         "requirement_en": "Title Requirement: Earn [Title] Protector of Newbies\nFor being active in the Lunar Halo Inn",
-        "color": 0
+        "color": 4
       },
       {
         "id": 2016,
@@ -4943,7 +4943,7 @@
         "name_kr": "노력하는 이등 조타수Z",
         "name_en": "Hardworking Steerer",
         "requirement_en": "Title Requirement: Earn the title [Title] Hardworking Steerer\nFor being active in the Dancing Marlin tavern.",
-        "color": 0
+        "color": 2
       },
       {
         "id": 2017,
@@ -4951,7 +4951,7 @@
         "name_kr": "듬직한 일등 항해사Y",
         "name_en": "Reliable First Mate",
         "requirement_en": "Title Requirement: Earn the title [Title] Reliable First Mate\nFor being active in the Dancing Marlin tavern.",
-        "color": 0
+        "color": 3
       },
       {
         "id": 2018,
@@ -4959,7 +4959,7 @@
         "name_kr": "모두를 책임지는 선장님[",
         "name_en": "Oh Captain, My Captain",
         "requirement_en": "Title Requirement: Earn the title [Title] Oh Captain, My Captain\nFor being active in the Dancing Marlin tavern.",
-        "color": 0
+        "color": 4
       },
       {
         "id": 2019,
@@ -5367,7 +5367,7 @@
         "name_kr": "",
         "name_en": "Great Marni's Assistant",
         "requirement_en": "Title Requirement: Complete Quest\nThe Best Assistant to be recognized by the Great Marni!",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2697,
@@ -5391,7 +5391,7 @@
         "name_kr": "빛의 검사F",
         "name_en": "Shining Knight",
         "requirement_en": "Title Requirement: Exchange Radiant Shakatu's Seal\nAn adventurer recognized by the Shakatu Merchants.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2702,
@@ -5415,7 +5415,7 @@
         "name_kr": "",
         "name_en": "Captain Epheria",
         "requirement_en": "Title Requirement: Exchange Epheria Galleon Ship License\nYou can now commandeer the Epheria Galleon.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2706,
@@ -6327,7 +6327,7 @@
         "name_kr": "천마의 인도자U",
         "name_en": "Celestial Pathfinder",
         "requirement_en": "Title Requirement: Complete Quest\nBestowed Krogdalo's blessing by becoming the eternal companion of Mythical Arduanatt, Diné, and Doom.",
-        "color": 0
+        "color": 4
       },
       {
         "id": 2878,
@@ -6407,7 +6407,7 @@
         "name_kr": "천리안F",
         "name_en": "Clairvoyant",
         "requirement_en": "Title Requirement: Complete Quest\nThe one who sees so far ahead, they can see into the future.",
-        "color": 0
+        "color": 4
       },
       {
         "id": 2890,
@@ -6415,7 +6415,7 @@
         "name_kr": "챔피언P",
         "name_en": "Champion",
         "requirement_en": "Title Requirement: Event\nIssued to a participating adventurer of the Asia Node War Championship.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2891,
@@ -6423,7 +6423,7 @@
         "name_kr": "World ClassJ",
         "name_en": "World Class",
         "requirement_en": "Title Requirement: Event\nIssued to a participating adventurer of the World Node War.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2892,
@@ -6431,7 +6431,7 @@
         "name_kr": "월드 거점돌파J",
         "name_en": "World Node Breaker",
         "requirement_en": "Title Requirement: Event\nIssued to a participating adventurer of the World Node War.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2936,
@@ -6471,7 +6471,7 @@
         "name_kr": "길드를 찾습니다B",
         "name_en": "Looking for a Guild",
         "requirement_en": "Title Requirement: Event\nTime limited title for new and returning adventurers",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2945,
@@ -6511,7 +6511,7 @@
         "name_kr": "친선 교류단@",
         "name_en": "Goodwill Delegation",
         "requirement_en": "Title Requirement: Event\nEngaged in friendly bouts with adventurers from distant worlds.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2953,
@@ -6527,7 +6527,7 @@
         "name_kr": "길드 리그의 전설U",
         "name_en": "Guild League Legend",
         "requirement_en": "Title Requirement: Event\nA title bestowed to the adventurer of a guild ranked 1st to 3rd during the Guild League Trial Period",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2955,
@@ -6535,7 +6535,7 @@
         "name_kr": "길드 리그의 영웅V",
         "name_en": "Guild League Champion",
         "requirement_en": "Title Requirement: Event\nA title bestowed to the adventurer of a guild ranked 4th to 10th during the Guild League Trial Period",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2956,
@@ -6543,7 +6543,7 @@
         "name_kr": "길드 리그의 용사W",
         "name_en": "Guild League Hero",
         "requirement_en": "Title Requirement: Event\nA title bestowed to the adventurer of a guild ranked 11th to 20th during the Guild League Trial Period",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2957,
@@ -6551,7 +6551,7 @@
         "name_kr": "길드 리그의 전사W",
         "name_en": "Guild League Veteran",
         "requirement_en": "Title Requirement: Event\nA title bestowed to the adventurer of a guild ranked 21st to 40th during the Guild League Trial Period",
-        "color": 0
+        "color": 5
       },
       {
         "id": 2958,
@@ -6967,7 +6967,7 @@
         "name_kr": "철인G",
         "name_en": "Fe-nominal",
         "requirement_en": "Title Requirement: Exchange Boss Blitz Token - Bulgasal via Manage Currency\nStronger than the mightiest of boulders!",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3011,
@@ -6991,7 +6991,7 @@
         "name_kr": "타격감 지귀네L",
         "name_en": "Gettin' Jigwi Wit It",
         "requirement_en": "Title Requirement: Exchange Boss Blitz Token - Jigwi via Manage Currency\nOn your spark, ready, set, let's go!",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3014,
@@ -7015,7 +7015,7 @@
         "name_kr": "그렇게 하는 거 아닌데I",
         "name_en": "That's Not How It's Done",
         "requirement_en": "Title Requirement: Exchange Boss Blitz Token - Blue-clad Youth via Manage Currency\nThis is how it's done!",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3017,
@@ -7039,7 +7039,7 @@
         "name_kr": "최종병기 콩K",
         "name_en": "Un-bean-ievable Weapon",
         "requirement_en": "Title Requirement: Exchange Boss Blitz Token - Uturi via Manage Currency\nNobody can ground me!",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3020,
@@ -7063,7 +7063,7 @@
         "name_kr": "PVP100 챔피언R",
         "name_en": "PvP 100 Champion",
         "requirement_en": "Title Requirement: PvP 100 winner\nAwarded to the winner of the PvP 100 event",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3023,
@@ -7079,7 +7079,7 @@
         "name_kr": "봉황G",
         "name_en": "Bonghwang",
         "requirement_en": "Title Requirement: Exchange Boss Blitz Token - Dark Bonghwang via Manage Currency\nCreature of legend, you say?",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3025,
@@ -7103,7 +7103,7 @@
         "name_kr": "폐세자I",
         "name_en": "Deposed Crown Prince",
         "requirement_en": "Title Requirement: Exchange Boss Blitz Token - Deposed Crown Prince via Manage Currency\nI can't abdicate my hopes just yet...",
-        "color": 0
+        "color": 1
       },
       {
         "id": 3028,
@@ -7111,7 +7111,7 @@
         "name_kr": "보름달Q",
         "name_en": "Full Moon",
         "requirement_en": "Title Requirement: Exchange Boss Blitz Token - Deposed Crown Prince via Manage Currency\nFeeling moonstruck under the gentle glow of moonlight.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3029,
@@ -7143,7 +7143,7 @@
         "name_kr": "명의J",
         "name_en": "Bihyung, M.D.",
         "requirement_en": "Title Requirement: Exchange Boss Blitz Token - Bihyung via Manage Currency\nPutting the \"Sir\" in surgery...",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3033,
@@ -7391,7 +7391,7 @@
         "name_kr": "10주년=",
         "name_en": "10th Anniversary",
         "requirement_en": "Title Requirement: Issued to Adventurers who participated in the 10th anniversary",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3090,
@@ -7399,7 +7399,7 @@
         "name_kr": "Flag UpV",
         "name_en": "Flag Up",
         "requirement_en": "Title Requirement: Arsha Leaderboard 1st Place\nBestowed unto the Adventurer who achieved 1st place in the Arsha Leaderboard.",
-        "color": 0
+        "color": 1
       },
       {
         "id": 3091,
@@ -7415,7 +7415,7 @@
         "name_kr": "Guild LeaguerI",
         "name_en": "Guild Leaguer",
         "requirement_en": "Title Requirement: Event\nA title given to the guild who performed brilliantly in the Guild League.",
-        "color": 0
+        "color": 1
       },
       {
         "id": 3151,
@@ -7423,7 +7423,7 @@
         "name_kr": "Guild LeaguerI",
         "name_en": "Guild Leaguer",
         "requirement_en": "Title Requirement: Event\nA title given to the guild who performed brilliantly in the Guild League.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3152,
@@ -7439,7 +7439,7 @@
         "name_kr": "10주년을 빛낸@",
         "name_en": "Decade's Light",
         "requirement_en": "Title Requirement: Event\nFor the Adventurer who shone brightly in the 10th Anniversary Art Festival.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3161,
@@ -7447,7 +7447,7 @@
         "name_kr": "친구Z",
         "name_en": "Friend",
         "requirement_en": "Title Requirement: Event\nFor Adventurers who've been companions of Black Desert, sharing laughs and making memories for a decade.",
-        "color": 0
+        "color": 13
       },
       {
         "id": 3166,
@@ -7455,7 +7455,7 @@
         "name_kr": "WANTED;",
         "name_en": "WANTED",
         "requirement_en": "Title Requirement: Event\nA title to celebrate the launch of the new Deadeye class",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3167,
@@ -7487,7 +7487,7 @@
         "name_kr": "큐피드9",
         "name_en": "CUPID",
         "requirement_en": "Title Requirement: Event\nThe arrow of love, aimed at one's heart.",
-        "color": 0
+        "color": 18
       },
       {
         "id": 3171,
@@ -7495,7 +7495,7 @@
         "name_kr": "심쿵8",
         "name_en": "Heart Flutterfly",
         "requirement_en": "Title Requirement: Event\nFor you who sends my heart a-flutter...",
-        "color": 0
+        "color": 18
       },
       {
         "id": 3172,
@@ -7503,7 +7503,7 @@
         "name_kr": "큐피드<",
         "name_en": "CUPID",
         "requirement_en": "Title Requirement: Event\nA special title for the Valentine's Day event",
-        "color": 0
+        "color": 14
       },
       {
         "id": 3173,
@@ -7511,7 +7511,7 @@
         "name_kr": "심쿵<",
         "name_en": "Heart Flutterfly",
         "requirement_en": "Title Requirement: Event\nA special title for the Valentine's Day event",
-        "color": 0
+        "color": 14
       },
       {
         "id": 3177,
@@ -7519,7 +7519,7 @@
         "name_kr": "\u0003",
         "name_en": "Captain",
         "requirement_en": "Title Requirement: Owner of blue grade carrack equipment\nA captain who commands the respect of all.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3178,
@@ -7527,7 +7527,7 @@
         "name_kr": "\u0007",
         "name_en": "Ocean Pioneer",
         "requirement_en": "Title Requirement: Owner of blue grade carrack equipment\nA pioneer who ventured in the vast seas faster than anyone else.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3187,
@@ -7535,7 +7535,7 @@
         "name_kr": "Now Processedc",
         "name_en": "Now Processed",
         "requirement_en": "Title Requirement: Event\nAfter 9 years of processing, we are now fully processed.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3188,
@@ -7543,7 +7543,7 @@
         "name_kr": "Let 'Em Cook@",
         "name_en": "Let 'Em Cook",
         "requirement_en": "Title Requirement: Event\nHold up, let me cook.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3189,
@@ -7551,7 +7551,7 @@
         "name_kr": "Elementaryw",
         "name_en": "Elementary",
         "requirement_en": "Title Requirement: Event\nThat was quite easy for me, as I am the one and only Anniversary Detective.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3190,
@@ -7559,7 +7559,7 @@
         "name_kr": "High FiveN",
         "name_en": "High Five",
         "requirement_en": "Title Requirement: Event\nWe definitely earned that high five.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3191,
@@ -7567,7 +7567,7 @@
         "name_kr": "",
         "name_en": "Solare Incarnate",
         "requirement_en": "Title Requirement: Obtain Solare Incarnate Certificate\nTo the one who has reached the Solare Incarnate rank in the Arena of Solare.",
-        "color": 0
+        "color": 12
       },
       {
         "id": 3192,
@@ -7575,7 +7575,7 @@
         "name_kr": "",
         "name_en": "Radiant Spear",
         "requirement_en": "Title Requirement: Obtain Radiant Spear Certificate\nTo the one who has reached the Radiant Spear rank in the Arena of Solare.",
-        "color": 0
+        "color": 2
       },
       {
         "id": 3193,
@@ -7583,7 +7583,7 @@
         "name_kr": "",
         "name_en": "Twilight Spear",
         "requirement_en": "Title Requirement: Obtain Twilight Spear Certificate\nTo the one who has reached the Twilight Spear rank in the Arena of Solare.",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3194,
@@ -7591,7 +7591,7 @@
         "name_kr": "",
         "name_en": "Shining Spear",
         "requirement_en": "Title Requirement: Obtain Shining Spear Certificate\nTo the one who has reached the Shining Spear rank in the Arena of Solare.",
-        "color": 0
+        "color": 15
       },
       {
         "id": 3195,
@@ -7599,7 +7599,7 @@
         "name_kr": "",
         "name_en": "Dawn Spear",
         "requirement_en": "Title Requirement: Obtain Dawn Spear Certificate\nTo the one who has reached the Dawn Spear rank in the Arena of Solare.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3196,
@@ -7623,7 +7623,7 @@
         "name_kr": "칼페온의 학자@",
         "name_en": "Academic of Calpheon",
         "requirement_en": "Title Requirement: Event\nDared to face the unknown with passion",
-        "color": 0
+        "color": 7
       },
       {
         "id": 3199,
@@ -7631,7 +7631,7 @@
         "name_kr": "그라나의 학자>",
         "name_en": "Academic of Grána",
         "requirement_en": "Title Requirement: Event\nSought out the light of wisdom",
-        "color": 0
+        "color": 16
       },
       {
         "id": 3200,
@@ -7639,7 +7639,7 @@
         "name_kr": "오드락시아의 학자?",
         "name_en": "Academic of O'draxxia",
         "requirement_en": "Title Requirement: Event\nThrived on ambition and hidden power",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3205,
@@ -7679,7 +7679,7 @@
         "name_kr": "칼페온의 반장>",
         "name_en": "Calpheon's President",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 7
       },
       {
         "id": 3216,
@@ -7687,7 +7687,7 @@
         "name_kr": "칼페온의 모범생>",
         "name_en": "Calpheon's Honor Roll",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 7
       },
       {
         "id": 3217,
@@ -7695,7 +7695,7 @@
         "name_kr": "칼페온의 응원단장>",
         "name_en": "Calpheon's Cheerleader",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 7
       },
       {
         "id": 3218,
@@ -7703,7 +7703,7 @@
         "name_kr": "칼페온의 주먹>",
         "name_en": "Calpheon's Top Dog",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 7
       },
       {
         "id": 3219,
@@ -7711,7 +7711,7 @@
         "name_kr": "칼페온의 첫사랑>",
         "name_en": "Calpheon's First Love",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 7
       },
       {
         "id": 3220,
@@ -7719,7 +7719,7 @@
         "name_kr": "칼페온의 운동부>",
         "name_en": "Calpheon's Team Spirit",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 7
       },
       {
         "id": 3221,
@@ -7727,7 +7727,7 @@
         "name_kr": "칼페온의 밴드부>",
         "name_en": "Calpheon's Band Camp",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 7
       },
       {
         "id": 3222,
@@ -7735,7 +7735,7 @@
         "name_kr": "칼페온의 댄스부>",
         "name_en": "Calpheon's Dance Club",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 7
       },
       {
         "id": 3223,
@@ -7743,7 +7743,7 @@
         "name_kr": "칼페온의 선도부>",
         "name_en": "Calpheon's Student Council",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 7
       },
       {
         "id": 3224,
@@ -7751,7 +7751,7 @@
         "name_kr": "칼페온의 영포자>",
         "name_en": "Calpheon's Read No Good",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 7
       },
       {
         "id": 3225,
@@ -7759,7 +7759,7 @@
         "name_kr": "칼페온의 수포자>",
         "name_en": "Calpheon's Maths Hard",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 7
       },
       {
         "id": 3226,
@@ -7767,7 +7767,7 @@
         "name_kr": "칼페온의 아이돌 연습생>",
         "name_en": "Calpheon's Idol Trainee",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 7
       },
       {
         "id": 3227,
@@ -7775,7 +7775,7 @@
         "name_kr": "그라나의 반장>",
         "name_en": "Grána's President",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 16
       },
       {
         "id": 3228,
@@ -7783,7 +7783,7 @@
         "name_kr": "그라나의 모범생>",
         "name_en": "Grána's Honor Roll",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 16
       },
       {
         "id": 3229,
@@ -7791,7 +7791,7 @@
         "name_kr": "그라나의 응원단장>",
         "name_en": "Grána's Cheerleader",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 16
       },
       {
         "id": 3230,
@@ -7799,7 +7799,7 @@
         "name_kr": "그라나의 주먹>",
         "name_en": "Grána's Top Dog",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 16
       },
       {
         "id": 3231,
@@ -7807,7 +7807,7 @@
         "name_kr": "그라나의 첫사랑>",
         "name_en": "Grána's First Love",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 16
       },
       {
         "id": 3232,
@@ -7815,7 +7815,7 @@
         "name_kr": "그라나의 운동부>",
         "name_en": "Grána's Team Spirit",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 16
       },
       {
         "id": 3233,
@@ -7823,7 +7823,7 @@
         "name_kr": "그라나의 밴드부>",
         "name_en": "Grána's Band Camp",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 16
       },
       {
         "id": 3234,
@@ -7831,7 +7831,7 @@
         "name_kr": "그라나의 댄스부>",
         "name_en": "Grána's Dance Club",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 16
       },
       {
         "id": 3235,
@@ -7839,7 +7839,7 @@
         "name_kr": "그라나의 선도부>",
         "name_en": "Grána's Student Council",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 16
       },
       {
         "id": 3236,
@@ -7847,7 +7847,7 @@
         "name_kr": "그라나의 영포자>",
         "name_en": "Grána's Read No Good",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 16
       },
       {
         "id": 3237,
@@ -7855,7 +7855,7 @@
         "name_kr": "그라나의 수포자>",
         "name_en": "Grána's Maths Hard",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 16
       },
       {
         "id": 3238,
@@ -7863,7 +7863,7 @@
         "name_kr": "그라나의 아이돌 연습생>",
         "name_en": "Grána's Idol Trainee",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 16
       },
       {
         "id": 3239,
@@ -7871,7 +7871,7 @@
         "name_kr": "오드락시아의 반장>",
         "name_en": "O'draxxia's President",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3240,
@@ -7879,7 +7879,7 @@
         "name_kr": "오드락시아의 모범생>",
         "name_en": "O'draxxia's Honor Roll",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3241,
@@ -7887,7 +7887,7 @@
         "name_kr": "오드락시아의 응원단장>",
         "name_en": "O'draxxia's Cheerleader",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3242,
@@ -7895,7 +7895,7 @@
         "name_kr": "오드락시아의 주먹>",
         "name_en": "O'draxxia's Top Dog",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3243,
@@ -7903,7 +7903,7 @@
         "name_kr": "오드락시아의 첫사랑>",
         "name_en": "O'draxxia's First Love",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3244,
@@ -7911,7 +7911,7 @@
         "name_kr": "오드락시아의 운동부>",
         "name_en": "O'draxxia's Team Spirit",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3245,
@@ -7919,7 +7919,7 @@
         "name_kr": "오드락시아의 밴드부>",
         "name_en": "O'draxxia's Band Camp",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3246,
@@ -7927,7 +7927,7 @@
         "name_kr": "오드락시아의 댄스부>",
         "name_en": "O'draxxia's Dance Club",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3247,
@@ -7935,7 +7935,7 @@
         "name_kr": "오드락시아의 선도부>",
         "name_en": "O'draxxia's Student Council",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3248,
@@ -7943,7 +7943,7 @@
         "name_kr": "오드락시아의 영포자>",
         "name_en": "O'draxxia's Read No Good",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3249,
@@ -7951,7 +7951,7 @@
         "name_kr": "오드락시아의 수포자>",
         "name_en": "O'draxxia's Maths Hard",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3250,
@@ -7959,7 +7959,7 @@
         "name_kr": "오드락시아의 아이돌 연습생>",
         "name_en": "O'draxxia's Idol Trainee",
         "requirement_en": "Title Requirement: Event\nA special title for the Old Moon Guild Lesson event.",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3251,
@@ -7967,7 +7967,7 @@
         "name_kr": "야옹K",
         "name_en": "Meow",
         "requirement_en": "Title Requirement: Event\nExchanged with Pet Exchange Tokens from the Nerry, the Animal Lover! event",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3252,
@@ -7975,7 +7975,7 @@
         "name_kr": "멍뭉K",
         "name_en": "Woof",
         "requirement_en": "Title Requirement: Event\nExchanged with Pet Exchange Tokens from the Nerry, the Animal Lover! event",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3253,
@@ -7983,7 +7983,7 @@
         "name_kr": "귀여운K",
         "name_en": "Adorbs",
         "requirement_en": "Title Requirement: Event\nExchanged with Pet Exchange Tokens from the Nerry, the Animal Lover! event",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3254,
@@ -7991,7 +7991,7 @@
         "name_kr": "사랑스러운K",
         "name_en": "Lovable",
         "requirement_en": "Title Requirement: Event\nExchanged with Pet Exchange Tokens from the Nerry, the Animal Lover! event",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3255,
@@ -7999,7 +7999,7 @@
         "name_kr": "털뭉치K",
         "name_en": "Fuzzball",
         "requirement_en": "Title Requirement: Event\nExchanged with Pet Exchange Tokens from the Nerry, the Animal Lover! event",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3256,
@@ -8007,7 +8007,7 @@
         "name_kr": "멘토W",
         "name_en": "Mentor",
         "requirement_en": "Title Requirement: Event\nA title for adventurers who made a special connection to better their Black Desert journey together.",
-        "color": 0
+        "color": 13
       },
       {
         "id": 3257,
@@ -8015,7 +8015,7 @@
         "name_kr": "멘티W",
         "name_en": "Mentee",
         "requirement_en": "Title Requirement: Event\nA title for adventurers who made a special connection to better their Black Desert journey together.",
-        "color": 0
+        "color": 13
       },
       {
         "id": 3456,
@@ -8023,7 +8023,7 @@
         "name_kr": "초월자A",
         "name_en": "Transcendent",
         "requirement_en": "Title Requirement: Reach the Transcendent rank on the Hardcore Server",
-        "color": 0
+        "color": 12
       },
       {
         "id": 3457,
@@ -8031,7 +8031,7 @@
         "name_kr": "정복자A",
         "name_en": "Conqueror",
         "requirement_en": "Title Requirement: Reach the Conqueror rank on the Hardcore Server",
-        "color": 0
+        "color": 12
       },
       {
         "id": 3458,
@@ -8039,7 +8039,7 @@
         "name_kr": "학살자A",
         "name_en": "Reaper",
         "requirement_en": "Title Requirement: Reach the Reaper rank on the Hardcore Server",
-        "color": 0
+        "color": 12
       },
       {
         "id": 3459,
@@ -8047,7 +8047,7 @@
         "name_kr": "영광의 검C",
         "name_en": "Honorblade",
         "requirement_en": "Title Requirement: Reach the Honorblade rank on the Hardcore Server",
-        "color": 0
+        "color": 2
       },
       {
         "id": 3460,
@@ -8055,7 +8055,7 @@
         "name_kr": "여명의 검C",
         "name_en": "Dawnblade",
         "requirement_en": "Title Requirement: Reach the Dawnblade rank on the Hardcore Server",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3461,
@@ -8063,7 +8063,7 @@
         "name_kr": "불꽃의 검C",
         "name_en": "Flameblade",
         "requirement_en": "Title Requirement: Reach the Flameblade rank on the Hardcore Server",
-        "color": 0
+        "color": 15
       },
       {
         "id": 3462,
@@ -8071,7 +8071,7 @@
         "name_kr": "노을의 검C",
         "name_en": "Duskblade",
         "requirement_en": "Title Requirement: Reach the Duskblade rank on the Hardcore Server",
-        "color": 0
+        "color": 4
       },
       {
         "id": 3463,
@@ -8119,7 +8119,7 @@
         "name_kr": "10년의 추억을 간직한G",
         "name_en": "A Decade of Memories",
         "requirement_en": "Title Requirement: Event\nTo the Adventurer who shared memories and made our 10th anniversary shine",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3469,
@@ -8127,7 +8127,7 @@
         "name_kr": "화가>",
         "name_en": "Artist",
         "requirement_en": "Title Requirement: Event\nA special title for the Character Portrait Contest",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3470,
@@ -8135,7 +8135,7 @@
         "name_kr": "페스티벌9",
         "name_en": "Festival",
         "requirement_en": "Title Requirement: Event\nA title signaling the event's beginning",
-        "color": 0
+        "color": 17
       },
       {
         "id": 3473,
@@ -8143,7 +8143,7 @@
         "name_kr": "울루키타M",
         "name_en": "Ulukita",
         "requirement_en": "Title Requirement: Event\n\"Unlock your path with this key. The eye of ages will gaze upon you.\"",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3474,
@@ -8159,7 +8159,7 @@
         "name_kr": "리버스는, 칭호부터 다름~!6",
         "name_en": "Fleece and Furious",
         "requirement_en": "Title Requirement: Event\nFor the greatest guild",
-        "color": 0
+        "color": 13
       },
       {
         "id": 3478,
@@ -8167,7 +8167,7 @@
         "name_kr": "?6",
         "name_en": "Best Guild EU",
         "requirement_en": "Title Requirement: Event\nFor the greatest guild",
-        "color": 0
+        "color": 13
       },
       {
         "id": 3479,
@@ -8175,7 +8175,7 @@
         "name_kr": "마무도 네모를 막믈 수 멊므셈 크크6",
         "name_en": "Fishge",
         "requirement_en": "Title Requirement: Event\nFor the greatest guild",
-        "color": 0
+        "color": 13
       },
       {
         "id": 3480,
@@ -8183,7 +8183,7 @@
         "name_kr": "연회 본방사수;",
         "name_en": "Heidel Ball Watch Party",
         "requirement_en": "Title Requirement: Event\nWatched 2025 Heidel Ball live.",
-        "color": 0
+        "color": 16
       },
       {
         "id": 3484,
@@ -8191,7 +8191,7 @@
         "name_kr": "전장의 망나니=",
         "name_en": "Monkey of Mayhem",
         "requirement_en": "Title Requirement: Event\nMet a havoc-wreaking ruffian, with a heart as fierce as his fists.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3485,
@@ -8199,7 +8199,7 @@
         "name_kr": "불로불사9",
         "name_en": "Immortal",
         "requirement_en": "Title Requirement: Event\nA title to celebrate the launch of the new Wukong class",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3486,
@@ -8207,7 +8207,7 @@
         "name_kr": "Hot-Time;",
         "name_en": "Hot-Time",
         "requirement_en": "Title Requirement: Event\nSummer 2025 exclusive",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3487,
@@ -8215,7 +8215,7 @@
         "name_kr": "Cool-Time;",
         "name_en": "Cool-Time",
         "requirement_en": "Title Requirement: Event\nSummer 2025 exclusive",
-        "color": 0
+        "color": 16
       },
       {
         "id": 3488,
@@ -8223,7 +8223,7 @@
         "name_kr": "시선강탈;",
         "name_en": "Too Hot to Handle",
         "requirement_en": "Title Requirement: Event\nSummer 2025 exclusive",
-        "color": 0
+        "color": 18
       },
       {
         "id": 3490,
@@ -8231,7 +8231,7 @@
         "name_kr": "매의 눈D",
         "name_en": "Eagle-Eyed",
         "requirement_en": "Title Requirement: Event\nThe truth is right in front of us, but few can truly see it.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3496,
@@ -8663,7 +8663,7 @@
         "name_kr": "",
         "name_en": "Godslayer of Legend",
         "requirement_en": "Title Requirement: Craft Edana's Defense Gear\nBearer of the fabled Godslayer Armor.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3605,
@@ -8695,7 +8695,7 @@
         "name_kr": "마의 거장9",
         "name_en": "Demonzart",
         "requirement_en": "Title Requirement: Event\nComposed a masterpiece, echoing through the Demon Realm.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3612,
@@ -8727,7 +8727,7 @@
         "name_kr": "에겐녀@",
         "name_en": "Divine Waifu",
         "requirement_en": "Title Requirement: Event\nFor the softest souls, sweet inside and out—divinely moist, heavenly blessed.",
-        "color": 0
+        "color": 12
       },
       {
         "id": 3616,
@@ -8735,7 +8735,7 @@
         "name_kr": "에겐남@",
         "name_en": "Holy Husbando",
         "requirement_en": "Title Requirement: Event\nFor the softest souls, sweet inside and out—divinely moist, heavenly blessed.",
-        "color": 0
+        "color": 12
       },
       {
         "id": 3617,
@@ -8743,7 +8743,7 @@
         "name_kr": "테토녀?",
         "name_en": "Hellbabe",
         "requirement_en": "Title Requirement: Event\nFor the rough and ruthless—edgy to the core, hot as hell.",
-        "color": 0
+        "color": 18
       },
       {
         "id": 3618,
@@ -8751,7 +8751,7 @@
         "name_kr": "테토남?",
         "name_en": "Daemonchad",
         "requirement_en": "Title Requirement: Event\nFor the rough and ruthless—edgy to the core, hot as hell.",
-        "color": 0
+        "color": 18
       },
       {
         "id": 3621,
@@ -8759,7 +8759,7 @@
         "name_kr": "흑정주세요B",
         "name_en": "Rage Hungry",
         "requirement_en": "Title Requirement: Event\nBuild rage faster and hit harder than anyone.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3622,
@@ -8767,7 +8767,7 @@
         "name_kr": "해줘!!>",
         "name_en": "Just Do It!!",
         "requirement_en": "Title Requirement: Event\nDon't let your dreams be memes—shout it and win it.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3623,
@@ -8775,7 +8775,7 @@
         "name_kr": "캐뤼G",
         "name_en": "Hard Carry",
         "requirement_en": "Title Requirement: Event\nThe team's hope—the ace who leads the fight, even solo.",
-        "color": 0
+        "color": 5
       },
       {
         "id": 3624,
@@ -8783,7 +8783,7 @@
         "name_kr": "태양<",
         "name_en": "THE SUN",
         "requirement_en": "Title Requirement: Event\nAs the sun never dims, so too does your brilliance never fade.",
-        "color": 0
+        "color": 10
       },
       {
         "id": 3625,
@@ -8791,7 +8791,7 @@
         "name_kr": "철옹성C",
         "name_en": "Impregnable Fortress",
         "requirement_en": "Title Requirement: Event\nThe unbreakable shield—the last line of defense.",
-        "color": 0
+        "color": 6
       },
       {
         "id": 3626,
@@ -8799,7 +8799,7 @@
         "name_kr": "맹렬한 그림자A",
         "name_en": "Vicious Shadows",
         "requirement_en": "Title Requirement: Event\nStrike in a flash, vanish like a shadow.",
-        "color": 0
+        "color": 6
       },
       {
         "id": 3627,
@@ -8807,7 +8807,7 @@
         "name_kr": "맹공G",
         "name_en": "Savage",
         "requirement_en": "Title Requirement: Event\nAttack is the best defense. Ruins follow in your wake.",
-        "color": 0
+        "color": 6
       },
       {
         "id": 3628,
@@ -8815,7 +8815,7 @@
         "name_kr": "주먹단련B",
         "name_en": "Trained Fists",
         "requirement_en": "Title Requirement: Event\nWhen fists make the argument—and win.",
-        "color": 0
+        "color": 6
       },
       {
         "id": 3629,
@@ -8823,7 +8823,7 @@
         "name_kr": "등 뒤의 그림자C",
         "name_en": "Behind the Shadow",
         "requirement_en": "Title Requirement: Event\nOnce you set your mark, even their breath betrays them.",
-        "color": 0
+        "color": 6
       },
       {
         "id": 3630,
@@ -8831,7 +8831,7 @@
         "name_kr": "약점 공략E",
         "name_en": "Target Openings",
         "requirement_en": "Title Requirement: Event\nOne blade, one opening. The weak point is all it takes.",
-        "color": 0
+        "color": 6
       },
       {
         "id": 3631,
@@ -8839,7 +8839,7 @@
         "name_kr": "배수의 진D",
         "name_en": "All-Out-Attack",
         "requirement_en": "Title Requirement: Event\nNo retreat. Only victory.",
-        "color": 0
+        "color": 6
       },
       {
         "id": 3632,
@@ -8847,7 +8847,7 @@
         "name_kr": "일격필살G",
         "name_en": "Deathblow",
         "requirement_en": "Title Requirement: Event\nOne chance, one strike. The fight ends here.",
-        "color": 0
+        "color": 6
       },
       {
         "id": 3633,
@@ -8855,7 +8855,7 @@
         "name_kr": "서열 정리E",
         "name_en": "Clearing Ranks",
         "requirement_en": "Title Requirement: Event\nStrength decides your place. Only the skilled rise above.",
-        "color": 0
+        "color": 6
       },
       {
         "id": 3635,
@@ -8943,7 +8943,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFe4e4e4>ST<PAOldColor><PAColor0xFFc0c0c0>ER<PAOldColor> <PAColor0xFF9c9c9c>WA<PAOldColor><PAColor0xFF787878>RR<PAOldColor><PAColor0xFF545454>IO<PAOldColor><PAColor0xFF424242>R<PAOldColor>s",
         "name_en": "MASTER WARRIOR",
         "requirement_en": "Title Requirement: Event\nFor the greatest Warrior of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3646,
@@ -8951,7 +8951,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd9d9d9>ST<PAOldColor><PAColor0xFFb3b3b3>ER<PAOldColor> <PAColor0xFF8e8e8e>RA<PAOldColor><PAColor0xFF686868>NG<PAOldColor><PAColor0xFF424242>ER<PAOldColor>s",
         "name_en": "MASTER RANGER",
         "requirement_en": "Title Requirement: Event\nFor the greatest Ranger of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3647,
@@ -8959,7 +8959,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFe4e4e4>ST<PAOldColor><PAColor0xFFc9c9c9>ER<PAOldColor> <PAColor0xFFaeaeae>SO<PAOldColor><PAColor0xFF939393>RC<PAOldColor><PAColor0xFF787878>ER<PAOldColor><PAColor0xFF5d5d5d>ES<PAOldColor><PAColor0xFF424242>S<PAOldColor>s",
         "name_en": "MASTER SORCERESS",
         "requirement_en": "Title Requirement: Event\nFor the greatest Sorceress of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3648,
@@ -8967,7 +8967,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd9d9d9>ST<PAOldColor><PAColor0xFFb3b3b3>ER<PAOldColor> <PAColor0xFF8e8e8e>GI<PAOldColor><PAColor0xFF686868>AN<PAOldColor><PAColor0xFF424242>T<PAOldColor>t",
         "name_en": "MASTER BERSERKER",
         "requirement_en": "Title Requirement: Event\nFor the greatest Berserker of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3649,
@@ -8975,7 +8975,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd9d9d9>ST<PAOldColor><PAColor0xFFb3b3b3>ER<PAOldColor> <PAColor0xFF8e8e8e>TA<PAOldColor><PAColor0xFF686868>ME<PAOldColor><PAColor0xFF424242>R<PAOldColor>s",
         "name_en": "MASTER TAMER",
         "requirement_en": "Title Requirement: Event\nFor the greatest Tamer of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3650,
@@ -8983,7 +8983,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd0d0d0>ST<PAOldColor><PAColor0xFFa1a1a1>ER<PAOldColor> <PAColor0xFF717171>MU<PAOldColor><PAColor0xFF424242>SA<PAOldColor>r",
         "name_en": "MASTER MUSA",
         "requirement_en": "Title Requirement: Event\nFor the greatest Musa of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3651,
@@ -8991,7 +8991,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd9d9d9>ST<PAOldColor><PAColor0xFFb3b3b3>ER<PAOldColor> <PAColor0xFF8e8e8e>MA<PAOldColor><PAColor0xFF686868>EH<PAOldColor><PAColor0xFF424242>WA<PAOldColor>r",
         "name_en": "MASTER MAEHWA",
         "requirement_en": "Title Requirement: Event\nFor the greatest Maehwa of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3652,
@@ -8999,7 +8999,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFe4e4e4>ST<PAOldColor><PAColor0xFFc0c0c0>ER<PAOldColor> <PAColor0xFF9c9c9c>VA<PAOldColor><PAColor0xFF787878>LK<PAOldColor><PAColor0xFF545454>YR<PAOldColor><PAColor0xFF424242>IE<PAOldColor>s",
         "name_en": "MASTER VALKYRIE",
         "requirement_en": "Title Requirement: Event\nFor the greatest Valkyrie of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3653,
@@ -9007,7 +9007,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFe4e4e4>ST<PAOldColor><PAColor0xFFc0c0c0>ER<PAOldColor> <PAColor0xFF9c9c9c>KU<PAOldColor><PAColor0xFF787878>NO<PAOldColor><PAColor0xFF545454>IC<PAOldColor><PAColor0xFF424242>HI<PAOldColor>t",
         "name_en": "MASTER KUNOICHI",
         "requirement_en": "Title Requirement: Event\nFor the greatest Kunoichi of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3654,
@@ -9015,7 +9015,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd9d9d9>ST<PAOldColor><PAColor0xFFb3b3b3>ER<PAOldColor> <PAColor0xFF8e8e8e>NI<PAOldColor><PAColor0xFF686868>NJ<PAOldColor><PAColor0xFF424242>A<PAOldColor>r",
         "name_en": "MASTER NINJA",
         "requirement_en": "Title Requirement: Event\nFor the greatest Ninja of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3655,
@@ -9023,7 +9023,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd9d9d9>ST<PAOldColor><PAColor0xFFb3b3b3>ER<PAOldColor> <PAColor0xFF8e8e8e>WI<PAOldColor><PAColor0xFF686868>ZA<PAOldColor><PAColor0xFF424242>RD<PAOldColor>t",
         "name_en": "MASTER WIZARD",
         "requirement_en": "Title Requirement: Event\nFor the greatest Wizard of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3656,
@@ -9031,7 +9031,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd9d9d9>ST<PAOldColor><PAColor0xFFb3b3b3>ER<PAOldColor> <PAColor0xFF8e8e8e>WI<PAOldColor><PAColor0xFF686868>TC<PAOldColor><PAColor0xFF424242>H<PAOldColor>r",
         "name_en": "MASTER WITCH",
         "requirement_en": "Title Requirement: Event\nFor the greatest Witch of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3657,
@@ -9039,7 +9039,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFe4e4e4>ST<PAOldColor><PAColor0xFFc0c0c0>ER<PAOldColor> <PAColor0xFF9c9c9c>ST<PAOldColor><PAColor0xFF787878>RI<PAOldColor><PAColor0xFF545454>KE<PAOldColor><PAColor0xFF424242>R<PAOldColor>s",
         "name_en": "MASTER STRIKER",
         "requirement_en": "Title Requirement: Event\nFor the greatest Striker of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3658,
@@ -9047,7 +9047,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd9d9d9>ST<PAOldColor><PAColor0xFFb3b3b3>ER<PAOldColor> <PAColor0xFF8e8e8e>MY<PAOldColor><PAColor0xFF686868>ST<PAOldColor><PAColor0xFF424242>IC<PAOldColor>s",
         "name_en": "MASTER MYSTIC",
         "requirement_en": "Title Requirement: Event\nFor the greatest Mystic of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3659,
@@ -9055,7 +9055,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd0d0d0>ST<PAOldColor><PAColor0xFFa1a1a1>ER<PAOldColor> <PAColor0xFF717171>LA<PAOldColor><PAColor0xFF424242>HN<PAOldColor>q",
         "name_en": "MASTER LAHN",
         "requirement_en": "MASTER LAHN",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3660,
@@ -9063,7 +9063,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd9d9d9>ST<PAOldColor><PAColor0xFFb3b3b3>ER<PAOldColor> <PAColor0xFF8e8e8e>AR<PAOldColor><PAColor0xFF686868>CH<PAOldColor><PAColor0xFF424242>ER<PAOldColor>r",
         "name_en": "MASTER ARCHER",
         "requirement_en": "Title Requirement: Event\nFor the greatest Archer of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3661,
@@ -9071,7 +9071,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFe4e4e4>ST<PAOldColor><PAColor0xFFc9c9c9>ER<PAOldColor> <PAColor0xFFaeaeae>DA<PAOldColor><PAColor0xFF939393>RK<PAOldColor> <PAColor0xFF787878>KN<PAOldColor><PAColor0xFF5d5d5d>IG<PAOldColor><PAColor0xFF424242>HT<PAOldColor>u",
         "name_en": "MASTER DARK KNIGHT",
         "requirement_en": "Title Requirement: Event\nFor the greatest Dark Knight of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3662,
@@ -9079,7 +9079,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd0d0d0>ST<PAOldColor><PAColor0xFFa1a1a1>ER<PAOldColor> <PAColor0xFF717171>SH<PAOldColor><PAColor0xFF424242>AI<PAOldColor>s",
         "name_en": "MASTER SHAI",
         "requirement_en": "Title Requirement: Event\nFor the greatest Shai of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3663,
@@ -9087,7 +9087,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFe4e4e4>ST<PAOldColor><PAColor0xFFc0c0c0>ER<PAOldColor> <PAColor0xFF9c9c9c>GU<PAOldColor><PAColor0xFF787878>AR<PAOldColor><PAColor0xFF545454>DI<PAOldColor><PAColor0xFF424242>AN<PAOldColor>s",
         "name_en": "MASTER GUARDIAN",
         "requirement_en": "Title Requirement: Event\nFor the greatest Guardian of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3664,
@@ -9095,7 +9095,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFe4e4e4>ST<PAOldColor><PAColor0xFFc9c9c9>ER<PAOldColor> <PAColor0xFFaeaeae>HA<PAOldColor><PAColor0xFF939393>SH<PAOldColor><PAColor0xFF787878>AS<PAOldColor><PAColor0xFF5d5d5d>HI<PAOldColor><PAColor0xFF424242>N<PAOldColor>s",
         "name_en": "MASTER HASHASHIN",
         "requirement_en": "Title Requirement: Event\nFor the greatest Hashashin of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3665,
@@ -9103,7 +9103,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd0d0d0>ST<PAOldColor><PAColor0xFFa1a1a1>ER<PAOldColor> <PAColor0xFF717171>NO<PAOldColor><PAColor0xFF424242>VA<PAOldColor>r",
         "name_en": "MASTER NOVA",
         "requirement_en": "MASTER NOVA",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3666,
@@ -9111,7 +9111,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd0d0d0>ST<PAOldColor><PAColor0xFFa1a1a1>ER<PAOldColor> <PAColor0xFF717171>SA<PAOldColor><PAColor0xFF424242>GE<PAOldColor>s",
         "name_en": "MASTER SAGE",
         "requirement_en": "Title Requirement: Event\nFor the greatest Sage of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3667,
@@ -9119,7 +9119,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFe4e4e4>ST<PAOldColor><PAColor0xFFc0c0c0>ER<PAOldColor> <PAColor0xFF9c9c9c>CO<PAOldColor><PAColor0xFF787878>RS<PAOldColor><PAColor0xFF545454>AI<PAOldColor><PAColor0xFF424242>R<PAOldColor>s",
         "name_en": "MASTER CORSAIR",
         "requirement_en": "Title Requirement: Event\nFor the greatest Corsair of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3668,
@@ -9127,7 +9127,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFe4e4e4>ST<PAOldColor><PAColor0xFFc0c0c0>ER<PAOldColor> <PAColor0xFF9c9c9c>DR<PAOldColor><PAColor0xFF787878>AK<PAOldColor><PAColor0xFF545454>AN<PAOldColor><PAColor0xFF424242>IA<PAOldColor>u",
         "name_en": "MASTER DRAKANIA",
         "requirement_en": "Title Requirement: Event\nFor the greatest Drakania of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3669,
@@ -9135,7 +9135,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd9d9d9>ST<PAOldColor><PAColor0xFFb3b3b3>ER<PAOldColor> <PAColor0xFF8e8e8e>WO<PAOldColor><PAColor0xFF686868>OS<PAOldColor><PAColor0xFF424242>A<PAOldColor>r",
         "name_en": "MASTER WOOSA",
         "requirement_en": "Title Requirement: Event\nFor the greatest Woosa of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3670,
@@ -9143,7 +9143,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd9d9d9>ST<PAOldColor><PAColor0xFFb3b3b3>ER<PAOldColor> <PAColor0xFF8e8e8e>MA<PAOldColor><PAColor0xFF686868>EG<PAOldColor><PAColor0xFF424242>U<PAOldColor>r",
         "name_en": "MASTER MAEGU",
         "requirement_en": "Title Requirement: Event\nFor the greatest Maegu of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3671,
@@ -9151,7 +9151,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFe4e4e4>ST<PAOldColor><PAColor0xFFc0c0c0>ER<PAOldColor> <PAColor0xFF9c9c9c>SC<PAOldColor><PAColor0xFF787878>HO<PAOldColor><PAColor0xFF545454>LA<PAOldColor><PAColor0xFF424242>R<PAOldColor>t",
         "name_en": "MASTER SCHOLAR",
         "requirement_en": "Title Requirement: Event\nFor the greatest Scholar of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3672,
@@ -9159,7 +9159,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd0d0d0>ST<PAOldColor><PAColor0xFFa1a1a1>ER<PAOldColor> <PAColor0xFF717171>DO<PAOldColor><PAColor0xFF424242>SA<PAOldColor>s",
         "name_en": "MASTER DOSA",
         "requirement_en": "Title Requirement: Event\nFor the greatest Dosa of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3673,
@@ -9167,7 +9167,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFe4e4e4>ST<PAOldColor><PAColor0xFFc0c0c0>ER<PAOldColor> <PAColor0xFF9c9c9c>DE<PAOldColor><PAColor0xFF787878>AD<PAOldColor><PAColor0xFF545454>EY<PAOldColor><PAColor0xFF424242>E<PAOldColor>t",
         "name_en": "MASTER DEADEYE",
         "requirement_en": "Title Requirement: Event\nFor the greatest Deadeye of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3674,
@@ -9175,7 +9175,7 @@
         "name_kr": "<PAColor0xFFffffff>MA<PAOldColor><PAColor0xFFd9d9d9>ST<PAOldColor><PAColor0xFFb3b3b3>ER<PAOldColor> <PAColor0xFF8e8e8e>WU<PAOldColor><PAColor0xFF686868>KO<PAOldColor><PAColor0xFF424242>NG<PAOldColor>r",
         "name_en": "MASTER WUKONG",
         "requirement_en": "Title Requirement: Event\nFor the greatest Wukong of Black Desert who has claimed the glory of first place in the Master Class PvP tournament.",
-        "color": 0
+        "color": 19
       },
       {
         "id": 3677,
@@ -9207,7 +9207,7 @@
         "name_kr": "올비아 아카데미 길잡이H",
         "name_en": "Olvia Academy Guide",
         "requirement_en": "Title Requirement: Event\nThe one who points lost feet in the right direction",
-        "color": 0
+        "color": 13
       },
       {
         "id": 3682,
@@ -9767,7 +9767,7 @@
         "name_kr": "센터=",
         "name_en": "The Center",
         "requirement_en": "Title Requirement: Event\nA title to celebrate the Spotlight Outfit's release",
-        "color": 0
+        "color": 18
       },
       {
         "id": 3762,
@@ -9775,7 +9775,7 @@
         "name_kr": "엔딩 요정=",
         "name_en": "Ending Fairy",
         "requirement_en": "Title Requirement: Event\nA title to celebrate the Spotlight Outfit's release",
-        "color": 0
+        "color": 18
       },
       {
         "id": 3763,
@@ -9783,7 +9783,7 @@
         "name_kr": "최애=",
         "name_en": "Top Bias",
         "requirement_en": "Title Requirement: Event\nA title to celebrate the Spotlight Outfit's release",
-        "color": 0
+        "color": 18
       },
       {
         "id": 3764,
@@ -9791,7 +9791,7 @@
         "name_kr": "입덕 멤버=",
         "name_en": "Stan Starter",
         "requirement_en": "Title Requirement: Event\nA title to celebrate the Spotlight Outfit's release",
-        "color": 0
+        "color": 18
       },
       {
         "id": 3765,
@@ -9799,7 +9799,7 @@
         "name_kr": "사막의 밤?",
         "name_en": "Desert Night",
         "requirement_en": "Title Requirement: Event\nA nameless night settles upon the sands of eternity",
-        "color": 0
+        "color": 11
       },
       {
         "id": 3766,
@@ -14769,7 +14769,7 @@
         "name_kr": "용사C",
         "name_en": "Trooper",
         "requirement_en": "Title Requirement: Node War\nFor your invaluable efforts in the Node War.",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1135,
@@ -14777,7 +14777,7 @@
         "name_kr": "사령관C",
         "name_en": "Commander",
         "requirement_en": "Title Requirement: Node War\nFor your excellent performance in the Node War.",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1136,
@@ -14785,7 +14785,7 @@
         "name_kr": "결전병기B",
         "name_en": "Lethal Weapon",
         "requirement_en": "Title Requirement: Node War\nFor your best performance in the Node War.",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1137,
@@ -14793,7 +14793,7 @@
         "name_kr": "돌격용사G",
         "name_en": "Stormtrooper",
         "requirement_en": "Title Requirement: Conquest War\nFor your invaluable efforts in the Conquest (Siege) War.",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1138,
@@ -14801,7 +14801,7 @@
         "name_kr": "특공 사령관G",
         "name_en": "Special Force Commander",
         "requirement_en": "Title Requirement: Conquest War\nFor your excellent performance in the Conquest (Siege) War.",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1139,
@@ -14809,7 +14809,7 @@
         "name_kr": "최종병기F",
         "name_en": "Ultimate Weapon",
         "requirement_en": "Title Requirement: Conquest War\nFor your best performance in the Conquest (Siege) War.",
-        "color": 0
+        "color": 1
       },
       {
         "id": 1152,
@@ -16697,7 +16697,7 @@
         "name_kr": "해전 영웅G",
         "name_en": "Naval Hero",
         "requirement_en": "Title Requirement: Blue Battlefield\nFor your invaluable efforts in the Blue Battlefield.",
-        "color": 0
+        "color": 1
       },
       {
         "id": 3609,
@@ -16705,7 +16705,7 @@
         "name_kr": "함대 사령관G",
         "name_en": "Fleet Commander",
         "requirement_en": "Title Requirement: Blue Battlefield\nFor your excellent performance in the Blue Battlefield.",
-        "color": 0
+        "color": 1
       },
       {
         "id": 3610,
@@ -16713,7 +16713,7 @@
         "name_kr": "해전병기F",
         "name_en": "Naval Weapon",
         "requirement_en": "Title Requirement: Blue Battlefield\nFor your best performance in the Blue Battlefield.",
-        "color": 0
+        "color": 1
       },
       {
         "id": 3771,
@@ -22309,7 +22309,7 @@
         "name_kr": "낚시의 신<",
         "name_en": "God of Fishing",
         "requirement_en": "Title Requirement: Complete Quest\nI can fish anything!",
-        "color": 0
+        "color": 1
       },
       {
         "id": 2787,
