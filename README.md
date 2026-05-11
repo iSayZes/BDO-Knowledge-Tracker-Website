@@ -7,12 +7,12 @@ An interactive map and knowledge tracker for Black Desert Online.
 <!-- stats:start -->
 ## Location Coverage
 
-**8,942 / 12,087** knowledge entries have map pins &nbsp;·&nbsp; **74.0% coverage**
+**8,953 / 12,087** knowledge entries have map pins &nbsp;·&nbsp; **74.1% coverage**
 
 | Category | Mapped | Total | Coverage |
 | --- | ---: | ---: | ---: |
 | Characters | 2,035 | 2,296 | 88.6% |
-| Topography | 461 | 529 | 87.1% |
+| Topography | 472 | 529 | 89.2% |
 | Sea | 78 | 84 | 92.9% |
 | Ecology | 92 | 1,262 | 7.3% |
 | Adventure Logs | 3,117 | 4,258 | 73.2% |
@@ -23,7 +23,7 @@ An interactive map and knowledge tracker for Black Desert Online.
 
 ## Conversation Coverage
 
-- **Total Knowledge Topics:** 31
-- **Total Amity NPCs:** 3
+- **Total Knowledge Topics:** 62
+- **Total Amity NPCs:** 5
 
 <!-- stats:end -->

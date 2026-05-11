@@ -458,6 +458,102 @@
         "duration": 2,
         "favorBonus": 2
       }
+    },
+    {
+      "id": 6161,
+      "name": "Slum in the City",
+      "interest": 15,
+      "favorMin": 39,
+      "favorMax": 87
+    },
+    {
+      "id": 6501,
+      "name": "First Step to Becoming a Merchant",
+      "interest": 25,
+      "favorMin": 30,
+      "favorMax": 39
+    },
+    {
+      "id": 6502,
+      "name": "Respectable Business Ethics",
+      "interest": 12,
+      "favorMin": 33,
+      "favorMax": 40,
+      "combo": {
+        "triggerAfterTurns": 2,
+        "duration": 4,
+        "favorBonus": 3
+      }
+    },
+    {
+      "id": 6503,
+      "name": "Economy of the Working Classes",
+      "interest": 35,
+      "favorMin": 31,
+      "favorMax": 36
+    },
+    {
+      "id": 6504,
+      "name": "God of Gold: Merchant's Trick",
+      "interest": 2,
+      "favorMin": 40,
+      "favorMax": 59
+    },
+    {
+      "id": 6505,
+      "name": "Currency for Whom?",
+      "interest": 15,
+      "favorMin": 45,
+      "favorMax": 46
+    },
+    {
+      "id": 6507,
+      "name": "Age of Trading",
+      "interest": 4,
+      "favorMin": 41,
+      "favorMax": 55
+    },
+    {
+      "id": 6508,
+      "name": "Complacency is a Sin.",
+      "interest": 31,
+      "favorMin": 36,
+      "favorMax": 44
+    },
+    {
+      "id": 6509,
+      "name": "Can Monsters Be Safely Controlled??",
+      "interest": 20,
+      "favorMin": 45,
+      "favorMax": 50
+    },
+    {
+      "id": 6598,
+      "name": "Stepping Stone to a Higher Class",
+      "interest": 1,
+      "favorMin": 44,
+      "favorMax": 57
+    },
+    {
+      "id": 6599,
+      "name": "Bank of Hope",
+      "interest": 33,
+      "favorMin": 35,
+      "favorMax": 41
+    },
+    {
+      "id": 4333,
+      "name": "Calpheon Giant Bee",
+      "interest": 2,
+      "favorMin": 40,
+      "favorMax": 47
+    },
+    {
+      "id": 6628,
+      "name": "Alchemist of Calpheon Castle",
+      "interest": 24,
+      "favorMin": 30,
+      "favorMax": 37
     }
   ]
 }

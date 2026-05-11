@@ -4,19 +4,11 @@
     {
       "id": 113,
       "name": "Amerigo",
+      "horoscope": "treant owl",
       "interestMin": 20,
       "interestMax": 24,
       "favorMin": 27,
       "favorMax": 29,
-      "slots": 4,
-      "triggerOrder": [
-        0,
-        1,
-        2,
-        3,
-        1,
-        2
-      ],
       "conversationItemIds": [
         102,
         103,
@@ -54,18 +46,11 @@
     {
       "id": 496,
       "name": "Cleia",
+      "horoscope": "elephant",
       "interestMin": 20,
       "interestMax": 23,
       "favorMin": 25,
       "favorMax": 29,
-      "slots": 5,
-      "triggerOrder": [
-        0,
-        1,
-        2,
-        3,
-        4
-      ],
       "conversationItemIds": [
         102,
         103,
@@ -130,14 +115,6 @@
       "interestMax": 25,
       "favorMin": 26,
       "favorMax": 30,
-      "slots": 5,
-      "triggerOrder": [
-        0,
-        1,
-        2,
-        3,
-        4
-      ],
       "conversationItemIds": [
         119,
         137,
@@ -190,19 +167,11 @@
     {
       "id": 112,
       "name": "Dora Fonti",
+      "horoscope": "hammer",
       "interestMin": 32,
       "interestMax": 33,
       "favorMin": 27,
       "favorMax": 30,
-      "slots": 6,
-      "triggerOrder": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
       "conversationItemIds": [
         4024,
         6059,
@@ -262,6 +231,30 @@
         "expectedMaxFavor": 43.6121,
         "expectedSuccesses": 4.721
       }
+    },
+    {
+      "id": 111,
+      "name": "Melissa Brady",
+      "horoscope": "black dragon",
+      "interestMin": 32,
+      "interestMax": 34,
+      "favorMin": 30,
+      "favorMax": 33,
+      "conversationItemIds": [
+        6161,
+        6501,
+        6502,
+        6503,
+        6504,
+        6505,
+        6507,
+        6508,
+        6509,
+        6598,
+        6599,
+        4333,
+        6628
+      ]
     }
   ]
 }
